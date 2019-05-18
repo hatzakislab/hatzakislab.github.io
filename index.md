@@ -11,3 +11,11 @@ Our groups main research interest is to obtain a fundamental understanding of th
 In spite of their immense importance, current understanding on enzymatic behaviour relies primarily on static pictures and ensemble functional assays and thus dynamic characteristics remain masked due to ensemble averaging. We therefore employ single molecule techniques to interrogate the behaviour of individual enzymes and elicit a detailed understanding of the molecular level details underlying enzymatic function and regulation. Using state of the art fluorescent microscopy techniques, we investigate how the complex protein conformational dynamics facilitate catalysis, as well as the existence and life times of enzymatic functional states and how point mutations, posttranslational modifications or effectors, redistribute them.
 
 Advancing our understanding of functional protein dynamics will lead both to the design of novel pharmaceutics and the in silico design of novel biocatalysts with tailor made functionalities for biotechnological applications.
+
+### Facilities
+The group is equipped with everything needed to perform state of the art experiments on a variaty of protein, enzyme and related experiments. Most experiments in the group are build around fluorescent microscopy, performed on one (or both) of two microscopes:
+
+- An IX81 Olympus confocal microscope
+- An Olympus Total Internal Reflection Fluorescence microscope (TIRFm) set up for super resolution microscopy
+
+Additionally, the state of the art Olympus SpinSR10 (Spinning Disk Confocal Super Resolution Microscope) will be installed in the lab primo 2019, thus allowing us to extend our research to live cells.
