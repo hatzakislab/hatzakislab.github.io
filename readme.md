@@ -1,6 +1,6 @@
 ## Welcome to the development page of the Hatzakis Group website
 
-For the actual website, go to: http://hatzakis.github.io
+For the actual website, go to: https://hatzakislab.github.io
 
 ## Editing the existing pages
 
