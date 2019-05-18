@@ -100,8 +100,9 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #314f96;
-  border-bottom: 1px solid #294481;
+  background: #404040;
+  border-width: 0px;
+  /*  border-bottom: 1px solid #404040;*/
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -132,10 +133,12 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    padding: 0px 0; /* -- remove extra padding to avoid shrinking navbar (kind of useless) */
+    /* -- remove navbar transition
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
+    */
   }
 
   .navbar-custom.top-nav-short {
