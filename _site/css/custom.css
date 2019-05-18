@@ -5,8 +5,10 @@ body {
   color: #404040;
   position: relative;
   background: #FFF;
-  /*background-image: url(../img/background.png);
-  background-repeat: no-repeat;*/
+}
+
+.intro-header .page-heading h1 {
+  font-size: 60px;
 }
 
 .avatar-img-navbar {
@@ -50,4 +52,13 @@ body {
   -moz-border-radius: 50%;
   border-radius: 50%;
   border: 1px solid #777;
+}
+
+/* --- Funding page --- */
+.funding {
+    width: 180%;
+    min-width: 50%;
+    min-height: 370px;
+    margin-left: -20%;
+    align-items: center;
 }
