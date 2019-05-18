@@ -1,0 +1,22 @@
+.avatar-img-navbar {
+  border-radius: 50%;
+  transition: border-radius 0.5s cubic-bezier(.45,.05,.55,.95);
+  max-height: 50px;
+  float: left;
+}
+
+.top-nav-short .avatar-img-navbar {
+  border-radius: 0%;
+}
+
+.navbar > .container-fluid .navbar-brand {
+   margin-left: 0px;
+ }
+
+.navbar-custom .nav li a {
+  letter-spacing: 0.5px;
+}
+
+.nav > li > a {
+  padding: 10px 12px;
+}
