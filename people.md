@@ -1,10 +1,9 @@
 ---
 title: People
-subtitle: Who we are
 
 pi:
 - name: Nikos S Hatzakis
-  img: /img/people/nikos-hatzakis.jpeg
+  img: /img/people/nikos-hatzakis.jpg
   email: mailto:hatzakis@nano.ku.dk
   twitter: https://twitter.com/nhatzakis
   linkedin: https://www.linkedin.com/in/nikoshatzakis
@@ -63,6 +62,10 @@ current-members:
   img: /img/people/blank.png
   desc: Master Student
 
+- name: Jacob Kæstel-Hansen
+  img: /img/people/blank.png
+  desc: Master Student
+
 - name: Henrik Pinholt
   img: /img/people/blank.png
   desc: Bachelor Student
@@ -73,16 +76,14 @@ previous-members:
 <!--
 add descriptions with desc:
 -->
-
-## Principal Investigator
-
+<h2 style="text-align:center;">Principal Investigator</h2>
 {% include list-circles.html items=page.pi %}
 
-## Current members
+Nikos Hatzakis' main research interest is to obtain a fundamental understanding of the parameters underlying regulation of enzymatic function. Enzymes regulate a plethora of vital cellular processes and aberration in their function can result in countless disease states. They are also essential components in multiple industrial applications including drug synthesis and detergent development. Harnessing the biomolecular insights of current single molecule experiments allows us to unmask the structural and functional dynamics of major drug metabolism enzymes. Understanding how these enzymes operate paves the way for the design of novel pharmaceutics.
 
+## Current members
 {% include list-circles.html items=page.current-members %}
 
 ## Previous members
-
 Under construction...
 {% include list-circles.html items=page.previous-members %}

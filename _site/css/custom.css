@@ -1,3 +1,14 @@
+body {
+  /* font-family: 'Lora', 'Times New Roman', serif; */
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  color: #404040;
+  position: relative;
+  background: #FFF;
+  /*background-image: url(../img/background.png);
+  background-repeat: no-repeat;*/
+}
+
 .avatar-img-navbar {
   border-radius: 50%;
   transition: border-radius 0.5s cubic-bezier(.45,.05,.55,.95);
@@ -15,8 +26,28 @@
 
 .navbar-custom .nav li a {
   letter-spacing: 0.5px;
+  background: #404040;
+  border-width: 0px;
 }
 
 .nav > li > a {
   padding: 15px 12px;
+}
+
+
+/* --- Lists of circles --- */
+@media only screen and (min-width: 1200px) {
+  .list-circles {
+    width: 100%;
+    margin-left: 0%;
+  }
+}
+
+.list-circles-item .item-img {
+  max-width: 150px;
+  height: 150px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 1px solid #777;
 }

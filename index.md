@@ -1,8 +1,7 @@
 ---
-title: Welcome!
+title: Hatzakis Group
 layout: page
 ---
-
 You've just found the official website for the Hatzakis research group at [University of Copenhagen](https://www.ku.dk/english/).
 
 ### Intro
