@@ -12,63 +12,63 @@ pi:
 current-members:
 - name: Condruat Ignea
   img: /img/people/blank.png
-  desc: Marie Curie Post Doc Fellow
+  desc: Marie Curie postdoc fellow
 
 - name: Min Zhang
   img: /img/people/blank.png
-  desc: Lundbeck Foundation Post Doc Fellow
+  desc: Lundbeck Foundation postdoc fellow
 
 - name: Pradeep Kumar
   img: /img/people/blank.png
-  desc:
+  desc: Postdoc fellow
 
 - name: Matias Moses
   img: /img/people/blank.png
-  desc: Industrial Post Doc, Novozymes
+  desc: Industrial postdoc, Novozymes
 
 - name: Johannes Thomsen
   img: /img/people/blank.png
-  desc: PhD Student
+  desc: PhD student
 
 - name: Simon Bo Jensen
   img: /img/people/blank.png
-  desc: PhD Student
+  desc: PhD student
 
 - name: Søren Schmidt-Rasmussen Nielsen
   img: /img/people/blank.png
-  desc: PhD Student
+  desc: PhD student
 
-- name: Camilla Dyngbo
+- name: Camilla Dyngbo Thorlaksen
   img: /img/people/blank.png
-  desc: PhD Student, Novo Nordisk STAR programme
+  desc: PhD student, Novo Nordisk STAR programme
 
 - name: Mette Galsgaard Malle
   img: /img/people/blank.png
-  desc: PhD Student
+  desc: PhD student
 
 - name: Magnus Sletfjerding Berg
   img: /img/people/blank.png
-  desc: PhD Student
+  desc: PhD student
 
 - name: Amalie Sigersen Kallenbach
   img: /img/people/blank.png
-  desc: Master Student
+  desc: Master student
 
 - name: Philip Mark Lund
   img: /img/people/blank.png
-  desc: Master Student
+  desc: Master student
 
 - name: Freja Jacobsen Bohr
   img: /img/people/blank.png
-  desc: Master Student
+  desc: Master student
 
 - name: Jacob Kæstel-Hansen
   img: /img/people/blank.png
-  desc: Master Student
+  desc: Master student
 
 - name: Henrik Pinholt
   img: /img/people/blank.png
-  desc: Bachelor Student
+  desc: Bachelor student
 
 previous-members:
 ---

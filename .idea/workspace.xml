@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d00b23ae-c01f-4d1c-a951-30c34d373c50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/_site/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/funding/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/funding/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/funding/carlsberg.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/funding/carlsberg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/funding/inno.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/funding/inno.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/funding/lundbeck.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/funding/lundbeck.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/funding/mariecurie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/funding/novonordisk.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/funding/novonordisk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/funding/novozymes.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/funding/novozymes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/funding/villum.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/funding/villum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/people/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/funding.md" beforeDir="false" afterPath="$PROJECT_DIR$/funding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/funding/carlsberg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/funding/carlsberg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/funding/inno.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/funding/inno.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/funding/lundbeck.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/funding/lundbeck.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/funding/mariecurie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/funding/novonordisk.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/funding/novonordisk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/funding/novozymes.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/funding/novozymes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/funding/villum.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/funding/villum.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/people.md" beforeDir="false" afterPath="$PROJECT_DIR$/people.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funding.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="420">
+                <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/people.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="295">
+                <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+                <folding>
+                  <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>height=&quot;</find>
+      <find>150</find>
+      <find>carlsberg</find>
+      <find>padding:20px</find>
+      <find>car</find>
+      <find>height=&quot;100&quot;</find>
+      <find>width=&quot;200&quot;</find>
+      <find>10px</find>
+      <find>style=&quot;padding:5px&quot;</find>
+      <find>flex-item</find>
+      <find>image-container</find>
+      <find>&quot;card&quot;</find>
+      <find>centered</find>
+      <find>width=&quot;300&quot;</find>
+      <find>post doc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>100</replace>
+      <replace>padding:10px</replace>
+      <replace>width=&quot;100&quot;</replace>
+      <replace>width=&quot;300&quot;&quot;</replace>
+      <replace>5px</replace>
+      <replace />
+      <replace>image-container</replace>
+      <replace>centered</replace>
+      <replace>&quot;centered&quot;</replace>
+      <replace>item</replace>
+      <replace>postdoc</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/software.md" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+        <option value="$PROJECT_DIR$/funding.md" />
+        <option value="$PROJECT_DIR$/people.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/hatzakisgroup.github.io.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/markdown-exported-files.xml" />
+        <option value="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
+        <option value="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="63" />
+    <option name="y" value="23" />
+    <option name="width" value="1224" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hatzakisgroup.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hatzakisgroup.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hatzakisgroup.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hatzakisgroup.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hatzakisgroup.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hatzakisgroup.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="funding" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="hatzakisgroup.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/GitHub/hatzakisgroup.github.io" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="hatzakisgroup.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/GitHub/hatzakisgroup.github.io" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="hatzakisgroup.github.io" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Documents/GitHub/hatzakisgroup.github.io" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="img" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="funding" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d00b23ae-c01f-4d1c-a951-30c34d373c50" name="Default Changelist" comment="" />
+      <created>1558259947268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558259947268</updated>
+      <workItem from="1558259951758" duration="623000" />
+      <workItem from="1558260627445" duration="96000" />
+      <workItem from="1558260842186" duration="396000" />
+      <workItem from="1558261262838" duration="234000" />
+      <workItem from="1558261511003" duration="794000" />
+      <workItem from="1558291067168" duration="36000" />
+      <workItem from="1558291116553" duration="456000" />
+      <workItem from="1558291657563" duration="64000" />
+      <workItem from="1558291734444" duration="407000" />
+      <workItem from="1558292284908" duration="10176000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13282000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="63" y="23" width="1224" height="977" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24754901" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/funding/novonordisk.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/funding/lundbeck.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/funding/inno.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software.asdfas" />
+    <entry file="file://$PROJECT_DIR$/software.md" />
+    <entry file="file://$PROJECT_DIR$/img/funding/carlsberg.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funding.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="420">
+            <caret line="20" column="4" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/people.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="295">
+            <caret line="45" column="12" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+            <folding>
+              <element signature="n#style#0;n#h2#0;n#!!top" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
