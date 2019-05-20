@@ -2,6 +2,16 @@
 title: Hatzakis Group
 layout: page
 ---
+
+<!--Some code to force clearing the cache for users, as the site is updated too frequently during development-->
+
+<meta http-equiv="cache-control" content="max-age=0" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="0" />
+<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
+<meta http-equiv="pragma" content="no-cache" />
+
+
 You've just found the official website for the Hatzakis research group at [University of Copenhagen](https://www.ku.dk/english/).
 
 ### Intro

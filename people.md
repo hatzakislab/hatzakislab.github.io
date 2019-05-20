@@ -46,7 +46,7 @@ current-members:
   img: /img/people/blank.png
   desc: PhD student
 
-- name: Magnus Sletfjerding Berg
+- name: Magnus Berg Sletfjerding
   img: /img/people/blank.png
   desc: PhD student
 
