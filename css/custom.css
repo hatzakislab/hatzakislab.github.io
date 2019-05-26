@@ -35,8 +35,20 @@ body {
     border-width: 0;
 }
 
+.navbar-custom .navbar-collapse {
+    border-color: #404040;
+}
+
 .nav > li > a {
     padding: 15px 12px;
+}
+
+.navbar-custom .navbar-toggle {
+    border-color: #626262;
+}
+
+.navbar-custom .navbar-toggle:hover, .navbar-custom .navbar-toggle:focus {
+    background: #626262;
 }
 
 
@@ -54,7 +66,8 @@ body {
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     border-radius: 50%;
-    border: 1px solid #777;
+    border: 1px solid #e3e3e3;
+
 }
 
 /* --- Funding page --- */
@@ -72,4 +85,11 @@ body {
     grid-template-rows: repeat(1, 5vw);
     grid-gap: 15px;
     grid-row-gap: 100px;
+}
+
+/* --- Footer --- */
+.beautiful-jekyll-footer .footer {
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 0;
 }

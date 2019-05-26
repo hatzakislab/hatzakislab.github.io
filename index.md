@@ -12,7 +12,7 @@ layout: page
 <meta http-equiv="pragma" content="no-cache" />
 
 
-You've just found the official website for the Hatzakis research group at [University of Copenhagen](https://www.ku.dk/english/).
+You've just found the official website for the Hatzakis research group at [University of Copenhagen](https://www.ku.dk/english/){:target="_blank"}.
 
 ### Intro
 Our groups main research interest is to obtain a fundamental understanding of the parameters underlying regulation of enzymatic function. Enzymes regulate a plethora of vital cellular processes and aberration in their function can result in countless disease states. They are also essential components in multiple industrial applications including drug synthesis and detergent development. Harnessing the biomolecular insights of current single molecule experiments allows us to unmask the structural and functional dynamics of major drug metabolism enzymes. Understanding how these enzymes operate paves the way for the design of novel pharmaceutics.

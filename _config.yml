@@ -19,10 +19,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: "Hatzakis Group"
-  email: "nanoenzymehatzakis@gmail.com"
   #github: yourlink
-  #facebook: yourname
-  #twitter: yourname
 
 # Select which links to show in the footer
 footer-links-active:
