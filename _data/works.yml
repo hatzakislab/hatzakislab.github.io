@@ -1,0 +1,31 @@
+# All covers must be 16x9 format
+# Use large- prefix to show more in-depth information
+# Add a suitable background color for transparent images
+
+- order: 001
+  id: "project1"
+  name: "Single Molecule FRET"
+  photo: "fret.png"
+  description: "Adaptive immunity in bacteria is accomplished by the CRISPR system, and CRISPR-associated proteins (Cas). Proteins coupled with RNA are guided by this system to recognize and cleave foreign genetic material. As such, it’s also a powerful method for genome editing, and is receiving lot of bio technical and medical attention currently. By using single molecule FRET we can study this system in greater detail."
+  color: rgba(0, 109, 212, 0.03)
+
+- order: 002
+  id: "project2"
+  name: "Project Title 2"
+  photo: "16x9-placeholder.png"
+  description: "Project description here!"
+  color: rgba(0, 188, 212, 0.03)
+
+- order: 003
+  id: "project3"
+  name: "Project Title 3"
+  photo: "16x9-placeholder.png"
+  description: "Project description here!"
+  color: rgba(0, 188, 212, 0.03)
+
+- order: 004
+  id: "project4"
+  name: "Project Title 4"
+  photo: "16x9-placeholder.png"
+  description: "Project description here!"
+  color: rgba(0, 188, 212, 0.03)

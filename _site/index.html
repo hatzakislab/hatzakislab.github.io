@@ -1,283 +1,733 @@
 <!DOCTYPE html>
 <html lang="en">
-  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
-  <head>
-  <meta charset="utf-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<!-- Head -->
+<head>
 
-  <title>Hatzakis Group</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description"
+          content="Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search resu...">
+    <meta name="author" content="">
+    <meta name="keywords" content="">
 
-  <meta name="author" content="Hatzakis Group" />
-  
-  
+    <title>Hatzakis Group</title>
 
-  <link rel="alternate" type="application/rss+xml" title="Hatzakis Group - Official website for the Hatzakis Group at University of Copenhagen" href="/feed.xml" />
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-  
-    
-      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" />
-    
-      
-  
-  
-    
-      <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    
-      <link rel="stylesheet" href="/css/bootstrap-social.css" />
-    
-      <link rel="stylesheet" href="/css/main.css" />
-    
-      <link rel="stylesheet" href="/css/custom.css" />
-    
-    
-  
-  
-    
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
-    
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
-    
-  
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="/assets/main.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
 
     
-  
-  
 
-  
-
-  <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="Hatzakis Group" />
-  <meta property="og:type" content="website" />
-  
-  <meta property="og:url" content="http://localhost:4000/" />
-  
-  
-  <meta property="og:image" content="http://localhost:4000/img/avatar/favicon-white.png" />
-  
-  
-  <!-- Twitter summary cards -->
-  <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@" />
-  <meta name="twitter:creator" content="@" />
-  <meta name="twitter:title" content="Hatzakis Group" />
-  <meta name="twitter:description" content="You've just found the official website for the Hatzakis research group at [University of Copenhagen](https://www.ku.dk/english/){:target=&quot;_blank&quot;}. ### Intro Our groups main research interest is to obtain a fundamental understanding of the parameters underlying regulation of enzymatic function. Enzymes regulate a plethora of vital cellular processes and aberration in their function can..." />
-  
-  <meta name="twitter:image" content="http://localhost:4000/img/avatar/favicon-white.png" />
-  
-  
 </head>
 
+<body id="page-top" class="index">
+<!-- Navigation -->
+<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+    <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+            </button>
+            <a class="navbar-brand page-scroll disabled" href="#page-top">
+                Hatzakis Group
+            </a>
+        </div>
 
-  <body>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li>
+                    <a class="page-scroll" href="#intro">Intro</a>
+                </li>
 
-    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
-  <div class="container-fluid">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      
-        <a href="http://localhost:4000">
-          <img class="avatar-img-navbar" src="/img/avatar/favicon-white.png">
-        </a>
-      
-      <a class="navbar-brand" href="http://localhost:4000">Hatzakis Group</a>
+                <li>
+                    <a class="page-scroll" href="#portfolio">Projects</a>
+                </li>
+
+                <li>
+                    <a class="page-scroll" href="#team">Members</a>
+                </li>
+
+                <li>
+                    <a class="page-scroll" href="#funding">Funding</a>
+                </li>
+
+                <li>
+                    <a class="page-scroll" href="#publications">Publications</a>
+                </li>
+
+            </ul>
+        </div>
+        <!-- /.navbar-collapse -->
     </div>
-
-    <div class="collapse navbar-collapse" id="main-navbar">
-      <ul class="nav navbar-nav navbar-right">
-	    
-	      
-	      
-        <li>
-          
-          
-
-        
-
-	      <a href="/blog">News</a>
-	      </li>
-	    
-	      
-	      
-        <li>
-          
-          
-
-        
-
-	      <a href="/people">People</a>
-	      </li>
-	    
-	      
-	      
-        <li>
-          
-          
-
-        
-
-	      <a href="/publications">Publications</a>
-	      </li>
-	    
-	      
-	      
-        <li>
-          
-          
-
-        
-
-	      <a href="/software">Software</a>
-	      </li>
-	    
-	      
-	      
-        <li>
-          
-          
-
-        
-
-	      <a href="/funding">Funding</a>
-	      </li>
-	    
-      </ul>
-    </div>
-  </div>
+    <!-- /.container-fluid -->
 </nav>
 
 
-    
-
-
-
-<header class="header-section ">
-
-<div class="intro-header no-img">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <div class="page-heading">
-          <h1>Hatzakis Group</h1>
-		  
-
-		  
+<!-- Header -->
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-9" id="header">
+                <h1>Hatzakis Group</h1>
+                <h4>State of the art fluorescence microscopy lab.</h4></div>
         </div>
-      </div>
     </div>
-  </div>
-</div>
 </header>
 
 
+<!-- Services Section -->
+<section id="intro" class="bg-light-gray">
+    <div class="container">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Intro</h2>
+        </div>
+        <div class="col-md-14 text-left">
+            <p>Our groups main research interest is to obtain a fundamental understanding of the parameters underlying
+                regulation of enzymatic function. Enzymes regulate a plethora of vital cellular processes and aberration
+                in their function can result in countless disease states. They are also essential components in multiple
+                industrial applications including drug synthesis and detergent development. Harnessing the biomolecular
+                insights of current single molecule experiments allows us to unmask the structural and functional
+                dynamics of major drug metabolism enzymes. Understanding how these enzymes operate paves the way for the
+                design of novel pharmaceutics.</p>
 
+            <p>In spite of their immense importance, current understanding on enzymatic behaviour relies primarily on
+                static pictures and ensemble functional assays and thus dynamic characteristics remain masked due to
+                ensemble averaging. We therefore employ single molecule techniques to interrogate the behaviour of
+                individual enzymes and elicit a detailed understanding of the molecular level details underlying
+                enzymatic function and regulation. Using state of the art fluorescent microscopy techniques, we
+                investigate how the complex protein conformational dynamics facilitate catalysis, as well as the
+                existence and life times of enzymatic functional states and how point mutations, posttranslational
+                modifications or effectors, redistribute them.
 
+                Advancing our understanding of functional protein dynamics will lead both to the design of novel
+                pharmaceutics and the in silico design of novel biocatalysts with tailor made functionalities for
+                biotechnological applications.
+            </p>
 
-<div class="container" role="main">
-  <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-      <!--Some code to force clearing the cache for users, as the site is updated too frequently during development-->
-
-<meta http-equiv="cache-control" content="max-age=0" />
-
-<meta http-equiv="cache-control" content="no-cache" />
-
-<meta http-equiv="expires" content="0" />
-
-<meta http-equiv="expires" content="Tue, 01 Jan 1980 1:00:00 GMT" />
-
-<meta http-equiv="pragma" content="no-cache" />
-
-<p>You’ve just found the official website for the Hatzakis research group at <a href="https://www.ku.dk/english/" target="_blank">University of Copenhagen</a>.</p>
-
-<h3 id="intro">Intro</h3>
-<p>Our groups main research interest is to obtain a fundamental understanding of the parameters underlying regulation of enzymatic function. Enzymes regulate a plethora of vital cellular processes and aberration in their function can result in countless disease states. They are also essential components in multiple industrial applications including drug synthesis and detergent development. Harnessing the biomolecular insights of current single molecule experiments allows us to unmask the structural and functional dynamics of major drug metabolism enzymes. Understanding how these enzymes operate paves the way for the design of novel pharmaceutics.</p>
-
-<h3 id="research">Research</h3>
-<p>In spite of their immense importance, current understanding on enzymatic behaviour relies primarily on static pictures and ensemble functional assays and thus dynamic characteristics remain masked due to ensemble averaging. We therefore employ single molecule techniques to interrogate the behaviour of individual enzymes and elicit a detailed understanding of the molecular level details underlying enzymatic function and regulation. Using state of the art fluorescent microscopy techniques, we investigate how the complex protein conformational dynamics facilitate catalysis, as well as the existence and life times of enzymatic functional states and how point mutations, posttranslational modifications or effectors, redistribute them.</p>
-
-<p>Advancing our understanding of functional protein dynamics will lead both to the design of novel pharmaceutics and the in silico design of novel biocatalysts with tailor made functionalities for biotechnological applications.</p>
-
-<h3 id="facilities">Facilities</h3>
-<p>The group is equipped with everything needed to perform state of the art experiments on a variaty of protein, enzyme and related experiments. Most experiments in the group are build around fluorescent microscopy, performed on one (or both) of two microscopes:</p>
-
-<ul>
-  <li>An IX81 Olympus confocal microscope</li>
-  <li>An Olympus Total Internal Reflection Fluorescence microscope (TIRFm) set up for super resolution microscopy</li>
-</ul>
-
-<p>Additionally, the state of the art Olympus SpinSR10 (Spinning Disk Confocal Super Resolution Microscope) will be installed in the lab primo 2019, thus allowing us to extend our research to live cells.</p>
-
-	    
+            <p>
+                The Nano-Enzyme Group labs are equipped with everything needed to perform state of the art experiments
+                on a variaty of protein, enzyme and related experiments. Most experiments in the group are build around
+                fluorescent microscopy, performed on one (or both) of two microscopes:
+            <ul>
+                <li>An IX81 Olympus confocal microscope</li>
+                <li>An Olympus Total Internal Reflection Fluorescence microscope (TIRFm) set up for super resolution
+                    microscopy
+                </li>
+            </ul>
+            <p>Additionally, the state of the art Olympus SpinSR10 (Spinning Disk Confocal Super Resolution Microscope)
+                will be installed in the lab primo 2019, thus allowing us to extend our research to live cells.</p>
+        </div>
     </div>
-  </div>
+    </div>
+</section>
+
+<!-- Portfolio Grid Generator-->
+<script src="/assets/js/jqBootstrapValidation.js"></script>
+
+<section id="portfolio" class="bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Projects</h2>
+            </div>
+        </div>
+        <div class="row">
+            
+            <div class="col-md-4 portfolio-item">
+                <a href="#project1" class="portfolio-link" data-toggle="modal">
+                    <div class="modal-header">Single Molecule FRET</div>
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                        </div>
+                    </div>
+                    <img src="/assets/img/portfolio/fret.png" class="img-responsive"
+                         alt="" style="background-color: rgba(0, 109, 212, 0.03)">
+                </a>
+            </div>
+            
+            <div class="col-md-4 portfolio-item">
+                <a href="#project2" class="portfolio-link" data-toggle="modal">
+                    <div class="modal-header">Project Title 2</div>
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                        </div>
+                    </div>
+                    <img src="/assets/img/portfolio/16x9-placeholder.png" class="img-responsive"
+                         alt="" style="background-color: rgba(0, 188, 212, 0.03)">
+                </a>
+            </div>
+            
+            <div class="col-md-4 portfolio-item">
+                <a href="#project3" class="portfolio-link" data-toggle="modal">
+                    <div class="modal-header">Project Title 3</div>
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                        </div>
+                    </div>
+                    <img src="/assets/img/portfolio/16x9-placeholder.png" class="img-responsive"
+                         alt="" style="background-color: rgba(0, 188, 212, 0.03)">
+                </a>
+            </div>
+            
+            <div class="col-md-4 portfolio-item">
+                <a href="#project4" class="portfolio-link" data-toggle="modal">
+                    <div class="modal-header">Project Title 4</div>
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                        </div>
+                    </div>
+                    <img src="/assets/img/portfolio/16x9-placeholder.png" class="img-responsive"
+                         alt="" style="background-color: rgba(0, 188, 212, 0.03)">
+                </a>
+            </div>
+            
+
+        </div>
+    </div>
+</section>
+
+
+<div class="portfolio-modal modal fade" id="project1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+
+                            <!-- Project Details Go Here -->
+                            <h3>Single Molecule FRET</h3>
+                            <img class="img-responsive img-centered"
+                                 src="/assets/img/portfolio/large-fret.png" alt="">
+                            <p>Adaptive immunity in bacteria is accomplished by the CRISPR system, and CRISPR-associated proteins (Cas). Proteins coupled with RNA are guided by this system to recognize and cleave foreign genetic material. As such, it’s also a powerful method for genome editing, and is receiving lot of bio technical and medical attention currently. By using single molecule FRET we can study this system in greater detail.</p>
+                            <button type=" button" class="btn btn-primary" data-dismiss="modal"><i
+                                class="fa fa-close"></i> Close
+                            </button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="portfolio-modal modal fade" id="project2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+
+                            <!-- Project Details Go Here -->
+                            <h3>Project Title 2</h3>
+                            <img class="img-responsive img-centered"
+                                 src="/assets/img/portfolio/large-16x9-placeholder.png" alt="">
+                            <p>Project description here!</p>
+                            <button type=" button" class="btn btn-primary" data-dismiss="modal"><i
+                                class="fa fa-close"></i> Close
+                            </button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="portfolio-modal modal fade" id="project3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+
+                            <!-- Project Details Go Here -->
+                            <h3>Project Title 3</h3>
+                            <img class="img-responsive img-centered"
+                                 src="/assets/img/portfolio/large-16x9-placeholder.png" alt="">
+                            <p>Project description here!</p>
+                            <button type=" button" class="btn btn-primary" data-dismiss="modal"><i
+                                class="fa fa-close"></i> Close
+                            </button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="portfolio-modal modal fade" id="project4" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+
+                            <!-- Project Details Go Here -->
+                            <h3>Project Title 4</h3>
+                            <img class="img-responsive img-centered"
+                                 src="/assets/img/portfolio/large-16x9-placeholder.png" alt="">
+                            <p>Project description here!</p>
+                            <button type=" button" class="btn btn-primary" data-dismiss="modal"><i
+                                class="fa fa-close"></i> Close
+                            </button>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
 
 
-    <footer>
-  <div class="container beautiful-jekyll-footer">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        <ul class="list-inline text-center footer-links">
-		    
-        
-          
+<!-- Team Section -->
+<section id="team" class="bg-light-gray">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Group Members</h2>
+            </div>
+        </div>
+        <div class="row">
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//nikos-hatzakis.jpg" class="img-responsive img-circle"
+                         alt="Nikos S Hatzakis">
+                    <h4>Nikos S Hatzakis</h4>
+                    <p class="text-muted">Associate Professor</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//codruta-ignea.jpg" class="img-responsive img-circle"
+                         alt="Codruta Ignea">
+                    <h4>Codruta Ignea</h4>
+                    <p class="text-muted">Marie Curie postdoc fellow</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//min-zhang.jpg" class="img-responsive img-circle"
+                         alt="Min Zhang">
+                    <h4>Min Zhang</h4>
+                    <p class="text-muted">Lundbeck Foundation postdoc fellow</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//pradeep-kumar.jpg" class="img-responsive img-circle"
+                         alt="Pradeep Kumar Singh">
+                    <h4>Pradeep Kumar Singh</h4>
+                    <p class="text-muted">Postdoc fellow</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//matias-moses.jpg" class="img-responsive img-circle"
+                         alt="Matias Moses">
+                    <h4>Matias Moses</h4>
+                    <p class="text-muted">Industrial postdoc, Novozymes</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//johannes-thomsen.jpg" class="img-responsive img-circle"
+                         alt="Johannes Thomsen">
+                    <h4>Johannes Thomsen</h4>
+                    <p class="text-muted">PhD student</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//simon-jensen.jpg" class="img-responsive img-circle"
+                         alt="Simon Bo Jensen">
+                    <h4>Simon Bo Jensen</h4>
+                    <p class="text-muted">PhD student</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//soren-nielsen.jpg" class="img-responsive img-circle"
+                         alt="Søren Schmidt-Rasmussen Nielsen">
+                    <h4>Søren Schmidt-Rasmussen Nielsen</h4>
+                    <p class="text-muted">PhD student</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//camilla-dyngbo.jpg" class="img-responsive img-circle"
+                         alt="Camilla Dyngbo Thorlaksen">
+                    <h4>Camilla Dyngbo Thorlaksen</h4>
+                    <p class="text-muted">PhD student, Novo Nordisk STAR programme</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//mette-malle.jpg" class="img-responsive img-circle"
+                         alt="Mette Galsgaard Malle">
+                    <h4>Mette Galsgaard Malle</h4>
+                    <p class="text-muted">PhD student</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//mags-berg.jpg" class="img-responsive img-circle"
+                         alt="Magnus Berg Sletfjerding">
+                    <h4>Magnus Berg Sletfjerding</h4>
+                    <p class="text-muted">PhD student, Sino-Danish Center</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//amalie-sigersen.jpg" class="img-responsive img-circle"
+                         alt="Amalie Sigersen Kallenbach">
+                    <h4>Amalie Sigersen Kallenbach</h4>
+                    <p class="text-muted">Master student</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//philip-lund.jpg" class="img-responsive img-circle"
+                         alt="Philip Mark Lund">
+                    <h4>Philip Mark Lund</h4>
+                    <p class="text-muted">Master student</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//freja-bohr.jpg" class="img-responsive img-circle"
+                         alt="Freja Jacobsen Bohr">
+                    <h4>Freja Jacobsen Bohr</h4>
+                    <p class="text-muted">Master student</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//jakob-hansen.jpg" class="img-responsive img-circle"
+                         alt="Jacob Kæstel-Hansen">
+                    <h4>Jacob Kæstel-Hansen</h4>
+                    <p class="text-muted">Master student</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="col-sm-4">
+                <div class="team-member">
+                    <img src="/assets/img/team//henrik-pinholt.jpg" class="img-responsive img-circle"
+                         alt="Henrik Pinholt">
+                    <h4>Henrik Pinholt</h4>
+                    <p class="text-muted">Bachelor student</p>
+                    <ul class="list-inline social-buttons">
+                        
+                        
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+            
 
-		  
-      
-		  
-        </ul>
-        <p class="copyright text-muted">
-		  Hatzakis Group
-		  &nbsp;&bull;&nbsp;
-		  2019
-	    </p>
-		<p class="theme-by text-muted">
-		  Theme by
-		  <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-		</p>
-      </div>
+        </div>
     </div>
-  </div>
+</section>
+
+<!-- Clients Aside -->
+<section id="funding" class="bg-white">
+    <div class="container">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Funding</h2>
+
+        </div>
+        
+        <div class="col-md-3 col-sm-6">
+            <a href="" target="_blank">
+                <img src="/assets/img/logos/lundbeck.png" class="img-responsive img-centered"
+                     alt="">
+            </a>
+        </div>
+        
+        <div class="col-md-3 col-sm-6">
+            <a href="" target="_blank">
+                <img src="/assets/img/logos/villum.png" class="img-responsive img-centered"
+                     alt="">
+            </a>
+        </div>
+        
+        <div class="col-md-3 col-sm-6">
+            <a href="" target="_blank">
+                <img src="/assets/img/logos/mariecurie.png" class="img-responsive img-centered"
+                     alt="">
+            </a>
+        </div>
+        
+        <div class="col-md-3 col-sm-6">
+            <a href="" target="_blank">
+                <img src="/assets/img/logos/carlsberg.png" class="img-responsive img-centered"
+                     alt="">
+            </a>
+        </div>
+        
+        <div class="col-md-3 col-sm-6">
+            <a href="" target="_blank">
+                <img src="/assets/img/logos/novozymes.png" class="img-responsive img-centered"
+                     alt="">
+            </a>
+        </div>
+        
+        <div class="col-md-3 col-sm-6">
+            <a href="" target="_blank">
+                <img src="/assets/img/logos/novonordisk.png" class="img-responsive img-centered"
+                     alt="">
+            </a>
+        </div>
+        
+        <div class="col-md-3 col-sm-6">
+            <a href="" target="_blank">
+                <img src="/assets/img/logos/innovation.png" class="img-responsive img-centered"
+                     alt="">
+            </a>
+        </div>
+        
+
+    </div>
+    </div>
+</section>
+<!-- Services Section -->
+<section id="publications" class="bg-light-gray">
+    <div class="container">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Publications</h2>
+        </div>
+        <div class="row">
+            
+            <div class="col-md-4 col-sm-6">
+                <p>
+                    <a href="http://doi.org/10.1016/j.cell.2018.10.045">Conformational Activation Promotes CRISPR-Cas12a Catalysis and Resetting of the Endonuclease Activity.</a><br>
+                    Stella, S. et al.<em> Cell</em> 175, 1856–1871.e21 (2018)
+                </p>
+            </div>
+            
+            <div class="col-md-4 col-sm-6">
+                <p>
+                    <a href="http://doi.org/10.1126/science.aag2347">Characterization of a dynamic metabolon producing the defense compound dhurrin in sorghum.</a><br>
+                    Laursen, T. et al.<em> Science</em> 354, 890–893 (2016)
+                </p>
+            </div>
+            
+            <div class="col-md-4 col-sm-6">
+                <p>
+                    <a href="http://doi.org/10.1126/science.aad6429">Direct observation of proton pumping by a eukaryotic P-type ATPase.</a><br>
+                    Veshaguri, S. et al.<em> Science</em> 351, 1469–1473 (2016)
+                </p>
+            </div>
+            
+            <div class="col-md-4 col-sm-6">
+                <p>
+                    <a href="http://doi.org/10.1021/jacs.5b08798">Single Enzyme Experiments Reveal a Long-Lifetime Proton Leak State in a Heme-Copper Oxidase.</a><br>
+                    Li, M. et al.<em> J. Am. Chem. Soc.</em> 137, 16055–16063 (2015)
+                </p>
+            </div>
+            
+            <div class="col-md-4 col-sm-6">
+                <p>
+                    <a href="http://doi.org/10.1038/nchembio.1733">Membrane curvature enables N-Ras lipid anchor sorting to liquid-ordered membrane phases.</a><br>
+                    Larsen, J. B. et al.<em> Nat. Chem. Biol.</em> 11, 192-U176 (2015)
+                </p>
+            </div>
+            
+            <div class="col-md-4 col-sm-6">
+                <p>
+                    <a href="http://doi.org/10.1016/j.bpc.2013.11.003">Single molecule insights on conformational selection and induced fit mechanism.</a><br>
+                    Hatzakis, N. S.<em> Biophys. Chem.</em> 186, 46–54 (2014)
+                </p>
+            </div>
+            
+            <div class="col-md-4 col-sm-6">
+                <p>
+                    <a href="http://doi.org/10.1021/cb400708v">Single Molecule Activity Measurements of Cytochrome P450 Oxidoreductase Reveal the Existence of Two Discrete Functional States.</a><br>
+                    Laursen, T. et al.<em> ACS Chem. Biol.</em> 9, 630–634 (2014)
+                </p>
+            </div>
+            
+            <div class="col-md-4 col-sm-6">
+                <p>
+                    <a href="http://doi.org/10.1021/ja3011429">Single Enzyme Studies Reveal the Existence of Discrete Functional States for Monomeric Enzymes and How They Are ‘Selected’ upon Allosteric Regulation.</a><br>
+                    Hatzakis, N. S. et al.<em> J. Am. Chem. Soc.</em> 134, 9296–9302 (2012)
+                </p>
+            </div>
+            
+            <div class="col-md-4 col-sm-6">
+                <p>
+                    <a href="http://doi.org/10.1038/nnano.2011.185">Mixing subattolitre volumes in a quantitative and highly parallel manner with soft matter nanofluidics.</a><br>
+                    Christensen, S. M. et al.<em> Nat. Nanotech.</em> 7, 51-55 (2012)
+                </p>
+            </div>
+            
+        </div>
+    </div>
+    </div>
+</section>
+
+
+
+<!-- Footer -->
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <span class="copyright">Copyright &copy; Hatzakis Group 2019</span>
+            <br>
+            <img src="/assets/img/avatar/logo-dark.png" height="50px">
+        </div>
+    </div>
 </footer>
 
 
-    
+<!-- jQuery -->
+<script src="/vendor/jquery/jquery.min.js"></script>
 
+<!-- Bootstrap Core JavaScript -->
+<script src="/vendor/bootstrap/js/bootstrap.min.js"></script>
 
+<!-- Plugin JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
+<!-- Theme JavaScript -->
+<script src="/assets/js/agency.js"></script>
 
-
-
-  
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
-    
-      <script>
-      	if (typeof jQuery == 'undefined') {
-      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
-      	}
-      </script>
-    
-  
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
-    
-	<script src="/js/bootstrap.min.js"></script>
-    
-  
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
-    
-	<script src="/js/main.js"></script>
-    
-  
-
-
-
-
-
-  </body>
+</body>
 </html>

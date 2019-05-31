@@ -1,73 +1,32 @@
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-url: "http://hatzakisgroup.github.io"
-baseurl: ""
+# Welcome to Agency Jekyll Theme!
+
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
 
 title: Hatzakis Group
-description: "Official website for the Hatzakis Group at University of Copenhagen"
-avatar: "/img/avatar/favicon-white.png"
+description: > # this means to ignore newlines until "author:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+author: laklau
+keyword: jekyll
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  laklau
 
-# List of links in the navigation bar
-navbar-links:
-  News: "blog"
-  People: "people"
-  Publications: "publications"
-  Software: "software"
-  Funding: "funding"
+# Build settings
 
-# Change all these values or delete the ones you don't want (these appear in the footer).
-# Important: you must keep the "name" parameter, everything else you can remove
-author:
-  name: "Hatzakis Group"
-  #github: yourlink
-
-# Select which links to show in the footer
-footer-links-active:
-  github: true
-  email: true
-  rss: false
-  facebook: true
-  twitter: true
-
-# Select which share links to show in posts
-share-links-active:
-  twitter: false
-  facebook: false
-  google: false
-  linkedin: false
-
-# Output options (more information on Jekyll's site)
-timezone: "Europe/London"
 markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
-paginate_path: "/blog/page:num/"
 
-kramdown:
-  input: GFM
-
-# Default YAML values (more information on Jekyll's site)
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # all files
-    values:
-      layout: "page"
-      show-avatar: true
-
-# Exclude these files from production site
+#theme: agency-jekyll-theme #The "agency-jekyll-theme" is not supported by GitHub Pages.
+plugins:
+  - jekyll-feed
 exclude:
+  - agency-jekyll-theme.gemspec
+  - Gemfile
+  - Gemfile.lock
   - LICENSE
   - README.md
-
-plugins:
-  - jekyll-paginate
+  - screenshot.png

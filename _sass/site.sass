@@ -1,0 +1,255 @@
+$text-hover: #0a0a14
+$color-semiblack: #5b5b5b
+$color-lightgrey: lightgrey
+$color-fontblack: #333333
+
+$default-font-size: 17px
+
+// The grey rows
+.bg-light-gray
+  background-color: #FAFAFA
+
+
+/* --- Background ---
+//Photo by Light Liu on Unsplash
+header
+  background-image: url("../assets/img/header-bg.jpg")
+  max-height: 240pt
+  padding: 120px 0 30px
+
+.container
+  padding-right: 15px
+  padding-left: 15px
+  margin-right: auto
+  margin-left: auto
+
+.col-lg-9 > *
+  text-align: left
+
+/* --- NavBar ---
+.navbar-default
+  border-color: rgba(34, 34, 34, 0.05)
+  -webkit-transition: all 0.35s
+  -moz-transition: all 0.35s
+  transition: all 0.35s
+  background-color: white
+
+  .navbar-header
+    .navbar-brand
+      color: $color-semiblack
+
+      &:hover, &:focus
+        color: $text-hover
+
+  .navbar-toggle
+    font-size: 14px
+    color: $color-semiblack
+    padding: 8px 10px
+
+  .nav > li > a
+    //text-transform: uppercase
+    letter-spacing: 2px
+    font-size: 14px
+    color: $color-semiblack
+
+    &:focus
+      color: $color-semiblack
+
+    &:hover
+      color: $text-hover
+
+  .nav > li.active > a
+    color: $text-hover !important
+    background-color: transparent
+
+.navbar-default .nav > li.active > a:hover,
+.navbar-default .nav > li.active > a:focus:hover
+  background-color: transparent
+
+@media (min-width: 768px)
+  .navbar-default
+    background-color: transparent
+    border-color: transparent
+
+    .nav > li > a
+      color: $color-lightgrey
+
+      &:hover
+        color: white
+
+      &:focus
+        color: white
+
+      &:focus:hover
+        color: white
+
+    .navbar-header
+      color: $color-lightgrey
+
+      .navbar-brand
+        color: $color-lightgrey
+
+        &:hover, &:focus, &:focus:hover
+          color: white
+
+  // section below for when not at the top
+  .navbar-default.affix
+    background-color: white
+    border-color: rgba(34, 34, 34, 0.1)
+
+    .navbar-header
+
+      .navbar-brand
+        color: $color-semiblack
+
+        &:hover
+          color: $text-hover
+
+        &:focus
+          color: $text-hover
+
+    .nav > li > a
+      color: $color-semiblack
+
+      &:focus
+        color: $color-semiblack
+
+      &:hover, &:focus:hover
+        color: $text-hover
+
+/* --- Intro ---
+#intro
+  .container
+    max-width: 768px
+
+  p
+    font-size: $default-font-size
+
+  ul
+    font-size: $default-font-size
+
+
+/* --- People ---
+#team
+  .col-sm-4
+    @media screen and (max-width: 550pt)
+      width: 50%
+      float: left
+
+    @media screen and (min-width: 551pt)
+      width: 25%
+      float: left
+
+// height of the individual team member circles
+#team
+  .col-sm-4
+    height: 210px
+
+  .section-heading
+    padding-bottom: 10px
+
+  .team-member
+    h4
+      margin-top: 7px
+
+    p
+      padding-top: 1.2%
+      line-height: 1.1
+
+    img
+      border: none
+      width: 120px
+      height: 120px
+
+    @media screen and (max-width: 400pt)
+      img
+        height: 90px
+        width: 90px
+
+  .img-circle
+    border-radius: 50%
+
+  ul.social-buttons li a
+    height: 30px
+    width: 30px
+    font-size: 16px
+    line-height: 30px
+
+/* --- Projects
+#portfolio
+  .col-md-4.portfolio-item
+    @media (max-width: 550pt)
+      width: 100%
+      float: left
+
+    @media (min-width: 551pt)
+      width: 50%
+      float: left
+
+  // project title text
+  .modal-header
+    color: $color-fontblack
+    font-weight: bold
+    text-decoration: none
+    position: absolute
+    text-align: right
+    padding-left: 5%
+    background-color: transparent
+    border-color: transparent
+    max-font-size: 100pt
+
+    @media (max-width: 550pt)
+      font-size: 5vw
+
+    @media (min-width: 551px)
+      font-size: 18pt
+
+  .portfolio-item .portfolio-link
+    max-width: none
+
+/* --- Pop-up modals ---
+.modal-dialog
+  p
+    font-size: 18px
+    line-height: 1.75
+    text-align: justify
+
+a:hover, a:visited, a:link, a:active
+  text-decoration: none
+
+.btn-primary
+  -webkit-filter: grayscale(1)
+  -webkit-filter: grayscale(100%)
+  filter: grayscale(100%)
+
+#portfolio
+  .portfolio-item
+    .portfolio-link
+      .portfolio-hover
+        background: rgba(210, 210, 210, 0.15)
+
+/* --- Funding ---
+#funding
+  .carousel-inner > .item > a > img,
+  .carousel-inner > .item > img,
+  .img-responsive, .thumbnail a > img,
+  .thumbnail > img
+    height: 115px
+
+
+/* --- Publications ---
+#publications
+  a
+    color: black
+
+  p
+    color: $color-semiblack
+    font-size: $default-font-size
+
+  @media (min-width: 768pt)
+    .col-md-4
+      height: 190px
+
+@media (min-width: 768pt)
+  section
+    padding-top: 40px

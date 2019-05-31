@@ -1,0 +1,28 @@
+<!-- Portfolio Grid Generator-->
+<script src="/assets/js/jqBootstrapValidation.js"></script>
+
+<section id="portfolio" class="bg-white">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">Projects</h2>
+            </div>
+        </div>
+        <div class="row">
+            {% for project in site.data.works %}
+            <div class="col-md-4 portfolio-item">
+                <a href="#{{ project.id }}" class="portfolio-link" data-toggle="modal">
+                    <div class="modal-header">{{ project.name }}</div>
+                    <div class="portfolio-hover">
+                        <div class="portfolio-hover-content">
+                        </div>
+                    </div>
+                    <img src="/assets/img/portfolio/{{ project.photo }}" class="img-responsive"
+                         alt="{{ project.img-alt }}" style="background-color: {{ project.color }}">
+                </a>
+            </div>
+            {% endfor %}
+
+        </div>
+    </div>
+</section>

@@ -1,0 +1,63 @@
+- name: Nikos S Hatzakis
+  img: /nikos-hatzakis.jpg
+  desc: Associate Professor
+
+- name: Codruta Ignea
+  img: /codruta-ignea.jpg
+  desc: Marie Curie postdoc fellow
+
+- name: Min Zhang
+  img: /min-zhang.jpg
+  desc: Lundbeck Foundation postdoc fellow
+
+- name: Pradeep Kumar Singh
+  img: /pradeep-kumar.jpg
+  desc: Postdoc fellow
+
+- name: Matias Moses
+  img: /matias-moses.jpg
+  desc: Industrial postdoc, Novozymes
+
+- name: Johannes Thomsen
+  img: /johannes-thomsen.jpg
+  desc: PhD student
+
+- name: Simon Bo Jensen
+  img: /simon-jensen.jpg
+  desc: PhD student
+
+- name: Søren Schmidt-Rasmussen Nielsen
+  img: /soren-nielsen.jpg
+  desc: PhD student
+
+- name: Camilla Dyngbo Thorlaksen
+  img: /camilla-dyngbo.jpg
+  desc: PhD student, Novo Nordisk STAR programme
+
+- name: Mette Galsgaard Malle
+  img: /mette-malle.jpg
+  desc: PhD student
+
+- name: Magnus Berg Sletfjerding
+  img: /mags-berg.jpg
+  desc: PhD student, Sino-Danish Center
+
+- name: Amalie Sigersen Kallenbach
+  img: /amalie-sigersen.jpg
+  desc: Master student
+
+- name: Philip Mark Lund
+  img: /philip-lund.jpg
+  desc: Master student
+
+- name: Freja Jacobsen Bohr
+  img: /freja-bohr.jpg
+  desc: Master student
+
+- name: Jacob Kæstel-Hansen
+  img: /jakob-hansen.jpg
+  desc: Master student
+
+- name: Henrik Pinholt
+  img: /henrik-pinholt.jpg
+  desc: Bachelor student

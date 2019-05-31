@@ -1,0 +1,19 @@
+<!-- Clients Aside -->
+<section id="funding" class="bg-white">
+    <div class="container">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Funding</h2>
+
+        </div>
+        {% for funding in site.data.funding %}
+        <div class="col-md-3 col-sm-6">
+            <a href="{{ client.web }}" target="_blank">
+                <img src="/assets/img/logos/{{ funding.logo }}" class="img-responsive img-centered"
+                     alt="{{ client.img-alt }}">
+            </a>
+        </div>
+        {% endfor %}
+
+    </div>
+    </div>
+</section>

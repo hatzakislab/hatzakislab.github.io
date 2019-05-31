@@ -1,22 +1,2 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hatzakis Group</title>
-    <description>Official website for the Hatzakis Group at University of Copenhagen</description>
-    <link>http://localhost:4000</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>The website is now complete!</title>
-        <description>
-          
-          Check it out and share share share!
-
-        </description>
-        <pubDate>Sat, 18 May 2019 00:00:00 +0100</pubDate>
-        <link>http://localhost:4000/2019-05-18-website-launched/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019-05-18-website-launched/</guid>
-      </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-31T10:10:45+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hatzakis Group</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>laklau</name></author></feed>
