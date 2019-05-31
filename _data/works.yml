@@ -6,7 +6,7 @@
   id: "project1"
   name: "Single Molecule FRET"
   photo: "fret.png"
-  description: "Adaptive immunity in bacteria is accomplished by the CRISPR system, and CRISPR-associated proteins (Cas). Proteins coupled with RNA are guided by this system to recognize and cleave foreign genetic material. As such, it’s also a powerful method for genome editing, and is receiving lot of bio technical and medical attention currently. By using single molecule FRET we can study this system in greater detail."
+  description: "Adaptive immunity in bacteria is accomplished by the CRISPR system, and CRISPR-associated proteins (Cas). Proteins coupled with RNA are guided by this system to recognize and cleave foreign genetic material. As such, it’s also a powerful method for genome editing, and is receiving lot of bio technical and medical attention currently. By using single molecule FRET we can study this system in great detail, and obtain a wealth of structural and kinetic information, when combining with other techniques. Read how we did this in Stella et al. (2018), published in <em>Cell</em>."
   color: rgba(0, 109, 212, 0.03)
 
 - order: 002
