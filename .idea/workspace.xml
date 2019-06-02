@@ -2,35 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d00b23ae-c01f-4d1c-a951-30c34d373c50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/large-mucus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/portfolio/mucus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google59e9fde1d35d1916.html.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-metadata" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/team.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/team.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/works.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/works.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/funding.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/funding.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/intro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/single-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/single-page.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sass/site.sass" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/site.sass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/apple-touch-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/mstile-150x150.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/fret.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/portfolio/fret.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,20 +21,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+            <state relative-caret-position="483">
+              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/site.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="197" column="19" selection-start-line="197" selection-start-column="19" selection-end-line="197" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_data/team.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            <state relative-caret-position="189">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -72,7 +71,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>10px</find>
       <find>style=&quot;padding:5px&quot;</find>
       <find>flex-item</find>
       <find>image-container</find>
@@ -96,12 +94,13 @@
       <find>fontawesome</find>
       <find>stylesheet</find>
       <find>fa f</find>
-      <find>ease</find>
       <find>font-size</find>
       <find>padding-</find>
       <find>&lt;head&gt;</find>
       <find>TEST</find>
       <find>ultimo</find>
+      <find>ease</find>
+      <find>0.2</find>
     </findStrings>
     <replaceStrings>
       <replace>100</replace>
@@ -142,15 +141,15 @@
         <option value="$PROJECT_DIR$/_includes/test.html" />
         <option value="$PROJECT_DIR$/_includes/funding.html" />
         <option value="$PROJECT_DIR$/_includes/team.html" />
-        <option value="$PROJECT_DIR$/_sass/site.sass" />
         <option value="$PROJECT_DIR$/_includes/intro.html" />
         <option value="$PROJECT_DIR$/_layouts/single-page.md" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/nav.html" />
         <option value="$PROJECT_DIR$/_data/works.yml" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_data/team.yml" />
+        <option value="$PROJECT_DIR$/_sass/site.sass" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -165,6 +164,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hatzakisgroup.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hatzakisgroup.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -219,17 +229,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="hatzakisgroup.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hatzakisgroup.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,14 +241,15 @@
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_includes" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/img/portfolio" />
       <recent name="$PROJECT_DIR$/assets/img" />
       <recent name="$PROJECT_DIR$/_includes" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -306,12 +306,13 @@
       <workItem from="1559474702793" duration="14000" />
       <workItem from="1559474815251" duration="81000" />
       <workItem from="1559474938252" duration="3158000" />
-      <workItem from="1559489919972" duration="13796000" />
+      <workItem from="1559489919972" duration="14397000" />
+      <workItem from="1559506098255" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44079000" />
+    <option name="totallyTimeSpent" value="44913000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="294" y="23" width="985" height="978" extended-state="0" />
@@ -366,13 +367,6 @@
     <entry file="file://$PROJECT_DIR$/../komodovaran.github.io/css/theme.css" />
     <entry file="file://$PROJECT_DIR$/css/custom.css" />
     <entry file="file://$PROJECT_DIR$/publications.md" />
-    <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3659">
-          <caret line="20" column="45" lean-forward="true" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/hatzakisgroup.github.io-master/_layouts/default.html" />
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -415,13 +409,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/test.html" />
     <entry file="file://$PROJECT_DIR$/_includes/funding.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -469,13 +457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/site.sass">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="186" lean-forward="true" selection-start-line="186" selection-end-line="186" />
         </state>
       </provider>
     </entry>
@@ -540,16 +521,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -567,17 +538,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/_site/assets/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        <state relative-caret-position="339">
+          <caret line="75" column="179" selection-start-line="75" selection-start-column="175" selection-end-line="75" selection-end-column="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/team.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/site.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="197" column="19" selection-start-line="197" selection-start-column="19" selection-end-line="197" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
