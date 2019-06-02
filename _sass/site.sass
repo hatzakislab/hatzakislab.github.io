@@ -1,3 +1,5 @@
+@import variables
+
 $text-hover: #0a0a14
 $color-semiblack: #5b5b5b
 $color-lightgrey: lightgrey
@@ -8,7 +10,6 @@ $default-font-size: 17px
 // The grey rows
 .bg-light-gray
   background-color: #FAFAFA
-
 
 /* --- Background ---
 //Photo by Light Liu on Unsplash
@@ -62,9 +63,9 @@ header
     color: $text-hover !important
     background-color: transparent
 
-.navbar-default .nav > li.active > a:hover,
-.navbar-default .nav > li.active > a:focus:hover
-  background-color: transparent
+.navbar-default .nav > li.active > a
+  &:hover, &:focus:hover
+    background-color: transparent
 
 @media (min-width: 768px)
   .navbar-default
@@ -131,7 +132,20 @@ header
 
 /* --- People ---
 #team
+  ul.list-inline
+    position: relative
+    margin: 0 auto
+    padding-left: 1px
+    top: 70px
+
+    > li
+      padding-right: 0
+      padding-left: 0
+
   .col-sm-4
+    height: 250px
+    width: 180px
+
     @media screen and (max-width: 550pt)
       width: 50%
       float: left
@@ -140,15 +154,13 @@ header
       width: 25%
       float: left
 
-// height of the individual team member circles
-#team
-  .col-sm-4
-    height: 210px
-
   .section-heading
     padding-bottom: 10px
 
   .team-member
+    max-height: 200px
+    margin: 0
+
     h4
       margin-top: 7px
 
@@ -160,20 +172,36 @@ header
       border: none
       width: 120px
       height: 120px
+      vertical-align: top
 
-    @media screen and (max-width: 400pt)
-      img
-        height: 90px
-        width: 90px
+.img-circle
+  border-radius: 50%
 
+ul.social-buttons li a
+  height: 0
+  width: 25px
+  font-size: 18px
+  line-height: 1.5px
+  color: $color-fontblack
+  background-color: transparent
+
+  &:hover
+    background-color: transparent
+    color: $color-fontblack
+
+.list-inline
+  opacity: 0
+
+.team-hover:hover
   .img-circle
-    border-radius: 50%
+    opacity: 0.2
+    transition: 0.2s
+    pointer-events: none
 
-  ul.social-buttons li a
-    height: 30px
-    width: 30px
-    font-size: 16px
-    line-height: 30px
+.team-hover:hover ul.list-inline, ul.list-inline li a
+  pointer-events: auto
+  opacity: 1
+  background-color: transparent
 
 /* --- Projects
 #portfolio
@@ -212,7 +240,7 @@ header
   p
     font-size: 18px
     line-height: 1.75
-    text-align: justify
+    text-align: left
 
 a:hover, a:visited, a:link, a:active
   text-decoration: none

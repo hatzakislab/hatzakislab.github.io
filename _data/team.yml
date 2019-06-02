@@ -1,63 +1,84 @@
-- name: Nikos S Hatzakis
+# add 'blank: true' as a line to avoid messing up layout
+
+- name: Nikos Hatzakis
   img: /nikos-hatzakis.jpg
   desc: Associate Professor
+  email: hatzakis@nano.ku.dk
+  twitter: nhatzakis
+  linkedin: nikoshatzakis
+  orcid: 0000-0003-4202-0328
 
 - name: Codruta Ignea
   img: /codruta-ignea.jpg
   desc: Marie Curie postdoc fellow
+  blank: true
 
 - name: Min Zhang
   img: /min-zhang.jpg
   desc: Lundbeck Foundation postdoc fellow
+  blank: true
 
 - name: Pradeep Kumar Singh
   img: /pradeep-kumar.jpg
   desc: Postdoc fellow
+  blank: true
 
 - name: Matias Moses
   img: /matias-moses.jpg
   desc: Industrial postdoc, Novozymes
+  blank: true
 
 - name: Johannes Thomsen
   img: /johannes-thomsen.jpg
   desc: PhD student
+  blank: true
 
 - name: Simon Bo Jensen
   img: /simon-jensen.jpg
   desc: PhD student
+  blank: true
 
 - name: Søren Schmidt-Rasmussen Nielsen
   img: /soren-nielsen.jpg
   desc: PhD student
+  blank: true
 
 - name: Camilla Dyngbo Thorlaksen
   img: /camilla-dyngbo.jpg
   desc: PhD student, Novo Nordisk STAR programme
+  blank: true
 
 - name: Mette Galsgaard Malle
   img: /mette-malle.jpg
   desc: PhD student
+  blank: true
 
 - name: Magnus Berg Sletfjerding
   img: /mags-berg.jpg
   desc: PhD student, Sino-Danish Center
+  blank: true
 
 - name: Amalie Sigersen Kallenbach
   img: /amalie-sigersen.jpg
   desc: Master student
+  blank: true
 
 - name: Philip Mark Lund
   img: /philip-lund.jpg
   desc: Master student
+  blank: true
 
 - name: Freja Jacobsen Bohr
   img: /freja-bohr.jpg
   desc: Master student
+  blank: true
 
 - name: Jacob Kæstel-Hansen
   img: /jakob-hansen.jpg
   desc: Master student
+  blank: true
 
 - name: Henrik Pinholt
   img: /henrik-pinholt.jpg
   desc: Bachelor student
+  blank: true

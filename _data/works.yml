@@ -4,28 +4,14 @@
 
 - order: 001
   id: "project1"
-  name: "Single Molecule FRET"
+  name: "smFRET on CRISPR-Cas"
   photo: "fret.png"
   description: "Adaptive immunity in bacteria is accomplished by the CRISPR system, and CRISPR-associated proteins (Cas). Proteins coupled with RNA are guided by this system to recognize and cleave foreign genetic material. As such, it’s also a powerful method for genome editing, and is receiving lot of bio technical and medical attention currently. By using single molecule FRET we can study this system in great detail, and obtain a wealth of structural and kinetic information, when combining with other techniques. Read how we did this in Stella et al. (2018), published in <em>Cell</em>."
-  color: rgba(0, 109, 212, 0.03)
+  color: rgb(236, 253, 254)
 
 - order: 002
   id: "project2"
-  name: "Project Title 2"
-  photo: "16x9-placeholder.png"
-  description: "Project description here!"
-  color: rgba(0, 188, 212, 0.03)
-
-- order: 003
-  id: "project3"
-  name: "Project Title 3"
-  photo: "16x9-placeholder.png"
-  description: "Project description here!"
-  color: rgba(0, 188, 212, 0.03)
-
-- order: 004
-  id: "project4"
-  name: "Project Title 4"
-  photo: "16x9-placeholder.png"
-  description: "Project description here!"
-  color: rgba(0, 188, 212, 0.03)
+  name: "Drug delivery in mucus"
+  photo: "mucus.png"
+  description: "By employing single particle tracking on novel nano-carriers in drug delivery, we are able to investigate their interactions with biological samples and simultaneously monitor particle mobility and drug release in live human cells. We aim to utilize the methodology to develop and optimize site specific and fast delivery of tailor made pharmaceuticals. To do so, we deploy advanced statistical analysis in combination with machine learning - thus deciphering the mechanistic details that governs interactions at the cellular level. <br>Ultimo June 2019 our lab will be equipped with a state of the art Olympus super resolution spinning disk microscope, thus extending the method to live 3D tracking"
+  color: rgb(243, 254, 236)

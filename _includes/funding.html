@@ -7,10 +7,8 @@
         </div>
         {% for funding in site.data.funding %}
         <div class="col-md-3 col-sm-6">
-            <a href="{{ client.web }}" target="_blank">
-                <img src="/assets/img/logos/{{ funding.logo }}" class="img-responsive img-centered"
-                     alt="{{ client.img-alt }}">
-            </a>
+            <img src="/assets/img/logos/{{ funding.logo }}" class="img-responsive img-centered"
+                 alt="{{ client.img-alt }}">
         </div>
         {% endfor %}
 

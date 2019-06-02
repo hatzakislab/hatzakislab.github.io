@@ -8,4 +8,3 @@ layout: default
 {% include team.html %}
 {% include funding.html %}
 {% include publications.html %}
-
