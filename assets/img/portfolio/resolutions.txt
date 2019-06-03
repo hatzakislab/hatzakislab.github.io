@@ -1,0 +1,4 @@
+Keep images 16x9 with the following:
+
+small-size: 1280x720
+large-size: 1920x1080
