@@ -1,6 +1,10 @@
-<!-- Team Section -->
 <link rel="stylesheet" href="/vendor/academicons/css/academicons.min.css"/>
+<script>
+    document.addEventListener("touchstart", function () {
+    }, false);
+</script>
 
+<!-- Team Section -->
 <section id="team" class="bg-light-gray">
     <div class="container">
         <div class="row">
@@ -10,46 +14,48 @@
         </div>
         <div class="row">
             {% for member in site.data.team %}
-            <div class="col-sm-4 team-hover">
-                <div class="team-member">
-                    <ul class="list-inline social-buttons">
-                        {% if member.blank == true %}
-                        <li></li> <!-- Empty list to avoid messing up layout-->
-                        {% endif %}
+            <div onclick="">
+                <div class="col-sm-4 team-hover">
+                    <div class="team-member">
+                        <ul class="list-inline social-buttons">
+                            {% if member.blank == true %}
+                            <li></li> <!-- Empty list to avoid messing up layout-->
+                            {% endif %}
 
-                        {% if member.email %}
-                        <li><a href="mailto:{{ member.email }}"><i class="fa fa-envelope-square"></i></a>
-                        </li>
-                        {% endif %}
+                            {% if member.email %}
+                            <li><a href="mailto:{{ member.email }}"><i class="fa fa-envelope-square"></i></a>
+                            </li>
+                            {% endif %}
 
-                        {% if member.twitter %}
-                        <li><a href="http://twitter.com/{{ member.twitter }}" target="_blank"><i
-                                class="fa fa-twitter"></i></a>
-                        </li>
-                        {% endif %}
+                            {% if member.twitter %}
+                            <li><a href="http://twitter.com/{{ member.twitter }}" target="_blank"><i
+                                    class="fa fa-twitter"></i></a>
+                            </li>
+                            {% endif %}
 
-                        {% if member.facebook %}
-                        <li><a href="http://www.facebook.com/{{ member.facebook }}" target="_blank"><i
-                                class="fa fa-facebook"></i></a>
-                        </li>
-                        {% endif %}
+                            {% if member.facebook %}
+                            <li><a href="http://www.facebook.com/{{ member.facebook }}" target="_blank"><i
+                                    class="fa fa-facebook"></i></a>
+                            </li>
+                            {% endif %}
 
-                        {% if member.linkedin %}
-                        <li><a href="http://www.linkedin.com/in/{{ member.linkedin }}" target="_blank"><i
-                                class="fa fa-linkedin"></i></a>
-                        </li>
-                        {% endif %}
+                            {% if member.linkedin %}
+                            <li><a href="http://www.linkedin.com/in/{{ member.linkedin }}" target="_blank"><i
+                                    class="fa fa-linkedin"></i></a>
+                            </li>
+                            {% endif %}
 
-                        {% if member.orcid %}
-                        <li><a href="http://www.orcid.org/{{ member.orcid }}" target="_blank"><i
-                                class="ai ai-orcid"></i></a>
-                        </li>
-                        {% endif %}
-                    </ul>
-                    <img src="/assets/img/team/{{ member.img }}" class="img-responsive img-circle"
-                         alt="{{ member.name }}">
-                    <h4>{{ member.name }}</h4>
-                    <p class="text-muted">{{ member.desc }}</p>
+                            {% if member.orcid %}
+                            <li><a href="http://www.orcid.org/{{ member.orcid }}" target="_blank"><i
+                                    class="ai ai-orcid"></i></a>
+                            </li>
+                            {% endif %}
+                        </ul>
+                        <img src="/assets/img/team/{{ member.img }}" class="img-responsive img-circle"
+                             alt="{{ member.name }}">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.desc }}</p>
+                    </div>
                 </div>
             </div>
             {% endfor %}
