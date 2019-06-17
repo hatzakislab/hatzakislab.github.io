@@ -15,3 +15,10 @@
   photo: "mucus.png"
   description: "By employing single particle tracking on novel nano-carriers in drug delivery, we are able to investigate their interactions with biological samples and simultaneously monitor particle mobility and drug release in live human cells. We aim to utilize the methodology to develop and optimize site specific and fast delivery of tailor made pharmaceuticals. To do so, we deploy advanced statistical analysis in combination with machine learning - thus deciphering the mechanistic details that governs interactions at the cellular level. <br>Ultimo June 2019 our lab will be equipped with a state of the art Olympus super resolution spinning disk microscope, thus extending the method to live 3D tracking"
   color: rgb(243, 254, 236)
+
+- order: 003
+  id: "project3"
+  name: "Ligand design with computational docking"
+  photo: "por.png"
+  description: "Computational docking allows virtual screening of 10,000+ compounds on a molecular target. By careful analysis of the target and ligand structures, a large library of compounds can be narrowed down to a handful of hits. Possible drug candidates are tested in vitro using enzymatic activity assays reporting the turnover of specific enzymes. The most promising compounds are selected for screening in cell-based assays, which reveal if the compounds have any biological activity and qualify for further drug development. We use smFRET measurements to decipher how drug candidates alter the conformational dynamics of their target, thus providing unique mechanistic detail and insight into the structure-function relationship. Ultimately, this project may lead to the discovery of novel ligands in the treatment of various diseases."
+  color: rgb(253, 252, 233)
