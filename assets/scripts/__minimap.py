@@ -45,8 +45,24 @@ def main():
             print(f'{sys.argv[0]}: error: "{output}" already exists')
             sys.exit(1)
 
-        with open(filename, 'r') as f:
+        # with open(filename, 'r') as f:
+        #     code = f.read()
+
+        # Skips until first function call
+        with open(filename, "r") as f:
+            n = 0
+            pos = 0
+            cur_line = f.readline()
+            while not cur_line.startswith("def"):
+                pos = f.tell()
+                cur_line = f.readline()
+                n += 1
+                if n > 50:
+                    return f.read()
+            f.seek(pos)
             code = f.read()
+
+
         if args.language:
             lexer = pygments.lexers.get_lexer_by_name(args.language)
         else:

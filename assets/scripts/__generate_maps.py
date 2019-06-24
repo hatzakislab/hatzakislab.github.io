@@ -17,7 +17,7 @@ def generate_minimaps(style = "native"):
     for fname in files:
         fname = Path(fname) # type: Path
         imgpath = os.path.join(fname.parent.parent, "img/software", fname.name + ".png")
-        os.system("python3 {} {} -o {} -w 10 -h 10 --overwrite -s {}".format(script, fname, imgpath, style))
+        os.system("python3 {} {} -o {} -w 15 -h 15 --overwrite -s {}".format(script, fname, imgpath, style))
         imageObject = Image.open(imgpath)
         cropped = imageObject.crop((0, 0, 500, 500))
         cropped.save(imgpath)
