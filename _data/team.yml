@@ -32,16 +32,22 @@
   img: /johannes-thomsen.jpg
   desc: PhD student
   linkedin: johannesthomsen
+  orcid: 0000-0002-0148-9114
+  email: johannes.thomsen@chem.ku.dk
 
 - name: Simon Bo Jensen
   img: /simon-jensen.jpg
   desc: PhD student
-  blank: true
+  email: sbj@chem.ku.dk
+  linkedin: simon-bo-jensen
+  orcid: 0000-0002-8946-3831
 
 - name: Søren Schmidt-Rasmussen Nielsen
   img: /soren-nielsen.jpg
   desc: PhD student
-  blank: true
+  email: soeren@chem.ku.dk
+  linkedin: søren-nielsen-541a1a87
+  orcid: 0000-0002-8107-2465
 
 - name: Camilla Dyngbo Thorlaksen
   img: /camilla-dyngbo.jpg
@@ -56,7 +62,8 @@
 - name: Magnus Berg Sletfjerding
   img: /mags-berg.jpg
   desc: PhD student, Sino-Danish Center
-  blank: true
+  email: mbs@chem.ku.dk
+  linkedin: msletfj
 
 - name: Amalie Sigersen Kallenbach
   img: /amalie-sigersen.jpg
@@ -66,7 +73,9 @@
 - name: Philip Mark Lund
   img: /philip-lund.jpg
   desc: Master student
-  blank: true
+  email: nhs827@alumni.ku.dk
+  linkedin: philip-mark-lund-13034971
+  orcid: 0000-0001-5935-9753
 
 - name: Freja Jacobsen Bohr
   img: /freja-bohr.jpg
@@ -75,7 +84,7 @@
 
 - name: Jacob Kæstel-Hansen
   img: /jakob-hansen.jpg
-  desc: Master student
+  desc: Master student, Novozymes
   blank: true
 
 - name: Henrik Pinholt

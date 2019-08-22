@@ -13,13 +13,9 @@
                                  src="/assets/img/portfolio/large-{{ project.photo }}.png" alt="{{ project.img-alt }}">
                             <p>{{ project.description }}</p>
 
-                            <!--                            {% if project.extra == true %}-->
-                            <!--                            <img class="img-responsive img-centered"-->
-                            <!--                                 src="/assets/img/portfolio/{{ project.photo }}-extra1.png" alt="{{ project.img-alt }}">-->
-
-                            <img src="/assets/img/portfolio/lipase_video.gif" alt="{{ project.img-alt }}">
-
-                            <!--                            {% endif %}-->
+                            {% if project.extra == true %}
+                            <img class="img-responsive img-centered" src="/assets/img/portfolio/extra-{{ project.photo }}.png" alt="{{ project.img-alt }}">
+                            {% endif %}
 
                             <button type=" button" class="btn btn-primary" data-dismiss="modal"><i
                                     class="fa fa-close"></i> Close
