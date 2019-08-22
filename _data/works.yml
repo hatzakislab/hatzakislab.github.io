@@ -5,20 +5,32 @@
 - order: 001
   id: "project1"
   name: "smFRET on CRISPR-Cas"
-  photo: "fret.png"
+  photo: "fret"
   description: "Adaptive immunity in bacteria is accomplished by the CRISPR system, and CRISPR-associated proteins (Cas). Proteins coupled with RNA are guided by this system to recognize and cleave foreign genetic material. As such, it’s also a powerful method for genome editing, and is receiving lot of bio technical and medical attention currently. By using single molecule FRET we can study this system in great detail, and obtain a wealth of structural and kinetic information, when combining with other techniques. Read how we did this in Stella et al. (2018), published in <em>Cell</em>."
   color: rgb(236, 253, 254)
+  extra: "false"
 
 - order: 002
   id: "project2"
   name: "Drug delivery in mucus"
-  photo: "mucus.png"
+  photo: "mucus"
   description: "By employing single particle tracking on novel nano-carriers in drug delivery, we are able to investigate their interactions with biological samples and simultaneously monitor particle mobility and drug release in live human cells. We aim to utilize the methodology to develop and optimize site specific and fast delivery of tailor made pharmaceuticals. To do so, we deploy advanced statistical analysis in combination with machine learning - thus deciphering the mechanistic details that governs interactions at the cellular level. <br>Ultimo June 2019 our lab will be equipped with a state of the art Olympus super resolution spinning disk microscope, thus extending the method to live 3D tracking"
   color: rgb(243, 254, 236)
+  extra: "false"
 
 - order: 003
   id: "project3"
   name: "Ligand design with computational docking"
-  photo: "por.png"
+  photo: "por"
   description: "Computational docking allows virtual screening of 10,000+ compounds on a molecular target. By careful analysis of the target and ligand structures, a large library of compounds can be narrowed down to a handful of hits. Possible drug candidates are tested in vitro using enzymatic activity assays reporting the turnover of specific enzymes. The most promising compounds are selected for screening in cell-based assays, which reveal if the compounds have any biological activity and qualify for further drug development. We use smFRET measurements to decipher how drug candidates alter the conformational dynamics of their target, thus providing unique mechanistic detail and insight into the structure-function relationship. Ultimately, this project may lead to the discovery of novel ligands in the treatment of various diseases."
   color: rgb(253, 252, 233)
+  extra: "false"
+
+- order: 004
+  id: "project4"
+  name: "Single particle tracking on Lipase mutants"
+  photo: "lipase"
+  description: "Lipases are interfacially activated hydrolases, which play an important role in both biological processes as well as industrial applications, catalyzing reactions at the water-lipid interface. Our understanding of lipases function to date primarily relies on averaging techniques reporting the behavior of large ensemble of heterogeneous enzymes, which may disguise heterogenic behaviors. We have developed a single-molecule fluorescence microscopy assay to track thousands of individual Thermomyces Lanuginosus Lipase (TLL) enzymes, on native trimyristin substrate surfaces. Our high- quality data allow us to directly observe distinct patterns of lipase diffusional properties both within the observation time of a single trajectory and after system equilibration. Readouts on multiple lipase mutants allowed us to delve into a deeper understanding of molecular detail governing enzymatic function and provide links of enzyme structure to functional phenotypes. Using Deep-Learning methods, we decipher the subtle mechanistic differences and provide a model for function/inhibition and their relation to structure."
+  color: rgb(252, 245, 245)
+  extra: "false"
+
