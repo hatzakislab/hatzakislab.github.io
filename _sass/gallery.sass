@@ -1,0 +1,116 @@
+// Width of the content area
+$content-width: 800px
+
+$on-palm: 600px
+$on-laptop: 800px
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+=media-query($device)
+  @media screen and (max-width: $device)
+    @content
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+
+@import base
+
+#gallery
+  .row
+    width: 100%
+    display: block
+
+    // base definition
+    .column
+      float: left
+      display: block
+      box-sizing: border-box
+
+    .full-width
+      @extend .column
+
+      width: 100%
+
+    .half-width
+      @extend .column
+
+      @media screen and (min-width: $on-palm)
+        width: 48%
+
+    .one-third-width
+      @extend .column
+
+      width: 31.3333333%
+
+    .one-tenth-width
+      @extend .column
+
+      width: 10%
+
+    .nine-tenth-width
+      @extend .column
+
+      @media screen and (min-width: $on-palm)
+        width: 90%
+
+    .two-third-width
+      @extend .column
+
+      @media screen and (min-width: $on-palm)
+        width: 64.6666666%
+
+    @media screen and (min-width: $on-palm)
+      .left
+        margin-left: 0
+        margin-right: 2%
+
+      .right
+        margin-left: 2%
+        margin-right: 0
+
+    &::after
+      content: ""
+      display: table
+      clear: both
+
+
+  $default-width: 50%
+
+  *
+    -webkit-box-sizing: border-box
+    -moz-box-sizing: border-box
+    box-sizing: border-box
+
+  /* force scrollbar, prevents initial gap
+  html
+    overflow-y: scroll
+
+  .image-wrapper,
+  .gallery-sizer
+    width: $default-width
+
+  .image-gallery
+    display: block
+
+    .image-wrapper
+      float: left
+      padding: 3px
+
+      // hack required if no padding
+      .image
+        width: 100.1%
+        width: calc( 100% + 1px )
+        height: 100%
+
+    &:after
+      content: ''
+      display: block
+      clear: both
+
+  .caption
+    position: static
+    color: #AAA

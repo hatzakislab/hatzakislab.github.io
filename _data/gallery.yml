@@ -1,0 +1,28 @@
+# Appears in the same order on the website, as below
+picture_path: gallery
+
+pictures:
+- original: simon-mette-francis.jpg
+  thumbnail: simon-mette-francis.jpg
+  title: Simon, Mette and nobel laureate Francis Arnold
+
+- original: bbq.jpg
+  thumbnail: bbq.jpg
+  title: Our annual BBQ
+
+- original: chemistry-gala.jpg
+  thumbnail: chemistry-gala.jpg
+  title: Department of Chemistry galla party
+
+- original: nikos-award.jpg
+  thumbnail: nikos-award.jpg
+  title: Greek award ceremony
+
+- original: nikos-francis.jpg
+  thumbnail: nikos-francis.jpg
+  title: Nikos and nobel laureate Francis Arnold
+
+- original: soeren-isbuc.jpg
+  thumbnail: soeren-isbuc.jpg
+  title: Søren wins award for best poster at ISBUC
+

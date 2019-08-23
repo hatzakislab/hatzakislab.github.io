@@ -9,3 +9,4 @@ layout: default
 {% include funding.html %}
 {% include publications.html %}
 {% include software.html %}
+{% include gallery.html %}
