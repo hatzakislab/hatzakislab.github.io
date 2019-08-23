@@ -10,10 +10,12 @@
 #
 #  Or else it takes way too long to load the site, and the layout messes up
 
+# Use language injections to format the texts with HTML
+
 - order: 001
   id: "project1"
-  name: "smFRET on CRISPR-Cas"
-  photo: "fret"
+  name: "smFRET on CRISPR-Cas12a"
+  photo: "fret" #language=HTML
   description: "Adaptive immunity in bacteria is accomplished by the CRISPR system, and CRISPR-associated proteins (Cas). Proteins coupled with RNA are guided by this system to recognize and cleave foreign genetic material. As such, it’s also a powerful method for genome editing, and is receiving lot of bio technical and medical attention currently. By using single molecule FRET we can study this system in great detail, and obtain a wealth of structural and kinetic information, when combining with other techniques. Read how we did this in Stella et al. (2018), published in <em>Cell</em>."
   color: rgb(236, 253, 254)
   extra: true
@@ -21,7 +23,7 @@
 - order: 002
   id: "project2"
   name: "Drug delivery in mucus"
-  photo: "mucus"
+  photo: "mucus" #language=HTML
   description: "By employing single particle tracking on novel nano-carriers in drug delivery, we are able to investigate their interactions with biological samples and simultaneously monitor particle mobility and drug release in live human cells. We aim to utilize the methodology to develop and optimize site specific and fast delivery of tailor made pharmaceuticals. To do so, we deploy advanced statistical analysis in combination with machine learning - thus deciphering the mechanistic details that governs interactions at the cellular level. <br>Ultimo June 2019 our lab will be equipped with a state of the art Olympus super resolution spinning disk microscope, thus extending the method to live 3D tracking"
   color: rgb(243, 254, 236)
   extra: false
@@ -29,26 +31,27 @@
 - order: 003
   id: "project3"
   name: "Regulation of metabolic disorder by ligands"
-  photo: "por"
+  photo: "por" #language=HTML
   description: "POR is a central molecular hub activating a plethora of metabolic pathways by donating electrons to more than 50 different cytochrome P450 enzymes (CYPs). Point mutations in POR cause severe metabolic disorder due to altered POR-CYP interactions. In collaboration with Paediatric Endocrinology at the University Hospital Bern, Switzerland, and Department of Plant Biology, University of Copenhagen, we study these interactions all the way from clinical phenotype down to the fundamental limit of individual proteins.
   <br><br>
 
   Combining single molecule FRET and single turnover studies with cell studies and docking simulations we advance our understanding on the intricate role of conformational dynamics to activity and specificity and eventually how pathogenic mutations and small molecule ligand interactions control metabolic disorder and biosynthetic pathways.
   <br><br>
 
-  Relevant publications:<br><br>
+  Relevant publications:
+  <p style='font-size:15px'>
   Laursen, T. et al. Characterization of a Dynamic Metabolon Producing the Defense Compound Dhurrin in Sorghum. <em>Science</em> (2017), 354, 890-893.<br><br>
   Bavishi, K. et al. Direct Observation of Multiple Conformational States in Cytochrome P450 Oxidoreductase and their Modulation by Membrane Environment. <em>Scientific Reports</em> (2018), 8, 1-9.<br><br>
   Laursen, T. et al. Single Molecule Activity Measurements of Cytochrome P450 Oxidoreductase Reveal the Existence of Two Discrete Functional States. <em>ACS Chem. Biol.</em> (2014), 9, 630-634.<br><br>
+  </p>
   "
-
   color: rgb(253, 252, 233)
   extra: false
 
 - order: 004
   id: "project4"
   name: "Single particle tracking on Lipase mutants"
-  photo: "lipase"
+  photo: "lipase" #language=HTML
   description: "Lipases are interfacially activated hydrolases, which play an important role in both biological processes as well as industrial applications, catalyzing reactions at the water-lipid interface. Our understanding of lipases function to date primarily relies on averaging techniques reporting the behavior of large ensemble of heterogeneous enzymes, which may disguise heterogenic behaviors. We have developed a single-molecule fluorescence microscopy assay to track thousands of individual Thermomyces Lanuginosus Lipase (TLL) enzymes, on native trimyristin substrate surfaces. Our high- quality data allow us to directly observe distinct patterns of lipase diffusional properties both within the observation time of a single trajectory and after system equilibration. Readouts on multiple lipase mutants allowed us to delve into a deeper understanding of molecular detail governing enzymatic function and provide links of enzyme structure to functional phenotypes. Using Deep-Learning methods, we decipher the subtle mechanistic differences and provide a model for function/inhibition and their relation to structure."
   color: rgb(252, 245, 245)
   extra: false
