@@ -1,7 +1,7 @@
-<!-- Portfolio Grid Generator-->
+<!-- Project Grid Generator-->
 <script src="/assets/js/jqBootstrapValidation.js"></script>
 
-<section id="portfolio" class="bg-white">
+<section id="projects" class="bg-white">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -9,15 +9,15 @@
             </div>
         </div>
         <div class="row">
-            {% for project in site.data.works %}
-            <div class="col-md-4 portfolio-item">
-                <a href="#{{ project.id }}" class="portfolio-link" data-toggle="modal">
+            {% for project in site.data.projects %}
+            <div class="col-md-4 project-item">
+                <a href="#{{ project.id }}" class="project-link" data-toggle="modal">
                     <div class="modal-header">{{ project.name }}</div>
-                    <div class="portfolio-hover">
-                        <div class="portfolio-hover-content">
+                    <div class="project-hover">
+                        <div class="project-hover-content">
                         </div>
                     </div>
-                    <img src="/assets/img/portfolio/{{ project.photo }}.png" class="img-responsive"
+                    <img src="/assets/img/projects/{{ project.photo }}.png" class="img-responsive"
                          alt="{{ project.img-alt }}" style="background-color: {{ project.color }}">
                 </a>
             </div>

@@ -28,9 +28,20 @@
 
 - order: 003
   id: "project3"
-  name: "Ligand design with computational docking"
+  name: "Regulation of metabolic disorder by ligands"
   photo: "por"
-  description: "Computational docking allows virtual screening of 10,000+ compounds on a molecular target. By careful analysis of the target and ligand structures, a large library of compounds can be narrowed down to a handful of hits. Possible drug candidates are tested in vitro using enzymatic activity assays reporting the turnover of specific enzymes. The most promising compounds are selected for screening in cell-based assays, which reveal if the compounds have any biological activity and qualify for further drug development. We use smFRET measurements to decipher how drug candidates alter the conformational dynamics of their target, thus providing unique mechanistic detail and insight into the structure-function relationship. Ultimately, this project may lead to the discovery of novel ligands in the treatment of various diseases."
+  description: "POR is a central molecular hub activating a plethora of metabolic pathways by donating electrons to more than 50 different cytochrome P450 enzymes (CYPs). Point mutations in POR cause severe metabolic disorder due to altered POR-CYP interactions. In collaboration with Paediatric Endocrinology at the University Hospital Bern, Switzerland, and Department of Plant Biology, University of Copenhagen, we study these interactions all the way from clinical phenotype down to the fundamental limit of individual proteins.
+  <br><br>
+
+  Combining single molecule FRET and single turnover studies with cell studies and docking simulations we advance our understanding on the intricate role of conformational dynamics to activity and specificity and eventually how pathogenic mutations and small molecule ligand interactions control metabolic disorder and biosynthetic pathways.
+  <br><br>
+
+  Relevant publications:<br><br>
+  Laursen, T. et al. Characterization of a Dynamic Metabolon Producing the Defense Compound Dhurrin in Sorghum. <em>Science</em> (2017), 354, 890-893.<br><br>
+  Bavishi, K. et al. Direct Observation of Multiple Conformational States in Cytochrome P450 Oxidoreductase and their Modulation by Membrane Environment. <em>Scientific Reports</em> (2018), 8, 1-9.<br><br>
+  Laursen, T. et al. Single Molecule Activity Measurements of Cytochrome P450 Oxidoreductase Reveal the Existence of Two Discrete Functional States. <em>ACS Chem. Biol.</em> (2014), 9, 630-634.<br><br>
+  "
+
   color: rgb(253, 252, 233)
   extra: false
 
