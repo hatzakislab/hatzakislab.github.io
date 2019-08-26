@@ -4,7 +4,11 @@ picture_path: gallery
 pictures:
 - original: simon-mette-francis.jpg
   thumbnail: simon-mette-francis.jpg
-  title: Simon, Mette and nobel laureate Francis Arnold
+  title: Simon, Mette, Nikos and nobel laureate Francis Arnold
+
+- original: aperol.jpg
+  thumbnail: aperol.jpg
+  title: Aperol!
 
 - original: bbq.jpg
   thumbnail: bbq.jpg
@@ -25,4 +29,3 @@ pictures:
 - original: soeren-isbuc.jpg
   thumbnail: soeren-isbuc.jpg
   title: Søren wins award for best poster at ISBUC
-
