@@ -65,10 +65,10 @@
   email: mbs@chem.ku.dk
   linkedin: msletfj
 
-- name: Amalie Sigersen Kallenbach
-  img: /amalie-sigersen.jpg
-  desc: Master student
-  blank: true
+#- name: Amalie Sigersen Kallenbach
+#  img: /amalie-sigersen.jpg
+#  desc: Master student
+#  blank: true
 
 - name: Philip Mark Lund
   img: /philip-lund.jpg

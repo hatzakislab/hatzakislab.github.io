@@ -1,10 +1,10 @@
 @import variables
+@import mixins
 
 $text-hover: #0a0a14
 $color-semiblack: #5b5b5b
 $color-lightgrey: lightgrey
 $color-fontblack: #333333
-
 $default-font-size: 17px
 
 // The grey rows
@@ -28,6 +28,11 @@ header
   text-align: left
 
 /* --- NavBar ---
+#mainNav
+  @media (min-width: 768px)
+    .navbar-collapse
+      float: right
+
 .navbar-default
   border-color: rgba(34, 34, 34, 0.05)
   -webkit-transition: all 0.35s
@@ -71,7 +76,6 @@ header
     background-color: transparent
 
 
-@media (min-width: 768px)
   .navbar-default
     background-color: transparent
     border-color: transparent
@@ -118,10 +122,6 @@ header
 
       &:hover, &:focus:hover
         color: $text-hover
-
-#mainNav
-  a
-    background-color: transparent
 
 /* --- Intro ---
 #intro
@@ -235,7 +235,7 @@ ul.social-buttons li a
       font-size: 4vw
 
     @media (min-width: 750px)
-      font-size: 18pt
+      font-size: 13pt
 
   .project-item .project-link
     max-width: none
@@ -278,6 +278,9 @@ a:hover, a:visited, a:link, a:active
   p
     color: $color-semiblack
     font-size: $default-font-size
+
+  .col-md-4
+    padding-bottom: 20px
 
   @media (min-width: 992px)
     .col-md-4
