@@ -1,11 +1,11 @@
-title: Hatzakis Group
+title: Hatzakis Lab
 description: > # this means to ignore newlines until "author:"
-  Single Molecule Microscopy Group at the University of Copenhagen
-author: Hatzakis Group
+  Single Molecule Microscopy Lab at the University of Copenhagen
+author: Hatzakis Lab
 keyword: jekyll
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://hatzakisgroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  "hatzakisgroup"
+url: "https://hatzakislab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  "hatzakislab"
 
 social:
   name: Nikos Hatzakis
