@@ -3,29 +3,24 @@ picture_path: /
 
 pictures:
 - original: simon-mette-francis.jpg
-  thumbnail: simon-mette-francis.jpg
   title: Simon, Mette, Nikos and nobel laureate Francis Arnold
 
 - original: aperol.jpg
-  thumbnail: aperol.jpg
   title: Aperol!
 
 - original: bbq.jpg
-  thumbnail: bbq.jpg
   title: Our annual BBQ
 
 - original: chemistry-gala.jpg
-  thumbnail: chemistry-gala.jpg
   title: Department of Chemistry galla party
 
 - original: nikos-award.jpg
-  thumbnail: nikos-award.jpg
+  thumbnail: nikos-award.min.jpg
   title: Greek award ceremony
 
 - original: nikos-francis.jpg
-  thumbnail: nikos-francis.jpg
+  thumbnail: nikos-francis.min.jpg
   title: Nikos and nobel laureate Francis Arnold
 
 - original: soeren-isbuc.jpg
-  thumbnail: soeren-isbuc.jpg
   title: Søren wins award for best poster at ISBUC

@@ -7,7 +7,9 @@
         </div>
         {% for funding in site.data.funding %}
         <div class="col-md-3 col-sm-6">
-            <img src="/assets/img/logos/{{ funding.logo }}" class="img-responsive img-centered"
+            <img class="lazy img-responsive img-centered"
+                 data-original="/assets/img/logos/{{ funding.logo }}"
+                 src="/assets/img/logos/min/{{ funding.logo }}"
                  alt="{{ client.img-alt }}">
         </div>
         {% endfor %}

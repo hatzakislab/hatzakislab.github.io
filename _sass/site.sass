@@ -11,13 +11,23 @@ $default-font-size: 17px
 .bg-light-gray
   background-color: #FAFAFA
 
-/* --- Background ---
-//Photo by Light Liu on Unsplash
-header
-  background-image: url("../assets/img/header-bg.jpg")
-  max-height: 240pt
-  padding: 120px 0 30px
+#header
+  position: relative
+  background-repeat: no-repeat
+  background-position: center center
+  background-size: cover
+  background-attachment: scroll
+  height: 300px
 
+#page-top > header > div.container > div > div
+  position: absolute
+  color: white
+  opacity: 0.9
+  top: 200px
+  @media (min-width: 768px)
+    top: 220px
+
+/* --- Background ---
 .container
   padding-right: 15px
   padding-left: 15px

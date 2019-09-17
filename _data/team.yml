@@ -17,11 +17,11 @@
   img: /min-zhang.jpg
   desc: Lundbeck Foundation postdoc fellow
   blank: true
-
-- name: Pradeep Kumar Singh
-  img: /pradeep-kumar.jpg
-  desc: Postdoc fellow
-  blank: true
+#
+#- name: Pradeep Kumar Singh
+#  img: /pradeep-kumar.jpg
+#  desc: Postdoc fellow
+#  blank: true
 
 - name: Matias Moses
   img: /matias-moses.jpg
@@ -65,11 +65,6 @@
   email: mbs@chem.ku.dk
   linkedin: msletfj
 
-#- name: Amalie Sigersen Kallenbach
-#  img: /amalie-sigersen.jpg
-#  desc: Master student
-#  blank: true
-
 - name: Philip Mark Lund
   img: /philip-lund.jpg
   desc: Master student
@@ -89,5 +84,10 @@
 
 - name: Henrik Pinholt
   img: /henrik-pinholt.jpg
-  desc: Bachelor student
+  desc: Master student
   blank: true
+#
+#- name: Amalie Sigersen Kallenbach
+#  img: /amalie-sigersen.jpg
+#  desc: Master student
+#  blank: true
