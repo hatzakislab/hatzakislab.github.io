@@ -22,6 +22,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-twitter-plugin
 exclude:
   - agency-jekyll-theme.gemspec
   - Gemfile
