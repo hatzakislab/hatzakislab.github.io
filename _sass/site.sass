@@ -160,6 +160,9 @@ header
     position: relative
     overflow: hidden
 
+    @media screen and (min-width: 768px)
+      width: 768px
+      overflow: hidden
 
   .hidden-box .read-more
     position: absolute
@@ -307,10 +310,22 @@ a:hover, a:visited, a:link, a:active
 
 /* --- Funding ---
 #funding
-  .carousel-inner > .item > a > img,
-  .carousel-inner > .item > img,
-  .img-responsive, .thumbnail a > img,
-  .thumbnail > img
+  @media screen and (max-width: 768px)
+    .scroll-wrapper
+      max-height: 200px
+      display: flex
+      flex-wrap: nowrap
+      overflow-x: scroll
+
+    .scroll-wrapper-box
+      flex: 0 0 auto
+      padding: 15px
+
+    .container
+      padding-left: 0
+      padding-right: 0
+
+  img
     height: 115px
 
 
