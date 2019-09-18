@@ -4,6 +4,7 @@ layout: default
 {% include header.html %}
 {% include intro.html %}
 {% include projects.html %}
+{% include news.html %}
 {% include project-modals.html %}
 {% include team.html %}
 {% include funding.html %}
