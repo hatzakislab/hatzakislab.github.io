@@ -1,8 +1,7 @@
 var $el, $ps, $up, totalHeight;
 
 $(".hidden-box .button").click(function () {
-
-    totalHeight = 0
+    totalHeight = 0;
 
     $el = $(this);
     $p = $el.parent();
@@ -18,7 +17,8 @@ $(".hidden-box .button").click(function () {
         .css({
             // Set height to prevent instant jumpdown when max height is removed
             "height": $up.height(),
-            "max-height": 9999
+            "max-height": 9999,
+            "color": "#333333",
         })
         .animate({
             "height": totalHeight
