@@ -22,10 +22,17 @@ header
   .placeholder img
     position: absolute
     opacity: 0
-    top: -50% /* to move it a bit up */
-    left: 0
+    top: -50%
+    /* to move it a bit up */
     width: 100%
     transition: opacity 1s linear
+
+  @media (max-width: 768px)
+    .placeholder img
+      position: absolute
+      top: 0
+      /* to move it a bit up */
+      width: 100%
 
   .placeholder img.loaded
     opacity: 1
@@ -34,14 +41,6 @@ header
     filter: blur(50px)
     transform: scale(1)
 /* this is needed so Safari keeps sharp edges */
-
-#page-top > header > div.container > div > div
-  position: absolute
-  color: white
-  opacity: 0.9
-  top: 200px
-  @media (min-width: 768px)
-    top: 220px
 
 /* --- Background ---
 .container
@@ -79,9 +78,6 @@ header
     padding: 8px 10px
 
   .nav > li > a
-    //text-transform: uppercase
-    letter-spacing: 2px
-    font-size: 14px
     color: $color-semiblack
     background-color: transparent
 
@@ -100,7 +96,6 @@ header
 .navbar-default .nav > li.active > a
   &:hover, &:focus:hover
     background-color: transparent
-
 
   .navbar-default
     background-color: transparent
@@ -160,6 +155,29 @@ header
   ul
     font-size: $default-font-size
 
+  .hidden-box
+    max-height: 120px
+    position: relative
+    overflow: hidden
+
+
+  .hidden-box .read-more
+    position: absolute
+    bottom: 0
+    left: 0
+    width: 100%
+    text-align: center
+    margin: 0
+    padding: 0
+
+    /* "transparent" only works here because == rgba(0,0,0,0) */
+    background-image: radial-gradient(#FAFAFA, transparent)
+    background-size: cover
+
+
+  .read-more .button
+    color: #333333
+    font-weight: bold
 
 /* --- People ---
 #team
