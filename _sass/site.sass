@@ -6,6 +6,7 @@ $color-semiblack: #5b5b5b
 $color-lightgrey: lightgrey
 $color-fontblack: #333333
 $default-font-size: 17px
+$header-bg: black
 
 // The grey rows
 .bg-light-gray
@@ -16,12 +17,11 @@ section
   padding-bottom: 70px
 
 header
-  background-color: #0B0915
+  background-color: $header-bg
   background-size: cover
   background-repeat: no-repeat
   position: relative
   overflow: hidden
-  max-height: 300px
 
   .placeholder img
     position: absolute
@@ -152,15 +152,20 @@ header
 #intro
   .container
     max-width: 768px
+    color: white
+    opacity: 0.9
 
   p
     font-size: $default-font-size
+    color: white
+    //opacity: 0.2
 
   ul
     font-size: $default-font-size
 
   .hidden-box
     max-height: 120px
+    opacity: 0.6
     position: relative
     overflow: hidden
     color: #727272
@@ -179,12 +184,11 @@ header
     padding: 0
 
     /* "transparent" only works here because == rgba(0,0,0,0) */
-    background-image: radial-gradient(#FAFAFA, transparent)
+    background-image: radial-gradient(rgba(108, 127, 41, 0.94) 26.05%, transparent 62.18%)
     background-size: cover
 
-
   .read-more .button
-    color: #333333
+    color: white
     font-weight: bold
 
 /* --- People ---

@@ -19,9 +19,11 @@ $(".hidden-box .button").click(function () {
             "height": $up.height(),
             "max-height": 9999,
             "color": "#333333",
+
         })
         .animate({
-            "height": totalHeight
+            "height": totalHeight,
+            "opacity":1
         });
 
     // fade out read-more
