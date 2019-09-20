@@ -8,6 +8,9 @@ $color-fontblack: #333333
 $default-font-size: 17px
 $header-bg: black
 
+$navbar-font-color: #FBFBFB
+$navbar-bg-color: rgba(5, 5, 6, 0.85)
+
 // The grey rows
 .bg-light-gray
   background-color: #FAFAFA
@@ -62,129 +65,61 @@ header
     .navbar-collapse
       float: right
 
-.navbar-default
-  border-color: rgba(34, 34, 34, 0.05)
-  -webkit-transition: all 0.35s
-  -moz-transition: all 0.35s
-  transition: all 0.35s
-  background-color: white
+  background-color: $navbar-bg-color
+  border-color: $navbar-bg-color
+  margin: 0px
 
-  .navbar-header
-    .navbar-brand
-      color: $color-semiblack
-
-      &:hover, &:focus
-        color: $text-hover
-
-  .navbar-toggle
-    font-size: 14px
-    color: $color-semiblack
-    padding: 8px 10px
-
-  .nav > li > a
-    color: $color-semiblack
-    background-color: transparent
-
-    &:focus
-      color: $color-semiblack
-      background-color: transparent
+  a, li, ul
+    color: $navbar-font-color
 
     &:hover
-      color: $text-hover
-      background-color: transparent
+      color: $navbar-font-color
+      transition: 0.5s
 
-  .nav > li.active > a
-    color: $text-hover
-    background-color: transparent
+  div > div.navbar-header.page-scroll > button
+    border-color: rgba(1, 1, 1, 0)
+    background-color: rgba(255, 255, 255, 0.22)
 
-.navbar-default .nav > li.active > a
-  &:hover, &:focus:hover
-    background-color: transparent
+  #bs-example-navbar-collapse-1
+    border-color: $navbar-bg-color
 
-  .navbar-default
-    background-color: transparent
-    border-color: transparent
-
-    .nav > li > a
-      color: $color-lightgrey
-
-      &:hover
-        color: white
-
-      &:focus
-        color: white
-
-      &:focus:hover
-        color: white
-
-    .navbar-header
-      color: $color-lightgrey
-
-      .navbar-brand
-        color: $color-lightgrey
-
-        &:hover, &:focus, &:focus:hover
-          color: white
-
-  // section below for when not at the top
-  .navbar-default.affix
-    background-color: white
-    border-color: rgba(34, 34, 34, 0.1)
-
-    .navbar-header
-      .navbar-brand
-        color: $color-semiblack
-        background-color: transparent
-
-        &:hover, &:focus
-          color: $text-hover
-
-    .nav > li > a
-      color: $color-semiblack
-
-      &:focus
-        color: $color-semiblack
-
-      &:hover, &:focus:hover
-        color: $text-hover
+  button
+    // hamburger menu
+    color: $navbar-font-color
 
 /* --- Intro ---
 #intro
   .container
     max-width: 768px
     color: white
-    opacity: 0.9
 
   p
     font-size: $default-font-size
     color: white
-    //opacity: 0.2
 
   ul
     font-size: $default-font-size
 
   .hidden-box
     max-height: 120px
-    opacity: 0.6
     position: relative
     overflow: hidden
     color: #727272
+    width: 100%
 
-    @media screen and (min-width: 768px)
-      width: 768px
-      overflow: hidden
+  .hidden-box p:not(.read-more)
+    opacity: 0.4
 
   .hidden-box .read-more
     position: absolute
     bottom: 0
-    left: 0
     width: 100%
     text-align: center
     margin: 0
     padding: 0
 
     /* "transparent" only works here because == rgba(0,0,0,0) */
-    background-image: radial-gradient(rgba(108, 127, 41, 0.94) 26.05%, transparent 62.18%)
+    background-image: radial-gradient(#1B4958 20.05%, transparent 62.18%)
     background-size: cover
 
   .read-more .button

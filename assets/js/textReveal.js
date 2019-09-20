@@ -15,18 +15,19 @@ $(".hidden-box .button").click(function () {
 
     $up
         .css({
-            // Set height to prevent instant jumpdown when max height is removed
             "height": $up.height(),
             "max-height": 9999,
             "color": "#333333",
-
         })
         .animate({
             "height": totalHeight,
-            "opacity":1
         });
 
-    // fade out read-more
+    $ps.animate({
+        "opacity": 0.9
+    });
+
+    // fade out read-more button
     $p.fadeOut();
 
     // prevent jump-down
