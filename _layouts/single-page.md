@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-{% include header.html %}
 {% include intro.html %}
 {% include projects.html %}
 {% include news.html %}

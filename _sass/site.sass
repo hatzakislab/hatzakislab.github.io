@@ -29,16 +29,14 @@ header
   .placeholder img
     position: absolute
     opacity: 0
-    top: -50%
-    /* to move it a bit up */
+    top: -170%
     width: 100%
-    transition: opacity 1s linear
+    transition: opacity 3s linear
 
   @media (max-width: 768px)
     .placeholder img
       position: absolute
-      top: 0
-      /* to move it a bit up */
+      top: +10%
       width: 100%
 
   .placeholder img.loaded
@@ -60,6 +58,12 @@ header
   text-align: left
 
 /* --- NavBar ---
+nav
+  z-index: 9998
+  transition: all 0.5s
+  &.scrollUp
+    transform: translateY(-80px)
+
 #mainNav
   @media (min-width: 768px)
     .navbar-collapse
