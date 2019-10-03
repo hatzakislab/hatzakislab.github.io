@@ -17,7 +17,7 @@ $navbar-bg-color: rgba(5, 5, 6, 0.85)
 
 section
   padding-top: 70px
-  padding-bottom: 70px
+  padding-bottom: 45px
 
 header
   background-color: $header-bg
@@ -29,15 +29,16 @@ header
   .placeholder img
     position: absolute
     opacity: 0
-    top: -170%
+    top: 0
     width: 100%
     transition: opacity 3s linear
 
-  @media (max-width: 768px)
-    .placeholder img
-      position: absolute
-      top: +10%
-      width: 100%
+
+  //@media (max-width: 768px)
+  //  .placeholder img
+  //    position: absolute
+  //    width: 100%
+  //    background-size: cover
 
   .placeholder img.loaded
     opacity: 1
@@ -97,9 +98,14 @@ nav
     max-width: 768px
     color: white
 
+  h2
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.4)
+    color: whitesmoke
+
   p
     font-size: $default-font-size
-    color: white
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.4)
+    color: whitesmoke
 
   ul
     font-size: $default-font-size
@@ -123,11 +129,11 @@ nav
     padding: 0
 
     /* "transparent" only works here because == rgba(0,0,0,0) */
-    background-image: radial-gradient(#1B4958 20.05%, transparent 62.18%)
+    background-image: radial-gradient(rgba(29, 29, 29, 0.65) 20.05%, transparent 62.18%)
     background-size: cover
 
   .read-more .button
-    color: white
+    color: whitesmoke
     font-weight: bold
 
 /* --- People ---
