@@ -55,6 +55,7 @@ header
 nav
   z-index: 9998
   transition: all 0.5s
+
   &.scrollUp
     transform: translateY(-80px)
 
@@ -324,8 +325,24 @@ a:hover, a:visited, a:link, a:active
 
 /* --- Footer ---
 footer
-  span
-    filter: opacity(80%)
   img
     filter: opacity(80%)
+
+  span
+    color: $color-fontblack
+
+  .btn-link
+    &:hover, &:visited, &:active, &::selection, &:focus
+      text-decoration: none
+      color: $color-fontblack
+
+  .logo-footer-right
+    height: 45px
+
+  .footer-box
+    filter: opacity(90%)
+
+    @media (max-width: 992px)
+      margin-bottom: 140px
+
 
