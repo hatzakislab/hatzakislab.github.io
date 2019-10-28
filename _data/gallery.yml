@@ -2,8 +2,11 @@
 picture_path: /
 
 pictures:
+- original: joh_goodbye.jpg
+  title: Saying goodbye to Johannes before his stay at Tom Kirchhausen's lab at Harvard!
+
 - original: simon-mette-francis.jpg
-  title: Simon, Mette, Nikos and nobel laureate Francis Arnold
+  title: Simon, Mette, Nikos and Nobel Laureate Francis Arnold
 
 - original: aperol.jpg
   title: Aperol!
@@ -12,7 +15,7 @@ pictures:
   title: Our annual BBQ
 
 - original: chemistry-gala.jpg
-  title: Department of Chemistry galla party
+  title: Department of Chemistry gala party
 
 - original: nikos-award.jpg
   thumbnail: nikos-award.min.jpg
@@ -20,7 +23,7 @@ pictures:
 
 - original: nikos-francis.jpg
   thumbnail: nikos-francis.min.jpg
-  title: Nikos and nobel laureate Francis Arnold
+  title: Nikos and Nobel Laureate Francis Arnold
 
 - original: soeren-isbuc.jpg
   title: Søren wins award for best poster at ISBUC
