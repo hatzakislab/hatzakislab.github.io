@@ -2,35 +2,28 @@
 picture_path: /
 
 pictures:
+- original: joh_goodbye.jpg
+  title: Saying goodbye to Johannes before his stay at Tom Kirchhausen's lab at Harvard!
 
-  - original: mette_poster_award.jpg
-    title: Congratulations to Mette Malle for winning the Best Poster Award at the Copenhagen Nanomedicine Day!
+- original: simon-mette-francis.jpg
+  title: Simon, Mette, Nikos and Nobel Laureate Francis Arnold
 
-  - original: joh_goodbye.jpg
-    title: Saying goodbye to Johannes before his stay at Tom Kirchhausen's lab at Harvard!
+- original: aperol.jpg
+  title: Aperol!
 
-  - original: simon-mette-francis.jpg
-    title: Simon, Mette, Nikos and Nobel Laureate Francis Arnold
+- original: bbq.jpg
+  title: Our annual BBQ
 
-  - original: aperol.jpg
-    title: Aperol!
+- original: chemistry-gala.jpg
+  title: Department of Chemistry gala party
 
-  - original: summer_bbq_group.jpg
-    title: Group Summer Party 2019
+- original: nikos-award.jpg
+  thumbnail: nikos-award.min.jpg
+  title: Greek award ceremony
 
-  - original: bbq.jpg
-    title: The group Barbeque hosted by Nikos
+- original: nikos-francis.jpg
+  thumbnail: nikos-francis.min.jpg
+  title: Nikos and Nobel Laureate Francis Arnold
 
-  - original: chemistry-gala.jpg
-    title: Department of Chemistry gala party
-
-  - original: nikos-award.jpg
-    thumbnail: nikos-award.min.jpg
-    title: Greek award ceremony
-
-  - original: nikos-francis.jpg
-    thumbnail: nikos-francis.min.jpg
-    title: Nikos and Nobel Laureate Francis Arnold
-
-  - original: soeren-isbuc.jpg
-    title: Søren wins award for best poster at ISBUC
+- original: soeren-isbuc.jpg
+  title: Søren wins award for best poster at ISBUC
