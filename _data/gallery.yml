@@ -2,7 +2,11 @@
 picture_path: /
 
 pictures:
-- original: joh_goodbye.jpg
+
+- original: mette-poster-award.jpg
+  title: Congratulations to Mette Malle for winning the Best Poster Award at the Copenhagen Nanomedicine Day!
+
+- original: joh-goodbye.jpg
   title: Saying goodbye to Johannes before his stay at Tom Kirchhausen's lab at Harvard!
 
 - original: simon-mette-francis.jpg
