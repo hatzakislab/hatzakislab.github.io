@@ -1,0 +1,20 @@
+<!-- Services Section -->
+<section id="collaborations" class="bg-white">
+    <div class="container">
+        <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Collaborations</h2>
+            <br>
+        </div>
+        <div class="row">
+            {% for collaboration in site.data.collaborations %}
+            <div class="col-xs-12 col-md-4">
+                <p>
+                    <a>{{collaboration.title}}.</a><br>
+                    <em>{{collaboration.professor}}</em>{{publication.info}}
+                </p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    </div>
+</section>

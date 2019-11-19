@@ -8,5 +8,6 @@ layout: default
 {% include team.html %}
 {% include funding.html %}
 {% include publications.html %}
+{% include collaborations.html %}
 {% include software.html %}
 {% include gallery.html %}
