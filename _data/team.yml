@@ -24,6 +24,7 @@
 #  blank: true
 
 - name: Matias Moses
+  linkedin: matias-emil-moses
   img: /matias-moses.jpg
   desc: Industrial postdoc, Novozymes
   blank: true
@@ -50,11 +51,14 @@
   orcid: 0000-0002-8107-2465
 
 - name: Camilla Dyngbo Thorlaksen
+  linkedin: camilla-dyngbo-thorlaksen-89450913a
   img: /camilla-dyngbo.jpg
   desc: PhD student, Novo Nordisk STAR programme
   blank: true
 
 - name: Mette Galsgaard Malle
+  linkedin: mette-galsgaard-malle-180543192
+  email: malle@chem.ku.dk
   img: /mette-malle.jpg
   desc: PhD student
   blank: true
@@ -73,16 +77,19 @@
   orcid: 0000-0001-5935-9753
 
 - name: Freja Jacobsen Bohr
+  linkedin: freja-bohr-610100139
   img: /freja-bohr.jpg
   desc: Master student
   blank: true
 
 - name: Jacob Kæstel-Hansen
+  linkedin: jacob-kæstel-hansen-502008115
   img: /jakob-hansen.jpg
   desc: Master student, Novozymes
   blank: true
 
 - name: Henrik Pinholt
+  linkedin: henrik-pinholt-3bbb04105
   img: /henrik-pinholt.jpg
   desc: Master student
   blank: true
