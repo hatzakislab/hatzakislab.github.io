@@ -2,3 +2,4 @@
 _site/
 _site/feed.xml
 .idea/workspace.xml
+*.DS_Store
