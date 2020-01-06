@@ -12,8 +12,8 @@
   link: "Cell_analyzer_PYY.py"
   img: "Cell_analyzer_PYY.py.png"
 
-#- name: "Single Particle Tracking of Lipases"
-#  desc: "Python Script for analysing .tif movies of lipases diffusing on a surface. Code used to make data for Bohr, S. S.-R. et al. Scientific Reports, 2019  "
-##  link: "Cell_analyzer_PYY.py"
-##  img: "Cell_analyzer_PYY.py.png"
+- name: "Single Particle Tracking of Lipases"
+  desc: "Python Script for analysing .tif movies of lipases diffusing on a surface. Code used to make data for Bohr, S. S.-R. et al. Scientific Reports, 2019  "
+  link: "common_tracking.py"
+  img: "common_tracking.py.png"
 
