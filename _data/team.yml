@@ -69,13 +69,6 @@
   email: mbs@chem.ku.dk
   linkedin: msletfj
 
-- name: Philip Mark Lund
-  img: /philip-lund.jpg
-  desc: Master student
-  email: nhs827@alumni.ku.dk
-  linkedin: philip-mark-lund-13034971
-  orcid: 0000-0001-5935-9753
-
 - name: Freja Jacobsen Bohr
   linkedin: freja-bohr-610100139
   img: /freja-bohr.jpg
@@ -88,13 +81,24 @@
   desc: Master student, Novozymes
   blank: true
 
-- name: Henrik Pinholt
-  linkedin: henrik-pinholt-3bbb04105
-  img: /henrik-pinholt.jpg
+- name: Josephine F. Iversen
+  linkedin: josephine-freja-iversen-046a18169
+  img: /jose-iversen.jpg
   desc: Master student
   blank: true
-#
+
+#- name: Henrik Pinholt
+#  linkedin: henrik-pinholt-3bbb04105
+#  img: /henrik-pinholt.jpg
+#  desc: Master student
+#  blank: true
 #- name: Amalie Sigersen Kallenbach
 #  img: /amalie-sigersen.jpg
 #  desc: Master student
 #  blank: true
+#- name: Philip Mark Lund
+#  img: /philip-lund.jpg
+#  desc: Master student
+#  email: nhs827@alumni.ku.dk
+#  linkedin: philip-mark-lund-13034971
+#  orcid: 0000-0001-5935-9753
