@@ -1,6 +1,6 @@
 # add 'blank: true' as a line to avoid messing up layout
 
-- name: Nikos Hatzakis
+- name: Nikos S. Hatzakis
   img: /nikos-hatzakis.jpg
   desc: Associate Professor
   email: hatzakis@nano.ku.dk
@@ -17,13 +17,8 @@
   img: /min-zhang.jpg
   desc: Lundbeck Foundation postdoc fellow
   blank: true
-#
-#- name: Pradeep Kumar Singh
-#  img: /pradeep-kumar.jpg
-#  desc: Postdoc fellow
-#  blank: true
 
-- name: Matias Moses
+- name: Matias E. Moses
   linkedin: matias-emil-moses
   img: /matias-moses.jpg
   desc: Industrial postdoc, Novozymes
@@ -31,54 +26,54 @@
 
 - name: Johannes Thomsen
   img: /johannes-thomsen.jpg
-  desc: PhD student
+  desc: Ph.D. Student
   linkedin: johannesthomsen
   orcid: 0000-0002-0148-9114
   email: johannes.thomsen@chem.ku.dk
 
 - name: Simon Bo Jensen
   img: /simon-jensen.jpg
-  desc: PhD student
+  desc: Ph.D. Student
   email: sbj@chem.ku.dk
   linkedin: simon-bo-jensen
   orcid: 0000-0002-8946-3831
 
-- name: Søren Schmidt-Rasmussen Nielsen
+- name: Søren S.-R. Bohr
   img: /soren-nielsen.jpg
-  desc: PhD student
+  desc: Ph.D. Student
   email: soeren@chem.ku.dk
-  linkedin: søren-nielsen-541a1a87
+  linkedin: søren-s-r-bohr-541a1a87
   orcid: 0000-0002-8107-2465
 
-- name: Camilla Dyngbo Thorlaksen
+- name: Camilla D. Thorlaksen
   linkedin: camilla-dyngbo-thorlaksen-89450913a
   img: /camilla-dyngbo.jpg
-  desc: PhD student, Novo Nordisk STAR programme
+  desc: Ph.D. Student, Novo Nordisk STAR programme
   blank: true
 
-- name: Mette Galsgaard Malle
+- name: Mette G. Malle
   linkedin: mette-galsgaard-malle-180543192
   email: malle@chem.ku.dk
   img: /mette-malle.jpg
-  desc: PhD student
+  desc: Ph.D. Student
   blank: true
 
-- name: Magnus Berg Sletfjerding
+- name: Magnus B. Sletfjerding
   img: /mags-berg.jpg
-  desc: PhD student, Sino-Danish Center
+  desc: Ph.D. Student, Sino-Danish Center
   email: mbs@chem.ku.dk
   linkedin: msletfj
 
-- name: Freja Jacobsen Bohr
+- name: Freja J. Bohr
   linkedin: freja-bohr-610100139
   img: /freja-bohr.jpg
-  desc: Master student
+  desc: Master Student
   blank: true
 
 - name: Jacob Kæstel-Hansen
   linkedin: jacob-kæstel-hansen-502008115
   img: /jakob-hansen.jpg
-  desc: Master student, Novozymes
+  desc: Master Student, Novozymes
   blank: true
 
 - name: Josephine F. Iversen
@@ -92,10 +87,24 @@
 #  img: /henrik-pinholt.jpg
 #  desc: Master student
 #  blank: true
+
+# ALUMNI
 #- name: Amalie Sigersen Kallenbach
 #  img: /amalie-sigersen.jpg
-#  desc: Master student
+#  desc: Master Student
 #  blank: true
+#
+#- name: Pradeep Kumar Singh
+#  img: /pradeep-kumar.jpg
+#  desc: Postdoc fellow
+#  blank: true
+#
+#- name: Philip M. Lund
+#  img: /philip-lund.jpg
+#  desc: Master Student
+#  email: nhs827@alumni.ku.dk
+#  linkedin: philip-mark-lund-13034971
+#  orcid: 0000-0001-5935-9753
 #- name: Philip Mark Lund
 #  img: /philip-lund.jpg
 #  desc: Master student
