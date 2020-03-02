@@ -79,7 +79,12 @@
 - name: Josephine F. Iversen
   linkedin: josephine-freja-iversen-046a18169
   img: /jose-iversen.jpg
-  desc: Master student
+  desc: Master Student
+  blank: true
+
+- name: Yanet G. Bustamante
+  img: /yanet.jpg
+  desc: Master Student
   blank: true
 
 #- name: Henrik Pinholt
