@@ -50,6 +50,16 @@
                                     class="ai ai-orcid"></i></a>
                             </li>
                             {% endif %}
+                            {% if member.github %}
+                            <li><a href="http://github.com/{{ member.github }}" target="_blank"><i
+                                    class="fa fa-github"></i></a>
+                            </li>
+                            {% endif %}
+                            {% if member.website %}
+                            <li><a href="http://{{ member.website }}" target="_blank"><i
+                                    class="fa fa-home"></i></a>
+                            </li>
+                            {% endif %}
                         </ul>
                         <img class="lazy img-responsive img-circle" src="/assets/img/team/min/{{ member.img }}"
                              data-original="/assets/img/team/{{ member.img }}"/>
