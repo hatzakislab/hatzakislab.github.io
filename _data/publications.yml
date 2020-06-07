@@ -1,3 +1,10 @@
+- doi: https://doi.org/10.1021/acs.langmuir.0c00787
+  title: Label-Free Fluorescence Quantification of Hydrolytic Enzyme Activity on Native Substrates Reveals How Lipase Function Depends on Membrane Curvature
+  author: Bohr, S. S.-R. et al.
+  journal: Langmuir
+  #pages:
+  year: 2020
+
 - doi: doi.org/10.1038/s41467-019-13284-1
   title: A large size-selective DNA nanopore with sensing applications.
   author: Thomsen, S. P., et al.
