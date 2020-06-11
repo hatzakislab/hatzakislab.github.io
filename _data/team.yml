@@ -10,21 +10,22 @@
 
 - name: Codruta Ignea
   img: /codruta-ignea.jpg
-  desc: Marie Curie postdoc fellow
+  desc: Marie Curie Postdoc. Fellow
+  orcid: 0000-0002-6304-9413
   blank: true
 
 - name: Min Zhang
   img: /min-zhang.jpg
-  desc: Lundbeck Foundation postdoc fellow
+  orcid: 0000-0002-2797-5049
+  desc: Lundbeck Foundation Postdoc. Fellow
   blank: true
 
 - name: Matias E. Moses
   linkedin: matias-emil-moses
   img: /matias-moses.jpg
+  orcid: 0000-0001-8776-5302
   desc: Industrial postdoc, Novozymes
   blank: true
-
-
 
 - name: Simon Bo Jensen
   img: /simon-jensen.jpg
@@ -43,6 +44,7 @@
 - name: Camilla D. Thorlaksen
   linkedin: camilla-dyngbo-thorlaksen-89450913a
   img: /camilla-dyngbo.jpg
+  orcid: 0000-0002-5492-3818
   desc: Ph.D. Student, Novo Nordisk STAR programme
   blank: true
 
@@ -50,6 +52,7 @@
   linkedin: mette-galsgaard-malle-180543192
   email: malle@chem.ku.dk
   img: /mette-malle.jpg
+  orcid: 0000-0003-3722-502X
   desc: Ph.D. Student
   blank: true
 
