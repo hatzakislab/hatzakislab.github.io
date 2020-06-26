@@ -1,111 +1,115 @@
-- doi: https://doi.org/10.1021/acs.langmuir.0c00787
-  title: Label-Free Fluorescence Quantification of Hydrolytic Enzyme Activity on Native Substrates Reveals How Lipase Function Depends on Membrane Curvature
-  author: Bohr, S. S.-R. et al.
-  journal: Langmuir
-  #pages:
-  year: 2020
-
-- doi: doi.org/10.1021/acsami.9b19644
-  title: Ultrasmall TPGS–PLGA Hybrid Nanoparticles for Site-Specific Delivery of Antibiotics into Pseudomonas aeruginosa Biofilms in Lungs.
-  author: Wan, F., et al.
-  journal: ACS Appl. Mater. Interfaces
-  pages: 12, 1, 380–389
-  year: 2019
-
-- doi: doi.org/10.1038/s41467-019-13284-1
+- doi: 10.1038/s41467-019-13284-1
   title: A large size-selective DNA nanopore with sensing applications.
   author: Thomsen, S. P., et al.
   journal: Nature Communications
   pages: 175, 5655
   year: 2019
 
-- doi: doi.org/10.1038/s41598-019-52539-1
+- doi: 10.1038/s41598-019-52539-1
   title: Direct observation of Thermomyces lanuginosus lipase diffusional states by Single Particle Tracking and their remodeling by mutations and inhibition
   author: Bohr, S. S.-R. et al.
   journal: Sci Rep
   pages: 9, 16169
   year: 2019
 
-- doi: doi.org/10.1021/acs.molpharmaceut.9b00554
-  title: Half-Life Extending Modifications of Peptide YY3–36 Direct Receptor-Mediated Internalization
-  author: Bech, E. M. et al.
-  journal: Mol. Pharmaceutics
-  pages: 16, 8, 3665–3677
-  year: 2019
+#- doi: 10.1021/acs.molpharmaceut.9b00554
+#  title: Half-Life Extending Modifications of Peptide YY3–36 Direct Receptor-Mediated Internalization
+#  author: Bech, E. M. et al.
+#  journal: Mol. Pharmaceutics
+#  pages: 16, 8, 3665–3677
+#  year: 2019
+#
+#- doi: 10.3791/58896
+#  title: Single Liposome Measurements for the Study of Proton-Pumping Membrane Enzymes Using Electrochemistry and Fluorescent Microscopy
+#  author: Mazurenko, I. et al.
+#  journal: J. Vis. Exp.
+#  pages: (144), e58896
+#  year: 2019
 
-- doi: doi.org/10.3791/58896
-  title: Single Liposome Measurements for the Study of Proton-Pumping Membrane Enzymes Using Electrochemistry and Fluorescent Microscopy
-  author: Mazurenko, I. et al.
-  journal: J. Vis. Exp.
-  pages: (144), e58896
-  year: 2019
-
-- doi: doi.org/10.1016/j.cell.2018.10.045
+- doi: 10.1016/j.cell.2018.10.045
   title: Conformational Activation Promotes CRISPR-Cas12a Catalysis and Resetting of the Endonuclease Activity
   author: Stella, S. et al.
   journal: Cell
   pages: 175, 1856–1871.e21
   year: 2018
 
-- doi: doi.org/10.1016/bs.mie.2016.08.026
-  title: Quantification of Functional Dynamics of Membrane Proteins Reconstituted in Nanodiscs Membranes by Single Turnover Functional Readout
-  author: Moses, M. et al.
-  journal: Methods in Enzymology
-  pages: 581, 227-256
-  year: 2016
+- doi: 10.1021/acs.langmuir.0c00787
+  title: Label-Free Fluorescence Quantification of Hydrolytic Enzyme Activity on Native Substrates Reveals How Lipase Function Depends on Membrane Curvature
+  author: Bohr, S. S.-R. et al.
+  journal: Langmuir
+  #pages:
+  year: 2020
 
-- doi: doi.org/10.1126/science.aag2347
+- doi: 10.1021/acsami.9b19644
+  title: Ultrasmall TPGS–PLGA Hybrid Nanoparticles for Site-Specific Delivery of Antibiotics into Pseudomonas aeruginosa Biofilms in Lungs.
+  author: Wan, F., et al.
+  journal: ACS Appl. Mater. Interfaces
+  pages: 12, 1, 380–389
+  year: 2019
+
+
+- doi: 10.1126/science.aag2347
   title: Characterization of a dynamic metabolon producing the defense compound dhurrin in sorghum
   author: Laursen, T. et al.
   journal: Science
   pages: 354, 890–893
   year: 2016
 
-- doi: doi.org/10.1126/science.aad6429
+- doi: 10.1126/science.aad6429
   title: Direct observation of proton pumping by a eukaryotic P-type ATPase
   author: Veshaguri, S. et al.
   journal: Science
   pages: 351, 1469–1473
   year: 2016
 
-- doi: doi.org/10.1021/jacs.5b08798
+- doi: 10.1021/jacs.5b08798
   title: Single Enzyme Experiments Reveal a Long-Lifetime Proton Leak State in a Heme-Copper Oxidase
   author: Li, M. et al.
   journal: J. Am. Chem. Soc.
   pages: 137, 16055–16063
   year: 2015
 
-- doi: doi.org/10.1038/nchembio.1733
+- doi: 10.1038/nchembio.1733
   title: Membrane curvature enables N-Ras lipid anchor sorting to liquid-ordered membrane phases
   author: Larsen, J. B. et al.
   journal: Nat. Chem. Biol.
   pages: 11, 192-U176
   year: 2015
 
-- doi: doi.org/10.1016/j.bpc.2013.11.003
-  title: Single molecule insights on conformational selection and induced fit mechanism
-  author: Hatzakis, N. S.
-  journal: Biophys. Chem.
-  pages: 186, 46–54
-  year: 2014
 
-- doi: doi.org/10.1021/cb400708v
+- doi: 10.1021/cb400708v
   title: Single Molecule Activity Measurements of Cytochrome P450 Oxidoreductase Reveal the Existence of Two Discrete Functional States
   author: Laursen, T. et al.
   journal: ACS Chem. Biol.
   pages: 9, 630–634
   year: 2014
 
-- doi: doi.org/10.1021/ja3011429
+- doi: 10.1021/ja3011429
   title: Single Enzyme Studies Reveal the Existence of Discrete Functional States for Monomeric Enzymes and How They Are ‘Selected’ upon Allosteric Regulation
   author: Hatzakis, N. S. et al.
   journal: J. Am. Chem. Soc.
   pages: 134, 9296–9302
   year: 2012
 
-- doi: doi.org/10.1038/nnano.2011.185
+- doi: 10.1038/nnano.2011.185
   title: Mixing subattolitre volumes in a quantitative and highly parallel manner with soft matter nanofluidics
   author: Christensen, S. M. et al.
   journal: Nat. Nanotech.
   pages: 7, 51-55
   year: 2012
+
+
+- doi: 10.1016/bs.mie.2016.08.026
+  title: Quantification of Functional Dynamics of Membrane Proteins Reconstituted in Nanodiscs Membranes by Single Turnover Functional Readout
+  author: Moses, M. et al.
+  journal: Methods in Enzymology
+  pages: 581, 227-256
+  year: 2016
+
+
+- doi: 10.1016/j.bpc.2013.11.003
+  title: Single molecule insights on conformational selection and induced fit mechanism
+  author: Hatzakis, N. S.
+  journal: Biophys. Chem.
+  pages: 186, 46–54
+  year: 2014
