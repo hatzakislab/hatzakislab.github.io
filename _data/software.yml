@@ -2,6 +2,11 @@
 # 2. Run __generate_maps.py to auto-generate an icon for the script, or get creative
 # 3. Add desired info below, and check with the layout before pushing changes
 
+- name: "DeepFRET"
+  desc: "Rapid and automated single molecule FRET data classification using deep learning."
+  link: "DeepFRET-GUI"
+  img: "deepfret.png"
+
 - name: "Extraction of liposome intensity"
   desc: "Python based script for extraction and analysis of .tif formatted image files. The script can extract the intensity from individual liposomes based in a changeable ROI size given initially and subtract local background"
   link: "liposome_intensity"
