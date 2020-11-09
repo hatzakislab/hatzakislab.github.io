@@ -15,6 +15,7 @@
   twitter: nhatzakis
   linkedin: nikoshatzakis
   orcid: 0000-0003-4202-0328
+  blank: true
 
 - name: Codruta Ignea
   img: /codruta-ignea.jpg
@@ -41,6 +42,8 @@
   email: sbj@chem.ku.dk
   linkedin: simon-bo-jensen
   orcid: 0000-0002-8946-3831
+  twitter: SimonBoJensen1
+  blank: true
 
 - name: Søren S.-R. Bohr
   img: /soren-nielsen.jpg
@@ -48,6 +51,8 @@
   email: soeren@chem.ku.dk
   linkedin: søren-s-r-bohr-541a1a87
   orcid: 0000-0002-8107-2465
+  twitter: RenBohr
+  blank: true
 
 - name: Camilla D. Thorlaksen
   linkedin: camilla-dyngbo-thorlaksen-89450913a
@@ -72,6 +77,7 @@
   github: eembees
   website: magnus.sletfjerding.no
   #email: mbs@chem.ku.dk
+  blank: true
 
 - name: Freja J. Bohr
   linkedin: freja-bohr-610100139
@@ -101,6 +107,7 @@
   img: /henrik-pinholt.jpg
   desc: Master Student
   orcid: 0000-0002-4345-5334
+  twitter: HenrikPinholt
   blank: true
 
 - name: Vaya Kapousidou
