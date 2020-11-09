@@ -1,3 +1,11 @@
+# @Author: Henrik Pinholt <henrikpinholt>
+# @Date:   09-Nov-2020
+# @Email:  henrikpinholt@hotmail.com
+# @Last modified by:   henrikpinholt
+# @Last modified time: 09-Nov-2020
+
+
+
 - doi: 10.1038/s41467-019-13284-1
   title: A large size-selective DNA nanopore with sensing applications.
   author: Thomsen, S. P., et al.
@@ -11,7 +19,12 @@
   journal: Sci Rep
   pages: 9, 16169
   year: 2019
-
+- doi: 10.7554/eLife.60404
+  title: DeepFRET, a software for rapid and automated single-molecule FRET data classification using deep learning
+  author: Thomsen, J. et al.
+  journal: eLife
+  pages: 9, 60404
+  year: 2020
 #- doi: 10.1021/acs.molpharmaceut.9b00554
 #  title: Half-Life Extending Modifications of Peptide YY3–36 Direct Receptor-Mediated Internalization
 #  author: Bech, E. M. et al.

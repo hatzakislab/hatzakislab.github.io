@@ -1,3 +1,11 @@
+# @Author: Henrik Pinholt <henrikpinholt>
+# @Date:   09-Nov-2020
+# @Email:  henrikpinholt@hotmail.com
+# @Last modified by:   henrikpinholt
+# @Last modified time: 09-Nov-2020
+
+
+
 # add 'blank: true' as a line to avoid messing up layout
 
 - name: Nikos S. Hatzakis
@@ -65,7 +73,6 @@
   website: magnus.sletfjerding.no
   #email: mbs@chem.ku.dk
 
-
 - name: Freja J. Bohr
   linkedin: freja-bohr-610100139
   img: /freja-bohr.jpg
@@ -89,11 +96,24 @@
   desc: Master Student
   blank: true
 
-#- name: Henrik Pinholt
-#  linkedin: henrik-pinholt-3bbb04105
-#  img: /henrik-pinholt.jpg
-#  desc: Master student
-#  blank: true
+- name: Henrik Pinholt
+  linkedin: henrik-pinholt-3bbb04105
+  img: /henrik-pinholt.jpg
+  desc: Master Student
+  orcid: 0000-0002-4345-5334
+  blank: true
+
+- name: Vaya Kapousidou
+  linkedin: vayakapousidou
+  img: /Vaya-Kapousidou.jpg
+  desc: Lab Assistant
+  blank: true
+
+- name: Annette Juma
+  linkedin: annette-juma-nielsen-12397b133
+  desc: Master Student
+  img: /annette-juma.jpg
+  blank: true
 
 # ALUMNI
 #- name: Amalie Sigersen Kallenbach
