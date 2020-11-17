@@ -32,6 +32,7 @@
   desc: Ph.D. Student
   email: sbj@chem.ku.dk
   linkedin: simon-bo-jensen
+  twitter: simon-bo-jensen
   orcid: 0000-0002-8946-3831
 
 - name: Søren S.-R. Bohr
@@ -87,7 +88,29 @@
 - name: Yanet G. Bustamante
   img: /yanet.jpg
   desc: Master Student
+  linkedin: ygarciab
   blank: true
+
+- name: Vaya Kapousidou
+  img: /vaya-kapousidou.jpg
+  desc: Lab Assistant
+  linkedin: vayakapousidou
+  blank: true
+
+- name: Annette Juma
+  img: /annette-juma.jpg
+  desc: Master Student
+  linkedin: annette-juma-nielsen-12397b133
+  blank: true
+
+- name: Henrik Pinholt
+  linkedin: /henrik-pinholt-3bbb04105
+  img: /henrik-pinholt.jpg
+  desc: Master Student
+  twitter: HenrikPinholt
+  orcid: 0000-0002-4345-5334
+  blank: true
+
 
 #- name: Henrik Pinholt
 #  linkedin: henrik-pinholt-3bbb04105
