@@ -8,16 +8,16 @@
   linkedin: nikoshatzakis
   orcid: 0000-0003-4202-0328
 
-- name: Codruta Ignea
-  img: /codruta-ignea.jpg
-  desc: Marie Curie Postdoc. Fellow
-  orcid: 0000-0002-6304-9413
-  blank: true
-
 - name: Min Zhang
   img: /min-zhang.jpg
   orcid: 0000-0002-2797-5049
   desc: Assistant Professor
+  blank: true
+
+- name: Codruta Ignea
+  img: /codruta-ignea.jpg
+  desc: Marie Curie Postdoc. Fellow
+  orcid: 0000-0002-6304-9413
   blank: true
 
 - name: Matias E. Moses
@@ -42,13 +42,6 @@
   linkedin: søren-s-r-bohr-541a1a87
   orcid: 0000-0002-8107-2465
 
-- name: Camilla D. Thorlaksen
-  linkedin: camilla-dyngbo-thorlaksen-89450913a
-  img: /camilla-dyngbo.jpg
-  orcid: 0000-0002-5492-3818
-  desc: Ph.D. Student, Novo Nordisk STAR programme
-  blank: true
-
 - name: Mette G. Malle
   linkedin: mette-galsgaard-malle-180543192
   email: malle@chem.ku.dk
@@ -57,17 +50,26 @@
   desc: Postdoc
   blank: true
 
+- name: Camilla D. Thorlaksen
+  linkedin: camilla-dyngbo-thorlaksen-89450913a
+  img: /camilla-dyngbo.jpg
+  orcid: 0000-0002-5492-3818
+  desc: Ph.D. fellow, Novo Nordisk STAR programme
+  blank: true
+
+
+- name: Jacob Kæstel-Hansen
+  linkedin: jacob-kæstel-hansen-502008115
+  img: /jakob-hansen.jpg
+  desc: Ph.D fellow
+  blank: true
+
 - name: Freja J. Bohr
   linkedin: freja-bohr-610100139
   img: /freja-bohr.jpg
   desc: Master Student
   blank: true
 
-- name: Jacob Kæstel-Hansen
-  linkedin: jacob-kæstel-hansen-502008115
-  img: /jakob-hansen.jpg
-  desc: PhD in chief
-  blank: true
 
 - name: Yanet G. Bustamante
   img: /yanet.jpg
