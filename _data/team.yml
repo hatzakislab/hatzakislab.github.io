@@ -17,7 +17,7 @@
 - name: Min Zhang
   img: /min-zhang.jpg
   orcid: 0000-0002-2797-5049
-  desc: Lundbeck Foundation Postdoc. Fellow
+  desc: Assistant Professor
   blank: true
 
 - name: Matias E. Moses
@@ -29,7 +29,7 @@
 
 - name: Simon Bo Jensen
   img: /simon-jensen.jpg
-  desc: Ph.D. Student
+  desc: Postdoc
   email: sbj@chem.ku.dk
   linkedin: simon-bo-jensen
   twitter: simon-bo-jensen
@@ -54,18 +54,8 @@
   email: malle@chem.ku.dk
   img: /mette-malle.jpg
   orcid: 0000-0003-3722-502X
-  desc: Ph.D. Student
+  desc: Postdoc
   blank: true
-
-- name: Magnus B. Sletfjerding
-  img: /mags-berg.jpg
-  desc: Ph.D. Student, Sino-Danish Center
-  linkedin: msletfj
-  orcid: 0000-0001-8669-4039
-  github: eembees
-  website: magnus.sletfjerding.no
-  #email: mbs@chem.ku.dk
-
 
 - name: Freja J. Bohr
   linkedin: freja-bohr-610100139
@@ -76,25 +66,13 @@
 - name: Jacob Kæstel-Hansen
   linkedin: jacob-kæstel-hansen-502008115
   img: /jakob-hansen.jpg
-  desc: Master Student, Novozymes
-  blank: true
-
-- name: Josephine F. Iversen
-  linkedin: josephine-freja-iversen-046a18169
-  img: /jose-iversen.jpg
-  desc: Master Student
+  desc: PhD in chief
   blank: true
 
 - name: Yanet G. Bustamante
   img: /yanet.jpg
   desc: Master Student
   linkedin: ygarciab
-  blank: true
-
-- name: Vaya Kapousidou
-  img: /vaya-kapousidou.jpg
-  desc: Lab Assistant
-  linkedin: vayakapousidou
   blank: true
 
 - name: Annette Juma
