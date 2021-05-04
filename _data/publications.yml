@@ -19,6 +19,13 @@
   pages: 175, 5655
   year: 2019
 
+- doi: 10.1016/j.cell.2018.10.045
+  title: Conformational Activation Promotes CRISPR-Cas12a Catalysis and Resetting of the Endonuclease Activity
+  author: Stella, S. et al.
+  journal: Cell
+  pages: 175, 1856–1871.e21
+  year: 2018
+
 - doi: 10.1038/s41598-019-52539-1
   title: Direct observation of Thermomyces lanuginosus lipase diffusional states by Single Particle Tracking and their remodeling by mutations and inhibition
   author: Bohr, S. S.-R. et al.
@@ -39,13 +46,6 @@
 #  journal: J. Vis. Exp.
 #  pages: (144), e58896
 #  year: 2019
-
-- doi: 10.1016/j.cell.2018.10.045
-  title: Conformational Activation Promotes CRISPR-Cas12a Catalysis and Resetting of the Endonuclease Activity
-  author: Stella, S. et al.
-  journal: Cell
-  pages: 175, 1856–1871.e21
-  year: 2018
 
 - doi: 10.1021/acs.langmuir.0c00787
   title: Label-Free Fluorescence Quantification of Hydrolytic Enzyme Activity on Native Substrates Reveals How Lipase Function Depends on Membrane Curvature
