@@ -22,7 +22,7 @@
 
 - order: 002
   id: "project2"
-  name: "Drug delivery in mucus"
+  name: "Nanocontainer for Drug Delivery"
   photo: "mucus" #language=HTML
   description: "By employing single particle tracking on novel nano-carriers in drug delivery, we are able to investigate their interactions with biological samples and simultaneously monitor particle mobility and drug release in live human cells. We aim to utilize the methodology to develop and optimize site specific and fast delivery of tailor made pharmaceuticals. To do so, we deploy advanced statistical analysis in combination with machine learning - thus deciphering the mechanistic details that governs interactions at the cellular level. <br>Ultimo June 2019 our lab will be equipped with a state of the art Olympus super resolution spinning disk microscope, thus extending the method to live 3D tracking"
   color: rgb(243, 254, 236)
@@ -30,7 +30,7 @@
 
 - order: 003
   id: "project3"
-  name: "Regulation of metabolic disorder by ligands"
+  name: "Biased Metabolism"
   photo: "por" #language=HTML
   description: "POR is a central molecular hub activating a plethora of metabolic pathways by donating electrons to more than 50 different cytochrome P450 enzymes (CYPs). Point mutations in POR cause severe metabolic disorder due to altered POR-CYP interactions. In collaboration with Paediatric Endocrinology at the University Hospital Bern, Switzerland, and Department of Plant Biology, University of Copenhagen, we study these interactions all the way from clinical phenotype down to the fundamental limit of individual proteins.
   <br><br>
@@ -40,6 +40,7 @@
 
   Relevant publications:
   <p style='font-size:15px'>
+  Jensen, S.B. et al. Biased cytochrome P450-mediated metabolism via small-molecule ligands binding P450 oxidoreductase. <em>Nature Communications</em> (2021), 12, 2260.<br><br>
   Laursen, T. et al. Characterization of a Dynamic Metabolon Producing the Defense Compound Dhurrin in Sorghum. <em>Science</em> (2017), 354, 890-893.<br><br>
   Bavishi, K. et al. Direct Observation of Multiple Conformational States in Cytochrome P450 Oxidoreductase and their Modulation by Membrane Environment. <em>Scientific Reports</em> (2018), 8, 1-9.<br><br>
   Laursen, T. et al. Single Molecule Activity Measurements of Cytochrome P450 Oxidoreductase Reveal the Existence of Two Discrete Functional States. <em>ACS Chem. Biol.</em> (2014), 9, 630-634.<br><br>
@@ -50,7 +51,7 @@
 
 - order: 004
   id: "project4"
-  name: "Single particle tracking on Lipase mutants"
+  name: "Single Particle Tracking"
   photo: "lipase" #language=HTML
   description: "Lipases are interfacially activated hydrolases, which play an important role in both biological processes as well as industrial applications, catalyzing reactions at the water-lipid interface. Our understanding of lipases function to date primarily relies on averaging techniques reporting the behavior of large ensemble of heterogeneous enzymes, which may disguise heterogenic behaviors. We have developed a single-molecule fluorescence microscopy assay to track thousands of individual Thermomyces Lanuginosus Lipase (TLL) enzymes, on native trimyristin substrate surfaces. Our high- quality data allow us to directly observe distinct patterns of lipase diffusional properties both within the observation time of a single trajectory and after system equilibration. Readouts on multiple lipase mutants allowed us to delve into a deeper understanding of molecular detail governing enzymatic function and provide links of enzyme structure to functional phenotypes. Using Deep-Learning methods, we decipher the subtle mechanistic differences and provide a model for function/inhibition and their relation to structure."
   color: rgb(252, 245, 245)

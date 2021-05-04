@@ -35,13 +35,6 @@
   twitter: simon-bo-jensen
   orcid: 0000-0002-8946-3831
 
-- name: Søren S.-R. Bohr
-  img: /soren-nielsen.jpg
-  desc: Ph.D. Student
-  email: soeren@chem.ku.dk
-  linkedin: søren-s-r-bohr-541a1a87
-  orcid: 0000-0002-8107-2465
-
 - name: Mette G. Malle
   linkedin: mette-galsgaard-malle-180543192
   email: malle@chem.ku.dk
@@ -50,6 +43,13 @@
   desc: Postdoc
   blank: true
 
+- name: Søren S.-R. Bohr
+  img: /soren-nielsen.jpg
+  desc: Ph.D. Fellow
+  email: soeren@chem.ku.dk
+  linkedin: søren-s-r-bohr-541a1a87
+  orcid: 0000-0002-8107-2465
+
 - name: Camilla D. Thorlaksen
   linkedin: camilla-dyngbo-thorlaksen-89450913a
   img: /camilla-dyngbo.jpg
@@ -57,11 +57,19 @@
   desc: Ph.D. fellow, Novo Nordisk STAR programme
   blank: true
 
-
 - name: Jacob Kæstel-Hansen
   linkedin: jacob-kæstel-hansen-502008115
   img: /jakob-hansen.jpg
   desc: Ph.D fellow
+  email: jkh@chem.ku.dk
+  orcid: 0000-0001-7365-9664
+  blank: true
+
+- name: Ge Huang
+  linkedin: 
+  img: /.jpg
+  desc: Ph.D fellow
+  orcid: 
   blank: true
 
 - name: Freja J. Bohr
@@ -69,7 +77,6 @@
   img: /freja-bohr.jpg
   desc: Master Student
   blank: true
-
 
 - name: Yanet G. Bustamante
   img: /yanet.jpg
@@ -91,12 +98,22 @@
   orcid: 0000-0002-4345-5334
   blank: true
 
+- name: Emily Winther Sørensen
+  desc: Bachelor Student
+  blank: true
 
-#- name: Henrik Pinholt
-#  linkedin: henrik-pinholt-3bbb04105
-#  img: /henrik-pinholt.jpg
-#  desc: Master student
-#  blank: true
+- name: Marcus Winther Dreisler
+  desc: Bachelor Student
+  blank: true
+
+- name: Norman Pedersen
+  desc: Bachelor Student
+  blank: true
+
+- name: Steen Bender
+  desc: Bachelor Student
+  blank: true
+
 
 # ALUMNI
 #- name: Amalie Sigersen Kallenbach
