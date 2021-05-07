@@ -67,7 +67,7 @@
 
 - name: Ge Huang
   linkedin: 
-  img: /.jpg
+  img: /huang.jpg
   desc: Ph.D fellow
   orcid: 
   blank: true
@@ -99,19 +99,23 @@
   blank: true
 
 - name: Emily Winther Sørensen
+  img: /Emily.jpg
   desc: Bachelor Student
   blank: true
 
 - name: Marcus Winther Dreisler
   desc: Bachelor Student
+  img: /Marcus.jpg
   blank: true
 
 - name: Norman Pedersen
   desc: Bachelor Student
+  img: /Norman.jpg
   blank: true
 
 - name: Steen Bender
   desc: Bachelor Student
+  img: /STEEEEEEEEEEN.jpg
   blank: true
 
 
