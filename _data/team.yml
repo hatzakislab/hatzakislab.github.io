@@ -98,6 +98,11 @@
   orcid: 0000-0002-4345-5334
   blank: true
 
+- name: Lampros
+  img: /Lampros.jpg
+  desc: Visiting Erasmus Research Assistant
+  blank: true
+
 - name: Emily Winther Sørensen
   img: /Emily1.jpg
   desc: Bachelor Student
