@@ -69,7 +69,6 @@
   linkedin: 
   img: /huang1.jpg
   desc: Ph.D fellow
-  orcid: 
   blank: true
 
 - name: Freja J. Bohr
@@ -98,7 +97,7 @@
   orcid: 0000-0002-4345-5334
   blank: true
 
-- name: Lampros
+- name: Lampros Spanos
   img: /Lampros.jpg
   desc: Visiting Erasmus Research Assistant
   blank: true
