@@ -19,7 +19,6 @@
   pages: 9
   year: 2020
 
-
 - doi: 10.1038/s41467-019-13284-1
   title: A large size-selective DNA nanopore with sensing applications.
   author: Thomsen, S. P., et al.
@@ -41,8 +40,28 @@
   pages: 13, 28
   year: 2021
 
+- doi: 10.1126/science.aag2347
+  title: Characterization of a dynamic metabolon producing the defense compound dhurrin in sorghum
+  author: Laursen, T. et al.
+  journal: Science
+  pages: 354, 890–893
+  year: 2016
 
+- doi: 10.1126/science.aad6429
+  title: Direct observation of proton pumping by a eukaryotic P-type ATPase
+  author: Veshaguri, S. et al.
+  journal: Science
+  pages: 351, 1469–1473
+  year: 2016
 
+- doi: 10.1021/acsami.9b19644
+  title: Ultrasmall TPGS–PLGA Hybrid Nanoparticles for Site-Specific Delivery of Antibiotics into Pseudomonas aeruginosa Biofilms in Lungs.
+  author: Wan, F., et al.
+  journal: ACS Appl. Mater. Interfaces
+  pages: 12, 1, 380–389
+  year: 2019
+
+"
 # - doi: 10.1038/s41598-019-52539-1
 #   title: Direct observation of Thermomyces lanuginosus lipase diffusional states by Single Particle Tracking and their remodeling by mutations and inhibition
 #   author: Bohr, S. S.-R. et al.
@@ -70,29 +89,6 @@
 #   journal: Langmuir
 #   year: 2020
 
-- doi: 10.1126/science.aag2347
-  title: Characterization of a dynamic metabolon producing the defense compound dhurrin in sorghum
-  author: Laursen, T. et al.
-  journal: Science
-  pages: 354, 890–893
-  year: 2016
-
-- doi: 10.1126/science.aad6429
-  title: Direct observation of proton pumping by a eukaryotic P-type ATPase
-  author: Veshaguri, S. et al.
-  journal: Science
-  pages: 351, 1469–1473
-  year: 2016
-
-- doi: 10.1021/acsami.9b19644
-  title: Ultrasmall TPGS–PLGA Hybrid Nanoparticles for Site-Specific Delivery of Antibiotics into Pseudomonas aeruginosa Biofilms in Lungs.
-  author: Wan, F., et al.
-  journal: ACS Appl. Mater. Interfaces
-  pages: 12, 1, 380–389
-  year: 2019
-
-
-
 # - doi: 10.1021/jacs.5b08798
 #   title: Single Enzyme Experiments Reveal a Long-Lifetime Proton Leak State in a Heme-Copper Oxidase
 #   author: Li, M. et al.
@@ -107,3 +103,4 @@
 #   journal: ACS Chem. Biol.
 #   pages: 9, 630–634
 #   year: 2014
+"
