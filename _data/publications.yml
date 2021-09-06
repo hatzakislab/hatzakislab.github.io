@@ -5,13 +5,6 @@
   pages: 31, 118
   year: 2021
 
-- title: Single-Molecule Study of Thermomyces lanuginosus Lipase in a Detergency Application System Reveals Diffusion Pattern Remodeling by Surfactants and Calcium
-  doi: 10.1021/acsami.1c08809
-  author: Moses, M. E., et al.
-  journal: ACS Appl. Mater. Interfaces
-  pages: 13, 28
-  year: 2021
-
 - title: Biased cytochrome P450-mediated metabolism via small-molecule ligands binding P450 oxidoreductase
   doi: 10.1038/s41467-021-22562-w
   author: Jensen, S. B., et al.
@@ -19,12 +12,13 @@
   pages: 12, 2260
   year: 2021
 
-- title: DeepFRET, a software for rapid and automated single-molecule FRET data classification using deep learning
+  - title: DeepFRET, a software for rapid and automated single-molecule FRET data classification using deep learning
   doi: 10.7554/eLife.60404
   author: Thomsen, J., et al.
   journal: eLife
   pages: 9
   year: 2020
+
 
 - doi: 10.1038/s41467-019-13284-1
   title: A large size-selective DNA nanopore with sensing applications.
@@ -40,12 +34,21 @@
   pages: 175, 1856–1871.e21
   year: 2018
 
-- doi: 10.1038/s41598-019-52539-1
-  title: Direct observation of Thermomyces lanuginosus lipase diffusional states by Single Particle Tracking and their remodeling by mutations and inhibition
-  author: Bohr, S. S.-R. et al.
-  journal: Sci Rep
-  pages: 9, 16169
-  year: 2019
+- title: Single-Molecule Study of Thermomyces lanuginosus Lipase in a Detergency Application System Reveals Diffusion Pattern Remodeling by Surfactants and Calcium
+  doi: 10.1021/acsami.1c08809
+  author: Moses, M. E., et al.
+  journal: ACS Appl. Mater. Interfaces
+  pages: 13, 28
+  year: 2021
+
+
+
+# - doi: 10.1038/s41598-019-52539-1
+#   title: Direct observation of Thermomyces lanuginosus lipase diffusional states by Single Particle Tracking and their remodeling by mutations and inhibition
+#   author: Bohr, S. S.-R. et al.
+#   journal: Sci Rep
+#   pages: 9, 16169
+#   year: 2019
 
 #- doi: 10.1021/acs.molpharmaceut.9b00554
 #  title: Half-Life Extending Modifications of Peptide YY3–36 Direct Receptor-Mediated Internalization
@@ -61,19 +64,11 @@
 #  pages: (144), e58896
 #  year: 2019
 
-- doi: 10.1021/acs.langmuir.0c00787
-  title: Label-Free Fluorescence Quantification of Hydrolytic Enzyme Activity on Native Substrates Reveals How Lipase Function Depends on Membrane Curvature
-  author: Bohr, S. S.-R. et al.
-  journal: Langmuir
-  year: 2020
-
-- doi: 10.1021/acsami.9b19644
-  title: Ultrasmall TPGS–PLGA Hybrid Nanoparticles for Site-Specific Delivery of Antibiotics into Pseudomonas aeruginosa Biofilms in Lungs.
-  author: Wan, F., et al.
-  journal: ACS Appl. Mater. Interfaces
-  pages: 12, 1, 380–389
-  year: 2019
-
+# - doi: 10.1021/acs.langmuir.0c00787
+#   title: Label-Free Fluorescence Quantification of Hydrolytic Enzyme Activity on Native Substrates Reveals How Lipase Function Depends on Membrane Curvature
+#   author: Bohr, S. S.-R. et al.
+#   journal: Langmuir
+#   year: 2020
 
 - doi: 10.1126/science.aag2347
   title: Characterization of a dynamic metabolon producing the defense compound dhurrin in sorghum
@@ -89,17 +84,25 @@
   pages: 351, 1469–1473
   year: 2016
 
-- doi: 10.1021/jacs.5b08798
-  title: Single Enzyme Experiments Reveal a Long-Lifetime Proton Leak State in a Heme-Copper Oxidase
-  author: Li, M. et al.
-  journal: J. Am. Chem. Soc.
-  pages: 137, 16055–16063
-  year: 2015
+- doi: 10.1021/acsami.9b19644
+  title: Ultrasmall TPGS–PLGA Hybrid Nanoparticles for Site-Specific Delivery of Antibiotics into Pseudomonas aeruginosa Biofilms in Lungs.
+  author: Wan, F., et al.
+  journal: ACS Appl. Mater. Interfaces
+  pages: 12, 1, 380–389
+  year: 2019
 
 
-- doi: 10.1021/cb400708v
-  title: Single Molecule Activity Measurements of Cytochrome P450 Oxidoreductase Reveal the Existence of Two Discrete Functional States
-  author: Laursen, T. et al.
-  journal: ACS Chem. Biol.
-  pages: 9, 630–634
-  year: 2014
+# - doi: 10.1021/jacs.5b08798
+#   title: Single Enzyme Experiments Reveal a Long-Lifetime Proton Leak State in a Heme-Copper Oxidase
+#   author: Li, M. et al.
+#   journal: J. Am. Chem. Soc.
+#   pages: 137, 16055–16063
+#   year: 2015
+
+
+# - doi: 10.1021/cb400708v
+#   title: Single Molecule Activity Measurements of Cytochrome P450 Oxidoreductase Reveal the Existence of Two Discrete Functional States
+#   author: Laursen, T. et al.
+#   journal: ACS Chem. Biol.
+#   pages: 9, 630–634
+#   year: 2014
