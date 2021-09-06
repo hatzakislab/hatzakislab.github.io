@@ -5,13 +5,6 @@
   pages: 31, 118
   year: 2021
 
-- title: Single-Molecule Study of Thermomyces lanuginosus Lipase in a Detergency Application System Reveals Diffusion Pattern Remodeling by Surfactants and Calcium
-  doi: 10.1021/acsami.1c08809
-  author: Moses, M. E., et al.
-  journal: ACS Appl. Mater. Interfaces
-  pages: 13, 28
-  year: 2021
-
 - title: Biased cytochrome P450-mediated metabolism via small-molecule ligands binding P450 oxidoreductase
   doi: 10.1038/s41467-021-22562-w
   author: Jensen, S. B., et al.
@@ -25,6 +18,13 @@
   journal: eLife
   pages: 9
   year: 2020
+
+- title: Single-Molecule Study of Thermomyces lanuginosus Lipase in a Detergency Application System Reveals Diffusion Pattern Remodeling by Surfactants and Calcium
+  doi: 10.1021/acsami.1c08809
+  author: Moses, M. E., et al.
+  journal: ACS Appl. Mater. Interfaces
+  pages: 13, 28
+  year: 2021
 
 - doi: 10.1038/s41467-019-13284-1
   title: A large size-selective DNA nanopore with sensing applications.
