@@ -19,13 +19,6 @@
   pages: 9
   year: 2020
 
-- title: Single-Molecule Study of Thermomyces lanuginosus Lipase in a Detergency Application System Reveals Diffusion Pattern Remodeling by Surfactants and Calcium
-  doi: 10.1021/acsami.1c08809
-  author: Moses, M. E., et al.
-  journal: ACS Appl. Mater. Interfaces
-  pages: 13, 28
-  year: 2021
-
 - doi: 10.1038/s41467-019-13284-1
   title: A large size-selective DNA nanopore with sensing applications.
   author: Thomsen, S. P., et al.
@@ -39,6 +32,14 @@
   journal: Cell
   pages: 175, 1856–1871.e21
   year: 2018
+  
+- title: Single-Molecule Study of Thermomyces lanuginosus Lipase in a Detergency Application System Reveals Diffusion Pattern Remodeling by Surfactants and Calcium
+  doi: 10.1021/acsami.1c08809
+  author: Moses, M. E., et al.
+  journal: ACS Appl. Mater. Interfaces
+  pages: 13, 28
+  year: 2021
+
 
 # - doi: 10.1038/s41598-019-52539-1
 #   title: Direct observation of Thermomyces lanuginosus lipase diffusional states by Single Particle Tracking and their remodeling by mutations and inhibition
