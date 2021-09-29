@@ -80,6 +80,11 @@
   desc: Master Student
   blank: true
 
+- name: Frank Høgh
+  img: /frank.jpg
+  desc: Master Student
+  blank: true
+
 - name: Yanet G. Bustamante
   img: /yanet.jpg
   desc: Master Student
