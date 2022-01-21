@@ -121,10 +121,11 @@
 #   desc: Erasmus Student
 #   blank: true
 
-# - name: Abigail
-#   img: /frank.jpg
-#   desc: Erasmus Student
-#   blank: true
+- name: Abigail J. Watkins
+  img: /abigail.jpg
+  linkedin: abigail-watkins-ba30a422a
+  desc: Erasmus Student
+  blank: true
 
 # ALUMNI
 #- name: Amalie Sigersen Kallenbach
