@@ -64,10 +64,11 @@
   linkedin: annette-juma-nielsen-12397b133
   blank: true
 
-# - name: Tenia
-#   img: /frank.jpg
-#   desc: Erasmus Research Assistant
-#   blank: true
+- name: Malamatenia Papavasileiou
+  img: /tenia.jpg
+  linkedin: /mpapavasileiou
+  desc: Erasmus Research Assistant
+  blank: true
 
 - name: Henrik Pinholt
   linkedin: /henrik-pinholt-3bbb04105
