@@ -64,20 +64,20 @@
   linkedin: annette-juma-nielsen-12397b133
   blank: true
 
-- name: Tenia
-  img: /frank.jpg
-  desc: Erasmus Research Assistant
-  blank: true
+# - name: Tenia
+#   img: /frank.jpg
+#   desc: Erasmus Research Assistant
+#   blank: true
 
 - name: Frank Høgh Schulz
   img: /frank.jpg
   desc: Master Student
   blank: true
 
-- name: Sabrina
-  img: /frank.jpg
-  desc: Master Student
-  blank: true
+# - name: Sabrina
+#   img: /frank.jpg
+#   desc: Master Student
+#   blank: true
 
 - name: Steen Bender
   desc: Master Student
@@ -99,10 +99,10 @@
 #   img: /Norman1.jpg
 #   blank: true
 
-- name: Abigail
-  img: /frank.jpg
-  desc: Erasmus Student
-  blank: true
+# - name: Abigail
+#   img: /frank.jpg
+#   desc: Erasmus Student
+#   blank: true
 
 # ALUMNI
 #- name: Amalie Sigersen Kallenbach
