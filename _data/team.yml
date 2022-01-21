@@ -66,7 +66,7 @@
 
 - name: Malamatenia Papavasileiou
   img: /tenia.jpg
-  linkedin: /mpapavasileiou
+  linkedin: mpapavasileiou
   desc: Erasmus Research Assistant
   blank: true
 
@@ -80,14 +80,14 @@
 
 - name: Frank Høgh Schulz
   img: /frank.jpg
-  linkedin: /frank-høgh-schulz-884719b1
+  linkedin: frank-høgh-schulz-884719b1
   orcid: 0000-0002-0118-4388
   desc: Master Student
   blank: true
 
 - name: Sabrina Gennis
   img: /sabrina.jpg
-  linkedin: /sabrina-gennis-94b172188
+  linkedin: sabrina-gennis-94b172188
   desc: Master Student
   blank: true
 
