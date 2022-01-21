@@ -52,7 +52,7 @@
   desc: Ph.D fellow
   blank: true
 
-- name: Freja J. Bohr
+- name: Freja S.-R. Bohr
   linkedin: freja-bohr-610100139
   img: /freja-bohr.jpg
   desc: Research Assistant
@@ -68,6 +68,14 @@
 #   img: /frank.jpg
 #   desc: Erasmus Research Assistant
 #   blank: true
+
+- name: Henrik Pinholt
+  linkedin: /henrik-pinholt-3bbb04105
+  img: /henrik-pinholt.jpg
+  desc: Master Student
+  twitter: HenrikPinholt
+  orcid: 0000-0002-4345-5334
+  blank: true
 
 - name: Frank Høgh Schulz
   img: /frank.jpg
@@ -89,14 +97,24 @@
   desc: Master Student
   blank: true
 
-# - name: Marcus Winther Dreisler
-#   desc: Bachelor Student
-#   img: /Marcus1.jpg
+- name: Marcus Winther Dreisler
+  desc: Master Student
+  img: /Marcus1.jpg
+  blank: true
+
+- name: Norman Pedersen
+  desc: Master Student
+  img: /Norman1.jpg
+  blank: true
+
+# - name: Andreas Faber
+#   img: /frank.jpg
+#   desc: Erasmus Student
 #   blank: true
 
-# - name: Norman Pedersen
-#   desc: Bachelor Student
-#   img: /Norman1.jpg
+# - name: Kian Kirchof
+#   img: /frank.jpg
+#   desc: Erasmus Student
 #   blank: true
 
 # - name: Abigail
