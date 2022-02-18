@@ -75,3 +75,21 @@
 
   color: rgb(252, 245, 245)
   extra: false
+
+- order: 005
+  id: "project4"
+  name: "Accelerating biological discoveries by machine learning"
+  photo: "ML" #language=HTML
+  description: "Advanced microscopic techniques produce vast amounts of unstructured data the analysis of which by conventional methodologies is tedious , time consuming and may be biased by unconscious biases. We have been developing agnostic quantitative and automated analysis methodologies based on machine learning to treat classify and annotate biological behaviors . The toolboxes offer rapid analysis often accelerated by 3-6 orders of magnitude, help eliminating potential human biases and provide statistical insights on biological parameters that underlie and control protein function and cellular responses.
+  <br><br>
+  Relevant publications:
+  <p style='font-size:15px'>
+    <p style='font-size:15px'>
+  Pinholt, H. D. et al. Single Particle Diffusional Fingerprinting A machine learning framework for quantitative analysis of heterogeneous diffusion. <em>PNAS</em> (2021), 31, 118.<br><br>
+  Thomsen, J., et al. DeepFRET, a software for rapid and automated single-molecule FRET data classification using deep learning <em>eLife</em> (2020), 9.<br><br>
+  Malle, M., et al. t Single particle combinatorial multiplexed liposome fusion mediated by DNA <em>Accepted in Nature portfolio</em> (2022) <br><br>
+  </p>
+  "
+
+  color: rgb(252, 245, 245)
+  extra: false
