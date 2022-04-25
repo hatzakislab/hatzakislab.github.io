@@ -118,11 +118,6 @@
   desc: Master Student
   blank: true
 
-- name: Norman Pedersen
-  desc: Master Student
-  img: /Norman1.jpg
-  blank: true
-
 # - name: Andreas Faber
 #   img: /frank.jpg
 #   desc: Erasmus Student
