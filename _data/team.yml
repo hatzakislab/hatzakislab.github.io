@@ -118,10 +118,10 @@
   desc: Master Student
   blank: true
 
-# - name: Andreas Faber
-#   img: /frank.jpg
-#   desc: Erasmus Student
-#   blank: true
+- name: Andreas Malthe Faber
+  img: /andreas-faber.jpeg
+  desc: Master Student
+  blank: true
 
 # - name: Kian Kirchof
 #   img: /frank.jpg
@@ -146,10 +146,7 @@
   desc: Student
   blank: true
 
-- name: Andreas Malthe Faber
-  img: /andreas-faber.jpg
-  desc: Master Student
-  blank: true
+
 # ALUMNI
 #- name: Amalie Sigersen Kallenbach
 #  img: /amalie-sigersen.jpg
