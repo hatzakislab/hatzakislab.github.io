@@ -145,6 +145,11 @@
   #linkedin: abigail-watkins-ba30a422a
   desc: Student
   blank: true
+
+- name: Andreas Malthe Faber
+  img: /andreas-faber.jpg
+  desc: Master Student
+  blank: true
 # ALUMNI
 #- name: Amalie Sigersen Kallenbach
 #  img: /amalie-sigersen.jpg
