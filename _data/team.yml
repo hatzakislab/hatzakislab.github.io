@@ -134,6 +134,16 @@
   desc: Erasmus Student
   blank: true
 
+- name: Emilie Elisabeth Milan Nielsen
+  img: /emilie-nielsen1.jpg
+  desc: Bachelor
+  blank: true
+
+- name: Emily She
+  img: /emily-she1.jpg
+  desc: Student
+  blank: true
+
 - name: Freya Björk Reinhold
   #img: 
   #linkedin: abigail-watkins-ba30a422a
