@@ -123,10 +123,10 @@
   desc: Master Student
   blank: true
 
-# - name: Kian Kirchof
-#   img: /frank.jpg
-#   desc: Erasmus Student
-#   blank: true
+- name: Kian Kirchof
+  img: /kian-kirchoff1.jpg
+  desc: Master Student
+  blank: true
 
 - name: Abigail J. Watkins
   img: /abigail.jpg
