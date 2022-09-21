@@ -118,20 +118,30 @@
   desc: Master Student
   blank: true
 
-# - name: Andreas Faber
-#   img: /frank.jpg
-#   desc: Erasmus Student
-#   blank: true
+- name: Andreas Malthe Faber
+  img: /andreas-faber1.jpg
+  desc: Master Student
+  blank: true
 
-# - name: Kian Kirchof
-#   img: /frank.jpg
-#   desc: Erasmus Student
-#   blank: true
+- name: Kian Kirchof
+  img: /kian-kirchoff1.jpg
+  desc: Master Student
+  blank: true
 
 - name: Abigail J. Watkins
   img: /abigail.jpg
   linkedin: abigail-watkins-ba30a422a
   desc: Erasmus Student
+  blank: true
+
+- name: Emilie Elisabeth Milan Nielsen
+  img: /emilie-nielsen1.jpg
+  desc: Bachelor Student
+  blank: true
+
+- name: Emily She
+  img: /emily-she1.jpg
+  desc: Student
   blank: true
 
 - name: Freya Björk Reinhold
@@ -145,6 +155,8 @@
   #linkedin: abigail-watkins-ba30a422a
   desc: Student
   blank: true
+
+
 # ALUMNI
 #- name: Amalie Sigersen Kallenbach
 #  img: /amalie-sigersen.jpg
