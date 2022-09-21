@@ -17,16 +17,23 @@
   desc: Assistant Professor
   blank: true
 
+- name: Errika Voutyritsa
+  img: /Errika.jpg
+  desc: Post-doctoral fellow
+  blank: true
+
+- name: Mikhail Baibakov
+  img: /mikhail.jpg
+  desc: Post-doctoral fellow
+  twitter: BaibakovMikhail
+  linkedin: mikhail-baibakov-290603165
+  blank: true
+
 - name: Matias E. Moses
   linkedin: matias-emil-moses
   img: /matias-moses.jpg
   orcid: 0000-0001-8776-5302
   desc: Industrial postdoc, Novozymes
-  blank: true
-
-- name: Errika Voutyritsa
-  img: /Errika.jpg
-  desc: Post-doctoral fellow
   blank: true
 
 - name: Søren S.-R. Bohr
@@ -46,7 +53,7 @@
 - name: Jacob Kæstel-Hansen
   linkedin: jacob-kæstel-hansen-502008115
   img: /jakob-hansen.jpg
-  desc: Ph.D fellow
+  desc: Ph.D. fellow
   email: jkh@chem.ku.dk
   orcid: 0000-0001-7365-9664
   blank: true
@@ -54,13 +61,27 @@
 - name: Ge Huang
   linkedin: 
   img: /huang1.jpg
-  desc: Ph.D fellow
+  desc: Ph.D. fellow
   blank: true
 
 - name: Freja S.-R. Bohr
   linkedin: freja-bohr-610100139
   img: /freja-bohr.jpg
-  desc: Research Assistant
+  desc: Ph.D. fellow
+  blank: true
+
+- name: Frank Høgh Schulz
+  img: /frank.jpg
+  linkedin: frank-høgh-schulz-884719b1
+  orcid: 0000-0002-0118-4388
+  desc: Ph.D. fellow
+  blank: true
+
+- name: Richard Michael
+  #img: /frank.jpg
+  #linkedin: frank-høgh-schulz-884719b1
+  #orcid: 0000-0002-0118-4388
+  desc: Ph.D. fellow (Main supervisor Wouter Boomsma)
   blank: true
 
 - name: Annette Juma
@@ -69,25 +90,12 @@
   linkedin: annette-juma-nielsen-12397b133
   blank: true
 
-- name: Malamatenia Papavasileiou
-  img: /tenia.jpg
-  linkedin: mpapavasileiou
-  desc: Erasmus Research Assistant
-  blank: true
-
 - name: Henrik Pinholt
   linkedin: /henrik-pinholt-3bbb04105
   img: /henrik-pinholt.jpg
   desc: Master Student
   twitter: HenrikPinholt
   orcid: 0000-0002-4345-5334
-  blank: true
-
-- name: Frank Høgh Schulz
-  img: /frank.jpg
-  linkedin: frank-høgh-schulz-884719b1
-  orcid: 0000-0002-0118-4388
-  desc: Master Student
   blank: true
 
 - name: Sabrina Gennis
@@ -128,15 +136,28 @@
   desc: Master Student
   blank: true
 
-- name: Abigail J. Watkins
-  img: /abigail.jpg
-  linkedin: abigail-watkins-ba30a422a
-  desc: Erasmus Student
+- name: Harris
+  twitter: 
+  img: /.jpg
+  desc: Master Student
+  blank: true
+
+- name: Theofannis
+  twitter: 
+  img: /.jpg
+  desc: Erasmus intern
   blank: true
 
 - name: Emilie Elisabeth Milan Nielsen
   img: /emilie-nielsen1.jpg
   desc: Bachelor Student
+  blank: true
+
+- name: Guangze Li
+  twitter: Guangze
+  img: /Guangze.jpg
+  desc: Master Student
+  linkedin: guangze-li-066873229
   blank: true
 
 - name: Emily She
@@ -150,11 +171,24 @@
   desc: Student
   blank: true
 
-- name: Nanna Schwarz Jørgensen
-  img: /nanna.jpg
-  #linkedin: abigail-watkins-ba30a422a
-  desc: Student
-  blank: true
+
+# - name: Malamatenia Papavasileiou
+#   img: /tenia.jpg
+#   linkedin: mpapavasileiou
+#   desc: Erasmus Research Assistant
+#   blank: true
+
+# - name: Abigail J. Watkins
+#   img: /abigail.jpg
+#   linkedin: abigail-watkins-ba30a422a
+#   desc: Erasmus Student
+#   blank: true
+
+# - name: Nanna Schwarz Jørgensen
+#   img: /nanna.jpg
+#   #linkedin: abigail-watkins-ba30a422a
+#   desc: Student
+#   blank: true
 
 
 # ALUMNI
