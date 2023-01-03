@@ -22,11 +22,10 @@
   desc: Post-doctoral fellow
   blank: true
 
-- name: Mikhail Baibakov
-  img: /mikhail.jpg
-  desc: Post-doctoral fellow
-  twitter: BaibakovMikhail
-  linkedin: mikhail-baibakov-290603165
+- name: Gareth Gerald Doherty
+  img: /gareth.jpg
+  desc: Joint Post-doctoral fellow with Prof. Knud Jørgen Jensen
+  linkedin: gareth-doherty-400ba720a
   blank: true
 
 - name: Matias E. Moses
