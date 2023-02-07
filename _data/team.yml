@@ -28,6 +28,12 @@
   linkedin: gareth-doherty-400ba720a
   blank: true
 
+- name: Mikhail Baibakov
+  img: /mikhail.jpg
+  desc: Post-doctoral fellow
+  linkedin: gareth-doherty-400ba720a
+  blank: true
+
 - name: Matias E. Moses
   linkedin: matias-emil-moses
   img: /matias-moses.jpg
@@ -79,6 +85,13 @@
   desc: Ph.D. fellow
   blank: true
 
+- name: Sara Vogt Bleshøy
+  #img: 
+  #linkedin: frank-høgh-schulz-884719b1
+  #orcid: 0000-0002-0118-4388
+  desc: Ph.D. Fellow
+  blank: true
+
 - name: Richard Michael
   #img: /frank.jpg
   #linkedin: frank-høgh-schulz-884719b1
@@ -106,7 +119,7 @@
   desc: Master Student
   blank: true
 
-- name: Steen Bender
+- name: Steen W. Bender
   desc: Master Student
   img: /STEEEEEEEEEEN1.jpg
   blank: true
@@ -119,13 +132,6 @@
 - name: Marcus Winther Dreisler
   desc: Master Student
   img: /Marcus1.jpg
-  blank: true
-
-- name: Sara Vogt Bleshøy
-  #img: 
-  #linkedin: frank-høgh-schulz-884719b1
-  #orcid: 0000-0002-0118-4388
-  desc: Master Student
   blank: true
 
 - name: Andreas Malthe Faber
