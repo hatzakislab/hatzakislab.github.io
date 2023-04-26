@@ -5,18 +5,25 @@
   pages: 
   year: 2022
 
-- title: Single Particle Diffusional Fingerprinting A machine learning framework for quantitative analysis of heterogeneous diffusion
-  doi: 10.1073/pnas.2104624118
-  author: Pinholt, H. D., et al.
-  journal: PNAS
-  pages: 31, 118
-  year: 2021
+- title: The dopamine transporter antiports potassium to increase the uptake of dopamine
+  doi: 10.1038/s41467-022-30154-5
+  author: Schmidt, S. G., et al.
+  journal: Nature Communications
+  pages: 13, 2446
+  year: 2023
 
 - title: Biased cytochrome P450-mediated metabolism via small-molecule ligands binding P450 oxidoreductase
   doi: 10.1038/s41467-021-22562-w
   author: Jensen, S. B., et al.
   journal: Nature Communications
   pages: 12, 2260
+  year: 2021
+
+- title: Single Particle Diffusional Fingerprinting A machine learning framework for quantitative analysis of heterogeneous diffusion
+  doi: 10.1073/pnas.2104624118
+  author: Pinholt, H. D., et al.
+  journal: PNAS
+  pages: 31, 118
   year: 2021
 
 - title: DeepFRET, a software for rapid and automated single-molecule FRET data classification using deep learning
@@ -40,12 +47,12 @@
   pages: 175, 1856–1871.e21
   year: 2018
   
-- title: Single-Molecule Study of Thermomyces lanuginosus Lipase in a Detergency Application System Reveals Diffusion Pattern Remodeling by Surfactants and Calcium
-  doi: 10.1021/acsami.1c08809
-  author: Moses, M. E., et al.
-  journal: ACS Appl. Mater. Interfaces
-  pages: 13, 28
-  year: 2021
+# - title: Single-Molecule Study of Thermomyces lanuginosus Lipase in a Detergency Application System Reveals Diffusion Pattern Remodeling by Surfactants and Calcium
+#   doi: 10.1021/acsami.1c08809
+#   author: Moses, M. E., et al.
+#   journal: ACS Appl. Mater. Interfaces
+#   pages: 13, 28
+#   year: 2021
 
 
 # - doi: 10.1038/s41598-019-52539-1
