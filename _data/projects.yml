@@ -77,7 +77,7 @@
   extra: false
 
 - order: 005
-  id: "project4"
+  id: "project5"
   name: "Accelerating biological discoveries by machine learning"
   photo: "ML" #language=HTML
   description: "Advanced microscopic techniques produce vast amounts of unstructured data the analysis of which by conventional methodologies is tedious , time consuming and may be biased by unconscious biases. We have been developing agnostic quantitative and automated analysis methodologies based on machine learning to treat classify and annotate biological behaviors . The toolboxes offer rapid analysis often accelerated by 3-6 orders of magnitude, help eliminating potential human biases and provide statistical insights on biological parameters that underlie and control protein function and cellular responses.
