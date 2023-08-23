@@ -106,7 +106,7 @@
   blank: true
 
 - name: Simos Dagialis
-  img: /simos
+  img: /simos.jpg
   desc: Erasmus+ Fellow
   blank: true
 
@@ -115,7 +115,7 @@
   desc: Erasmus+ Fellow
   blank: true
 
-- name: Despoina a Moraiti
+- name: Despoina Moraiti
   img: /Despoina.jpg
   desc: Erasmus+ Fellow
   blank: true
@@ -141,7 +141,7 @@
 
 - name: Emily Winther Sørensen
   img: /Emily1.jpg
-  desc: Master Student
+  desc: Ph.D. Fellow
   blank: true
 
 - name: Marcus Winther Dreisler
@@ -151,7 +151,7 @@
 
 - name: Andreas Malthe Faber
   img: /andreas-faber1.jpg
-  desc: Master Student
+  desc: Software Engineer
   blank: true
 
 - name: Stavroula - Valia Margaritaki
@@ -166,13 +166,13 @@
 
 - name: Harris
   twitter: 
-  img: /.jpg
+  #img: /.jpg
   desc: Master Student
   blank: true
 
 - name: Theofannis
   twitter: 
-  img: /.jpg
+  #img: /.jpg
   desc: Erasmus intern
   blank: true
 
