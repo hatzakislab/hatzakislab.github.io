@@ -86,14 +86,14 @@
   blank: true
 
 - name: Sara Vogt Bleshøy
-  #img: 
+  img: /figure.jpg 
   #linkedin: frank-høgh-schulz-884719b1
   #orcid: 0000-0002-0118-4388
   desc: Ph.D. Fellow
   blank: true
 
 - name: Richard Michael
-  #img: /frank.jpg
+  img: /figure.jpg
   #linkedin: frank-høgh-schulz-884719b1
   #orcid: 0000-0002-0118-4388
   desc: Ph.D. fellow (Main supervisor Wouter Boomsma)
@@ -136,9 +136,9 @@
 
 - name: Thanos Oikonomou
   desc: Master Student
-  #img:
+  img: /figure.jpg
   blank: true
-  
+
 - name: Marcus Winther Dreisler
   desc: Master Student
   img: /Marcus1.jpg
@@ -156,13 +156,13 @@
 
 - name: Harris Sideris
   twitter: 
-  #img: /.jpg
+  img: /figure.jpg
   desc: Master Student
   blank: true
 
 - name: Theofannis
   twitter: 
-  #img: /.jpg
+  img: /figure.jpg
   desc: Erasmus+ Fellow
   blank: true
 
@@ -199,7 +199,7 @@
   blank: true
 
 - name: Freya Björk Reinhold
-  #img: 
+  img: /figure.jpg 
   #linkedin: abigail-watkins-ba30a422a
   desc: Bachelor Student
   blank: true
