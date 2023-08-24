@@ -134,6 +134,11 @@
   img: /STEEEEEEEEEEN1.jpg
   blank: true
 
+- name: Thanos Oikonomou
+  desc: Master Student
+  #img:
+  blank: true
+  
 - name: Marcus Winther Dreisler
   desc: Master Student
   img: /Marcus1.jpg
@@ -149,7 +154,7 @@
   desc: Master Student
   blank: true
 
-- name: Harris
+- name: Harris Sideris
   twitter: 
   #img: /.jpg
   desc: Master Student
