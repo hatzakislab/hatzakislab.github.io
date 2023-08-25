@@ -149,6 +149,11 @@
   desc: Master Student
   blank: true
 
+- name: Ina Surkamp
+  img: /newfigure.jpg
+  desc: Master Student
+  blank: true   
+
 - name: Kian Kirchof
   img: /kian-kirchoff1.jpg
   desc: Master Student
