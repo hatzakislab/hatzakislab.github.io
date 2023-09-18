@@ -154,6 +154,11 @@
   desc: Master Student
   blank: true   
 
+- name: Xenia Quaas
+  img: /Xenia.jpg
+  desc: Master Student
+  blank: true   
+
 - name: Kian Kirchof
   img: /kian-kirchoff1.jpg
   desc: Master Student
