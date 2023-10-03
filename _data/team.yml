@@ -170,11 +170,17 @@
   desc: Master Student
   blank: true
 
-- name: Theofannis
-  twitter: 
-  img: /newfigure.jpg
-  desc: Erasmus+ Fellow
+- name: Guangze Li
+  twitter: Guangze
+  img: /Guangze.jpg
+  desc: Master Student
+  linkedin: guangze-li-066873229
   blank: true
+
+-name: Alexis Kouvelas
+ img: /newfigure.jpg
+ desc: Erasmus+ Fellow
+ blank: true
 
 - name: Simos Dagialis
   img: /simos.jpg
@@ -191,16 +197,15 @@
   desc: Erasmus+ Fellow
   blank: true
 
+- name: Theofannis
+  twitter: 
+  img: /newfigure.jpg
+  desc: Erasmus+ Fellow
+  blank: true
+
 - name: Emilie Elisabeth Milan Nielsen
   img: /emilie-nielsen1.jpg
   desc: Bachelor Student
-  blank: true
-
-- name: Guangze Li
-  twitter: Guangze
-  img: /Guangze.jpg
-  desc: Master Student
-  linkedin: guangze-li-066873229
   blank: true
 
 - name: Emily She
