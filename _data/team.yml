@@ -28,6 +28,11 @@
   linkedin: gareth-doherty-400ba720a
   blank: true
 
+- name: Artu Breuer
+  img: /newfigure.jpg 
+  desc: Post-doctoral fellow
+  blank: true
+
 - name: Mikhail Baibakov
   img: /mikhail.jpg
   desc: Post-doctoral fellow
@@ -159,6 +164,11 @@
   desc: Master Student
   blank: true   
 
+- name: Emilie Elisabeth Milan Nielsen
+  img: /emilie-nielsen1.jpg
+  desc: Master Student
+  blank: true
+
 - name: Kian Kirchof
   img: /kian-kirchoff1.jpg
   desc: Master Student
@@ -203,8 +213,8 @@
   desc: Erasmus+ Fellow
   blank: true
 
-- name: Emilie Elisabeth Milan Nielsen
-  img: /emilie-nielsen1.jpg
+- name: Molly Jean Maud Turner
+  img: /newfigure.jpg
   desc: Bachelor Student
   blank: true
 
