@@ -45,33 +45,6 @@
   desc: Post-doctoral fellow
   blank: true
 
-- #name: Mikhail Baibakov
-  #img: /mikhail.jpg
-  #desc: Post-doctoral fellow
-  #linkedin: gareth-doherty-400ba720a
-  #blank: true
-
-- #name: Matias E. Moses
-  #linkedin: matias-emil-moses
-  #img: /matias-moses.jpg
-  #orcid: 0000-0001-8776-5302
-  #desc: Industrial postdoc, Novozymes
-  #blank: true
-
-- #name: Søren S.-R. Bohr
-  #img: /soren-nielsen.jpg
-  #desc: Ph.D. Fellow
-  #email: soeren@chem.ku.dk
-  #linkedin: søren-s-r-bohr-541a1a87
-  #orcid: 0000-0002-8107-2465
-
-- #name: Camilla D. Thorlaksen
-  #linkedin: camilla-dyngbo-thorlaksen-89450913a
-  #img: /camilla-dyngbo.jpg
-  #orcid: 0000-0002-5492-3818
-  #desc: Ph.D. fellow, Novo Nordisk STAR programme
-  #blank: true
-
 - name: Jacob Kæstel-Hansen
   linkedin: jacob-kæstel-hansen-502008115
   img: /jakob-hansen.jpg
@@ -126,18 +99,18 @@
   desc: Lead Software Engineer
   blank: true
 
-- #name: Andreas Malthe Faber
+#- name: Andreas Malthe Faber
   #img: /andreas-faber1.jpg
   #desc: Lead Software Engineer
   #blank: true
 
-- #name: Annette Juma
+#- name: Annette Juma
   #img: /annette-juma.jpg
   #desc: Research Assistant
   #linkedin: annette-juma-nielsen-12397b133
   #blank: true
 
-- #name: Henrik Pinholt
+#- name: Henrik Pinholt
   #linkedin: /henrik-pinholt-3bbb04105
   #img: /henrik-pinholt.jpg
   #desc: Master Student
@@ -145,7 +118,7 @@
   #orcid: 0000-0002-4345-5334
   #blank: true
 
-- #name: Sabrina Gennis
+#- name: Sabrina Gennis
   #img: /sabrina.jpg
   #linkedin: sabrina-gennis-94b172188
   #desc: Master Student
@@ -186,7 +159,7 @@
   desc: Master Student
   blank: true
 
-- #name: Kian Kirchof
+#- name: Kian Kirchof
   #img: /kian-kirchoff1.jpg
   #desc: Master Student
   #blank: true
@@ -246,6 +219,32 @@
   desc: Bachelor Student
   blank: true
 
+#- #name: Mikhail Baibakov
+#  #img: /mikhail.jpg
+#  #desc: Post-doctoral fellow
+#  #linkedin: gareth-doherty-400ba720a
+#  #blank: true
+
+#- #name: Matias E. Moses
+#  #linkedin: matias-emil-moses
+#  #img: /matias-moses.jpg
+#  #orcid: 0000-0001-8776-5302
+#  #desc: Industrial postdoc, Novozymes
+#  #blank: true
+
+#- name: Søren S.-R. Bohr
+#  img: /soren-nielsen.jpg
+#  desc: Ph.D. Fellow
+#  email: soeren@chem.ku.dk
+#  linkedin: søren-s-r-bohr-541a1a87
+#  orcid: 0000-0002-8107-2465
+
+# -name: Camilla D. Thorlaksen
+# linkedin: camilla-dyngbo-thorlaksen-89450913a
+# img: /camilla-dyngbo.jpg
+# orcid: 0000-0002-5492-3818
+#  #desc: Ph.D. fellow, Novo Nordisk STAR programme
+#  #blank: true
 
 # - name: Malamatenia Papavasileiou
 #   img: /tenia.jpg
