@@ -31,24 +31,24 @@
 
 - name: Errika Voutyritsa
   img: /Errika.jpg
-  desc: Post-doctoral fellow
+  desc: Post-doctoral Fellow
   blank: true
 
 - name: Gareth Gerald Doherty
   img: /gareth.jpg
-  desc: Joint Post-doctoral fellow with Prof. Knud Jørgen Jensen
+  desc: Joint Post-doctoral Fellow with Prof. Knud Jørgen Jensen
   linkedin: gareth-doherty-400ba720a
   blank: true
 
 - name: Artu Breuer
   img: /newfigure.jpg 
-  desc: Post-doctoral fellow
+  desc: Post-doctoral Fellow
   blank: true
 
 - name: Jacob Kæstel-Hansen
   linkedin: jacob-kæstel-hansen-502008115
   img: /jakob-hansen.jpg
-  desc: Ph.D. fellow
+  desc: Ph.D. Fellow
   email: jkh@chem.ku.dk
   twitter: KaestelHansen
   orcid: 0000-0001-7365-9664
@@ -57,13 +57,13 @@
 - name: Ge Huang
   linkedin: 
   img: /huang1.jpg
-  desc: Ph.D. fellow
+  desc: Ph.D. Fellow
   blank: true
 
 - name: Freja S.-R. Bohr
   linkedin: freja-bohr-610100139
   img: /freja-bohr.jpg
-  desc: Ph.D. fellow
+  desc: Ph.D. Fellow
   blank: true
 
 - name: Frank Høgh Schulz
@@ -72,7 +72,7 @@
   orcid: 0000-0002-0118-4388
   email: fhs@chem.ku.dk
   twitter: frnkschlz
-  desc: Ph.D. fellow
+  desc: Ph.D. Fellow
   blank: true
 
 - name: Sara Vogt Bleshøy
@@ -86,7 +86,7 @@
   img: /newfigure.jpg
   #linkedin: frank-høgh-schulz-884719b1
   #orcid: 0000-0002-0118-4388
-  desc: Ph.D. fellow (Main supervisor Wouter Boomsma)
+  desc: Ph.D. Fellow (Main supervisor Wouter Boomsma)
   blank: true
 
 - name: Emily Winther Sørensen
