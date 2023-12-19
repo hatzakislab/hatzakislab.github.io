@@ -42,6 +42,7 @@
 
 - name: Artu Breuer
   img: /newfigure.jpg 
+  email: artu.breuer@chem.ku.dk
   desc: Post-doctoral Fellow
   blank: true
 
@@ -62,6 +63,7 @@
 
 - name: Freja S.-R. Bohr
   linkedin: freja-bohr-610100139
+  email: bohr@chem.ku.dk
   img: /freja-bohr.jpg
   desc: Ph.D. Fellow
   blank: true
@@ -76,7 +78,8 @@
   blank: true
 
 - name: Sara Vogt Bleshøy
-  img: /sara3.jpg 
+  img: /sara3.jpg
+  email: svb@chem.ku.dk 
   #linkedin: frank-høgh-schulz-884719b1
   #orcid: 0000-0002-0118-4388
   desc: Ph.D. Fellow
@@ -91,6 +94,7 @@
 
 - name: Emily Winther Sørensen
   img: /Emily1.jpg
+  email: es@chem.ku.dk
   desc: Ph.D. Fellow
   blank: true
 
