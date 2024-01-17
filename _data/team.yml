@@ -18,7 +18,7 @@
   blank: true
 
 - name: Aimilia Nousi
-  img: /newfigure.jpg
+  img: /aimilia.jpg
   email: ain@chem.ku.dk
   desc: Facility Manager
   blank: true
@@ -98,9 +98,9 @@
   desc: Ph.D. Fellow
   blank: true
 
-- name: Andreas Malthe Faber
-  img: /andreas-faber1.jpg
-  desc: Lead Software Engineer
+- name: Konstantinos Tsolakidis
+  img: /kostas.jpg
+  desc: Software Engineer
   blank: true
 
 #- name: Andreas Malthe Faber
@@ -135,7 +135,7 @@
 
 - name: Thanos Oikonomou
   desc: Master Student
-  img: /newfigure.jpg
+  img: /thanos.jpg
   blank: true
 
 - name: Marcus Winther Dreisler
