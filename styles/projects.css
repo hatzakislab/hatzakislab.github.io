@@ -1,0 +1,314 @@
+
+#projects{
+    height:auto;
+    background-color: rgb(23, 22, 22);
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, 1)), url('../images/projects.png');
+    background-attachment: fixed;
+    background-size: repeat;
+    padding-bottom: 15rem;
+}
+
+
+
+
+#explore--our--projects {
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10rem;
+    letter-spacing: 5px;
+    color: rgb(228, 228, 228);
+    font-weight: 300;
+}
+
+#projects--container {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+  
+
+}
+
+.project--card {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgb(28, 28, 28,.3);
+    padding: 2rem;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 2rem;
+
+
+
+
+}
+
+
+.project--card > img {
+    width: 33.33%;
+    height: auto;
+    cursor: pointer;
+    display: flex;
+    object-fit: cover;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 0rem;
+    font-family: 'Sarabun', sans-serif;
+    background-size: cover;
+    box-sizing: border-box;
+    margin: auto;
+
+}
+
+
+.info{
+    display: flex;
+    flex-direction: column;
+    color: #eaeaea;
+    text-align: justify;
+    width: 30%;
+}
+
+.info h4{
+    text-align: justify;
+}
+
+h4.project--title{
+    font-size: 1.2rem;
+    text-align: left;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h4.publications--title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 500;
+
+}
+
+p.project--desc{
+    color: rgb(149, 149, 149);
+    margin: 0;
+    font-size: 16px;
+    list-style-type: none;
+    font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+
+}
+
+li{
+    color: rgb(149, 149, 149);
+    margin: 0;
+}
+
+
+.publications{
+    display: flex;
+    flex-direction: column;
+    color: #eaeaea;
+    text-align: justify;
+    width: 30%;
+    padding: 0 1rem;
+
+}
+
+.publications > h4{
+    text-align: center;
+}
+
+
+#extra--fret{
+    width: 120%;
+    margin: auto;
+    margin-left: -3rem;
+}
+
+
+.publications  span{
+    font-style: oblique;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+    #projects{
+        height:auto;
+        background-color: rgb(23, 22, 22);
+        background: linear-gradient(rgba(0, 0, 0, .77), rgba(0, 0, 0, 1)), url('../images/projects.png');
+        background-attachment: fixed;
+        background-size: repeat;
+        padding-bottom: 15rem;
+    }
+    
+    
+    
+    
+    #explore--our--projects {
+        font-size: 2rem;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 5rem;
+        width: 80%;
+        letter-spacing: 3px;
+        color: rgb(228, 228, 228);
+        font-weight: 300;
+    }
+    
+    #projects--container {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+      
+    
+    }
+    
+    .project--card {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        background-color: rgb(28, 28, 28,.3);
+        padding: 2rem;
+        font-family: 'Open Sans', sans-serif;
+        margin-top: 2rem;
+    
+    
+    
+    
+    }
+    
+    
+    .project--card > img {
+        width: 110%;
+        height: auto;
+        cursor: pointer;
+        display: flex;
+        object-fit: contain;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        margin-top: -2rem;
+        font-family: 'Sarabun', sans-serif;
+        background-size: cover;
+        box-sizing: border-box;
+        margin: auto;
+    
+    }
+    
+    
+    .info{
+        display: flex;
+        flex-direction: column;
+        color: #eaeaea;
+        text-align: justify;
+        width: 100%;
+    }
+    
+    .info h4{
+        text-align: justify;
+    }
+    
+    h4.project--title{
+        font-size: 1rem;
+        text-align: left;
+        font-weight: 400;
+        font-family: 'Poppins', sans-serif;
+    }
+    
+    h4.publications--title{
+        font-family: 'Poppins', sans-serif;
+        font-size: 1rem;
+        font-weight: 400;
+        text-align: left;
+    
+    }
+    
+    p.project--desc{
+        color: rgb(149, 149, 149);
+        margin: 0;
+        font-size: 14px;
+        list-style-type: none;
+        font-family: 'Open Sans', sans-serif;
+        text-align: justify;
+    
+    }
+
+    ul{
+        list-style-type: none;
+        text-align: justify;
+        padding: 0;
+    }
+    
+    li{
+        color: rgb(149, 149, 149);
+        margin: 0;
+        font-size: 14px;
+    }
+    
+    
+    .publications{
+        display: flex;
+        flex-direction: column;
+        color: #eaeaea;
+        text-align: justify;
+        width: 100%;
+        padding: 0rem;
+    
+    }
+    
+    .publications > h4{
+        text-align: center;
+    }
+    
+    
+    #extra--fret{
+        width: 120%;
+        margin: auto;
+        margin-left: -3rem;
+    }
+    
+    
+    .publications  span{
+        font-style: oblique;
+    }
+    
+    
+
+
+
+
+
+
+}

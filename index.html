@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/main.css">
+    <link rel="stylesheet" href="./styles/header.css">
+    <link rel="stylesheet" href="./styles/home.css">
+    <link rel="stylesheet" href="./styles/projects.css">
+    <link rel="stylesheet" href="./styles/footer.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cormorant:wght@300;500&family=Great+Vibes&family=Montserrat:wght@400;500&family=Open+Sans:wght@300;400&family=Roboto+Mono:ital,wght@0,400;1,500&family=Roboto:wght@700&family=Russo+One&family=Sarabun:wght@200&family=Signika+Negative&family=Varela+Round&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@200;400;600&display=swap"
+        rel="stylesheet">
+
+    <title>Hatzakis Lab</title>
+    <!-- <script defer src="./scripts/introSlidesFunctionallity.js"></script> -->
+    <script defer type="module" src="./scripts/scroller.js"></script>
+    <script defer type="module" src="./scripts/responsive.js"></script>
+    <script defer src="https://kit.fontawesome.com/005804bb5d.js" crossorigin="anonymous"></script>
+
+
+
+</head>
+
+<body>
+
+    <header id="header">
+
+        <div id="wrapper">
+            <div id="logo" onclick="window.location.href='./index.html'">
+                <div id="logo--logo">
+                    <img src="./images/newlogo.png" alt="logo">
+                </div>
+                <div id="logo--text">
+                    <h3 id="hatzakis--lab">Hatzakis Lab</h3>
+                </div>
+            </div>
+
+
+
+
+            <div id="menu--bar">
+                <div class="bar"></div>
+                <div class="bar"></div>
+                <div class="bar"></div>
+            </div>
+        </div>
+
+
+        <ul>
+            <li><a href="./index.html" class="selected">Home</a></li>
+            <li><a href="./pages/projects.html">Projects</a></li>
+            <li><a href="./pages/publications.html">Publications</a></li>
+            <li><a href="./pages/members.html">Members</a></li>
+            <li><a href="./pages/software.html">Software</a></li>
+            <li><a href="./pages/gallery.html">Gallery</a></li>
+            <li><a href="./pages/news.html">News</a></li>
+            <li><a href="./pages/contact.html">Contact</a></li>
+
+        </ul>
+
+    </header>
+
+    <section id="home">
+
+        <div id="movies">
+
+            <video id="purple" loop autoplay muted>
+                <source src="./videos/mov1.mp4" type="video/mp4">
+            </video>
+        </div>
+
+
+
+        <div class="movies--and--arrows ">
+
+            <div id="in--video--logo">
+                <div id="logo--image--main">
+                    <img src="./images/newlogo.png" alt="logo">
+
+                </div>
+
+                <div id="logo--text--main">
+                    <h3>Hatzakis Lab</h3>
+                    <h2>Single Molecule | Cell Biophysics</h2>
+                </div>
+            </div>
+
+            <button id="learn--more" onclick="window.location.href='#mission'"><i
+                    class="fa-solid fa-arrow-down"></i></button>
+
+        </div>
+
+
+        <div id="mission">
+            <div id="our--mission">
+                <h2>Our Vision</h2>
+                <p>Our vision is to understand biology one molecule at a time. We strive to provide a dynamic and
+                    quantitative understanding in structural and cell biology and to utilize this information to control
+                    aberrant biological function. We approach this formidable challenge with an eclectic mix of
+                    quantitative single particle microscopy techniques and machine learning analysis.</p>
+            </div>
+            <img class="hidden" id="mission--image" src="./images/gallery/group.jpg">
+        </div>
+
+
+        <div id="whoweare">
+            <div id="whoweare--text" class="hidden">
+                <h2>Who we are</h2>
+                <p>The main objective of my group is to augment our understanding on the molecular mechanisms that
+                    underlie and control vital cellular functions. We approach this challenge by deciphering the dynamic
+                    interplay between the function and spatiotemporal localization of biomolecules (virus, dug
+                    nanocarrier, oligonucleotides or protein assemblies) and how this correlate to cellular and
+                    organismal response. We utilize an eclectic mix of single particle techniques that promises to shed
+                    light on the interplays between the behaviour (dynamics, function and localisation) of biomolecules
+                    and high throughput single particle screening methodologies to decipher oligonucleotide interactions
+                    with membranes.
+                    <br>
+                    Recognizing that 4D imaging generates terabytes of data sets, that are hard to be quantitatively
+                    evaluated by current semi-manual analysis, we have developed toolboxes based on machine learning to
+                    rapidly and reliably, analyze the wealth of novel microscopy data we, and others, produce. Our
+                    all-inclusive softwares for windows and macs, offer accelerate by 5 orders of magnitude transition
+                    from raw data to quantitative analysis. These combined methodologies bridge 4D imaging with
+                    sophisticate image analysis required for delving into the era of 4D cell and tissue imaging.</p>
+            </div>
+
+        </div>
+
+
+
+        <div id="funding">
+            <div class="fund">
+                <p>
+
+                    Our <br> Funding
+                </p>
+            </div>
+            <div class="fund hidden">
+                <img src="./images/fundings/novonordisk.png">
+            </div>
+            <div class="fund hidden">
+                <img src="./images/fundings/innovation.png">
+            </div>
+            <div class="fund hidden">
+                <img src="./images/fundings/novozymes.png">
+            </div>
+            <div class="fund hidden">
+                <img src="./images/fundings/lundbeck.png">
+            </div>
+            <div class="fund hidden">
+                <img src="./images/fundings/mariecurie.png">
+            </div>
+            <div class="fund hidden">
+                <img src="./images/fundings/carlsberg.png">
+            </div>
+            <div class="fund hidden">
+                <img src="./images/fundings/villum.png">
+            </div>
+
+
+        </div>
+
+
+        <div id="footer">
+            <div id="lab--info">
+                <img src="./images/newlogo.png">
+                <h3>Hatzakis Lab</h3>
+                <p>Thorvaldsensvej 40</p>
+                <p>Frederiksberg 1871</p>
+            </div>
+            <div id="map">
+
+                <a href="https://maps.app.goo.gl/Mz6uHgJNsEi35NJK7" target="_blank"><img
+                        src="./images/mapslocation.png"></a>
+
+            </div>
+            <div id="uni--logo">
+                <img src="./images/ku_long.png">
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>

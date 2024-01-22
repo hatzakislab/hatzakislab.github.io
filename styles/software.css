@@ -1,0 +1,214 @@
+#software{
+    width: 100%;
+    overflow: visible;
+    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, 1)), url('../images/software3.png');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+
+}
+
+
+
+
+#our--software{
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10rem;
+    letter-spacing: 5px;
+    color: rgb(228, 228, 228);
+    font-weight: 300;
+    margin-bottom: 0;
+    
+}
+
+
+#software--container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Cormorant', serif;
+    border-radius: 1rem;
+    padding: 2rem;
+
+
+}
+
+
+
+.software--card{
+    width: 35%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 0rem;
+    padding: 3rem 1rem;
+    background-color: rgb(28, 28, 28,.3);
+    transform: scale(.95);
+}
+    
+
+.software--card img{
+  width: 15rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  height: 10rem;
+  border-radius: 0rem;
+  background-color: white;
+  border-radius: .5rem;
+}
+
+.software--card .title{
+    width: 80%;
+    margin-top: 1rem;
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    color: rgb(224, 224, 224);
+
+}
+
+
+.software--card .text{
+    width: 80%;
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(126, 126, 126);
+    text-align: justify;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+
+    #software{
+        width: 100%;
+        overflow: visible;
+        background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, 1)), url('../images/software3.png');
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    
+    
+    }
+    
+    
+    
+    
+    #our--software{
+        font-size: 2rem;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 5rem;
+        letter-spacing: 5px;
+        color: rgb(228, 228, 228);
+        font-weight: 300;
+        margin-bottom: 0;
+        
+    }
+
+    #software--container{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Cormorant', serif;
+        border-radius: 1rem;
+        padding: auto;
+    
+    
+    }
+    
+    
+    .software--card{
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 0rem;
+        padding: 3rem 1rem;
+        font-family: 'Montserrat', sans-serif;
+        background-color: rgb(28, 28, 28,.3);
+    }
+
+    
+    .software--card img{
+      width: 15rem;
+      margin-top: 2rem;
+      margin-bottom: 2rem;
+      height: 10rem;
+      border-radius: 0rem;
+      background-color: white;
+      border-radius: .5rem;
+    }
+    
+    .software--card .title{
+        width: 80%;
+        margin-top: 1rem;
+        font-size: 1.5rem;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 300;
+        color: rgb(224, 224, 224);
+    
+    }
+    
+    
+    .software--card .text{
+        width: 80%;
+        margin: 0;
+        font-size: 16px;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        color: rgb(126, 126, 126);
+        text-align: justify;
+    }
+    
+    
+
+    
+    
+
+
+}

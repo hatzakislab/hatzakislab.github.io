@@ -1,0 +1,131 @@
+#funding{
+    background-color: #eaeaea;
+    height: 100vh;
+
+}
+
+
+
+#our--funding{
+    font-size: 3rem;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 9rem;
+    letter-spacing: 5px;
+}
+
+
+#fundings--container{
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
+    background-color: #ffffff;
+    padding: 2rem;
+    box-shadow: 2px 2px 7px rgb(175, 175, 175);
+
+}
+
+.funding{
+    align-self: center;
+    justify-self: center;
+    border-radius: 5rem;
+    background-color:white;
+    margin: 1rem;
+    
+
+
+}
+
+
+.funding img{
+
+    width: 17rem;
+    margin: 1rem 5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+
+    #funding{
+        background-color: #eaeaea;
+        height: 100vh;
+    
+    }
+    
+    
+    
+    #our--funding{
+        font-size: 1.5rem;
+        font-family: 'Montserrat', sans-serif;
+        margin-top: 5rem;
+        letter-spacing: 5px;
+    }
+    
+    
+    #fundings--container{
+        width: 80%;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        padding: 1rem;
+        box-shadow: 2px 2px 7px rgb(175, 175, 175);
+    
+    }
+    
+    .funding{
+        align-self: center;
+        justify-self: center;
+        border-radius: 5rem;
+        background-color:white;
+        margin: 1rem;
+        
+    
+    
+    }
+
+    .funding img{
+
+        width: 5rem;
+        margin: 1rem 1rem;
+    }
+    
+    
+
+
+}

@@ -1,0 +1,314 @@
+#publications{
+    width: 100%;
+    /* height: 100vh; */
+    overflow: visible;
+    background: linear-gradient(rgba(0, 0, 0, .8), rgba(0, 0, 0, 1)), url('../images/publications.png');
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    overflow-y: hidden;
+
+
+}
+
+
+
+
+
+#our--publications{
+    font-size: 3rem;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 10rem;
+    letter-spacing: 5px;
+    color: rgb(228, 228, 228);
+    font-weight: 300;
+    margin-bottom: 0;
+}
+
+#our--publications--text{
+
+    font-family: 'Open Sans', sans-serif;
+    letter-spacing: 1px;
+    font-size: 18px;
+    font-weight: 300;
+    color: rgb(168, 168, 168);
+    width: 40%;
+    margin: 2rem;
+}
+
+
+#publications--container{
+    z-index: 1;
+    padding: 3rem;
+    box-sizing: border-box;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient( rgba(255, 255, 255, .97) 60%,rgba(29, 29, 29, .95));
+    background-attachment: fixed !important;
+    background-color: rgb(255, 222, 222);
+    border-radius: 1rem;
+    
+
+}
+
+.publication--title{
+    height:4rem;
+
+}
+
+
+
+ .publication--card > a{
+    height:4rem;
+    text-decoration: none;
+    margin-top: 0;
+    color: black;
+    cursor: pointer;
+    
+} 
+
+.publication--card{
+
+    padding: 1rem; 
+    margin: 2rem;
+    width: 22rem;
+    height: auto;
+    border-radius: 1.5rem;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+    
+
+}
+
+.publication--card > a{
+    font-size: 1rem;
+    font-weight: 500;
+    margin: 0;
+
+}
+
+.publication--card > p {
+    margin: 0;
+    margin-block-end: 0em;
+}
+
+
+
+.publication--card a:hover{
+    transform: scale(1.02);
+    transition: .3s ease-in-out;
+    text-decoration: underline;
+}
+
+.journal{
+    font-weight: 500;
+    margin-top: 0rem;
+    font-size: 1.1rem;
+    color: rgb(31, 31, 31);
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    letter-spacing: 2px;
+    font-style: italic;
+    font-weight: 900;
+
+}
+
+
+.publication--card img{
+
+    margin: 0rem;
+    width: 5rem;
+    margin-top: 1.5rem;
+    border-radius: 50%;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 767px) {
+
+    #publications{
+        width: 100%;
+        /* height: 100vh; */
+        overflow: visible;
+        background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, 1)), url('../images/publications.png');
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    
+    
+    }
+    
+    
+    
+    #our--publications{
+        font-size: 2rem;
+        font-family: 'Poppins', sans-serif;
+        margin-top: 5rem;
+        letter-spacing: 5px;
+        color: rgb(228, 228, 228);
+        font-weight: 300;
+        margin-bottom: 0;
+    }
+    
+    #our--publications--text{
+    
+        font-family: 'Open Sans', sans-serif;
+        letter-spacing: 1px;
+        font-size: 14px;
+        font-weight: 300;
+        color: rgb(168, 168, 168);
+        width: 60%;
+        margin: 2rem;
+    }
+    
+    
+    #publications--container{
+        padding:0rem;
+        box-sizing: border-box;
+        width: 80%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        background: linear-gradient( 180deg,rgba(255, 255, 255, .97) 60%,rgba(29, 29, 29, .95)), url('../images/publications.png');
+        background-attachment: fixed;
+        background-color: rgb(255, 222, 222);
+        border-radius: 1rem;
+        
+    
+    }
+    
+    .publication--title{
+        height:4rem;
+    
+    }
+    
+    
+    
+     .publication--card > a{
+        height:4rem;
+        text-decoration: none;
+        margin-top: 0;
+        color: black;
+        cursor: pointer;
+        
+    } 
+    
+    .publication--card{
+    
+        padding: 1rem; 
+        margin: 2rem;
+        width: 80%;
+        height: auto;
+        border-radius: 1.5rem;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 300;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        font-size: .7rem;
+    
+        
+    
+    }
+    
+    .publication--card > a{
+        font-size: .9rem;
+        font-weight: 500;
+        margin: 0;
+    
+    }
+
+    .rest--info{
+        font-size: 14px;
+    }
+    
+    .publication--card > p {
+        margin: 0;
+        margin-block-end: 0em;
+        font-size: 1rem;
+    }
+    
+    
+    
+    .publication--card a:hover{
+        transform: scale(1.02);
+        transition: .3s ease-in-out;
+        text-decoration: underline;
+    }
+    
+    p.journal{
+        font-weight: 500;
+        margin-top: 0rem;
+        color: rgb(31, 31, 31);
+        margin: 0;
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        letter-spacing: 2px;
+        font-style: italic;
+    
+    }
+    
+    
+    .publication--card img{
+    
+        margin: 0rem;
+        width: 4rem;
+        margin-top: 2rem;
+        border-radius: 50%;
+    
+    
+    
+    }
+
+
+
+
+    
+
+
+}
