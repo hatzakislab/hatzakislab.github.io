@@ -27,7 +27,7 @@ export const news = [
 
   {
     date: 'September 2023',
-    image: 'xenia.jpg',
+    image: 'Xenia.jpg',
     title: "Welcome Xenia!",
     text: "Welcome to the team, Xenia! Excited to have you here from Heidelberg University for your master's exchange.",
   },

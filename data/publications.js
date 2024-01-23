@@ -16,7 +16,7 @@ export const publications = [
       author: "Schmidt, S. G., et al.",
       journal: "Nature Communications",
       pages: "13, 2446",
-      year: 2023,
+      year: 2022,
       link: "https://www.nature.com/articles/s41467-022-30154-5"
   },
   {
